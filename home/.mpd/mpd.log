@@ -1,0 +1,1353 @@
+May 29 13:22 : exception: Failed to open '/home/nihil/.mpd/mpdstate': No such file or directory
+May 29 13:22 : update: added /Desert Music - Ethnic & Deep House Mix 2023 [Vol.17].mp3
+May 29 13:48 : update: added Playlists/icecube/Ice Cube - You Know How We Do It.mp3
+May 29 13:48 : update: added Playlists/icecube/Ice Cube - Gangsta Rap Made Me Do It  (DIRTY).mp3
+May 29 13:48 : update: added Playlists/icecube/Ice Cube - It Was A Good Day.mp3
+May 29 13:48 : update: added Playlists/icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3
+May 29 13:48 : update: added Playlists/drake/DJ Khaled ft. Drake - POPSTAR (Official Music Video - Starring Justin Bieber).mp3
+May 29 13:48 : update: added Playlists/drake/Drake - Hotline Bling.mp3
+May 29 13:48 : update: added icecube/Ice Cube - You Know How We Do It.mp3
+May 29 13:48 : update: added icecube/Ice Cube - Gangsta Rap Made Me Do It  (DIRTY).mp3
+May 29 13:48 : update: added icecube/Ice Cube - It Was A Good Day.mp3
+May 29 13:48 : update: added icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3
+May 29 13:48 : update: added drake/DJ Khaled ft. Drake - POPSTAR (Official Music Video - Starring Justin Bieber).mp3
+May 29 13:48 : update: added drake/Drake - Hotline Bling.mp3
+May 29 13:56 : exception: Bad song index
+May 29 13:57 : exception: Bad song index
+May 29 13:58 : update: removing Playlists/icecube/Ice Cube - You Know How We Do It.mp3
+May 29 13:58 : update: removing Playlists/icecube/Ice Cube - It Was A Good Day.mp3
+May 29 13:58 : update: removing Playlists/icecube/Ice Cube - Gangsta Rap Made Me Do It  (DIRTY).mp3
+May 29 13:58 : update: removing Playlists/icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3
+May 29 13:58 : update: removing Playlists/drake/Drake - Hotline Bling.mp3
+May 29 13:58 : update: removing Playlists/drake/DJ Khaled ft. Drake - POPSTAR (Official Music Video - Starring Justin Bieber).mp3
+May 29 13:58 : update: removing drake/Drake - Hotline Bling.mp3
+May 29 13:58 : update: removing drake/DJ Khaled ft. Drake - POPSTAR (Official Music Video - Starring Justin Bieber).mp3
+May 29 13:58 : update: added drake/CrazyDays/DJ Khaled ft. Drake - POPSTAR (Official Music Video - Starring Justin Bieber).mp3
+May 29 13:58 : update: added drake/CrazyDays/Drake - Hotline Bling.mp3
+May 29 14:04 : player: played "icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3"
+May 29 14:06 : player: played "icecube/Ice Cube - You Know How We Do It.mp3"
+May 29 14:06 : player: played "drake/CrazyDays/Drake - Hotline Bling.mp3"
+May 29 14:26 : player: played "icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3"
+May 29 14:26 : exception: Not playing
+May 29 14:26 : exception: Not playing
+May 29 14:31 : player: played "icecube/Ice Cube - You Know How We Do It.mp3"
+May 29 14:35 : player: played "icecube/Ice Cube - You Know How We Do It.mp3"
+May 29 14:53 : player: played "icecube/Ice Cube - Gangsta Rap Made Me Do It  (DIRTY).mp3"
+May 29 14:56 : update: updating icecube/Ice Cube - You Know How We Do It.mp3
+May 29 14:56 : update: updating icecube/Ice Cube - Gangsta Rap Made Me Do It  (DIRTY).mp3
+May 29 14:56 : update: updating icecube/Ice Cube - It Was A Good Day.mp3
+May 29 14:56 : update: updating icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3
+May 29 15:09 : update: added /It's My Life.mp3
+May 29 15:09 : player: played "icecube/Ice Cube - It Was A Good Day.mp3"
+May 29 15:11 : update: updating /Desert Music - Ethnic & Deep House Mix 2023 [Vol.17].mp3
+May 29 15:11 : update: updating /It's My Life.mp3
+May 29 15:14 : update: updating /Desert Music - Ethnic & Deep House Mix 2023 [Vol.17].mp3
+May 29 15:14 : update: updating /It's My Life.mp3
+May 29 15:14 : exception: Bad playlist name
+May 29 15:14 : exception: Bad playlist name
+May 29 15:15 : exception: Bad playlist name
+May 29 15:19 : update: added /It's My Life Bon Jovi HQ.mp3
+May 29 15:19 : player: played "It's My Life Bon Jovi HQ.mp3"
+May 29 20:52 : exception: Failed to decode /home/nihil/Music/icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3; Failed to open '/home/nihil/Music/icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3': No such file or directory
+May 29 20:52 : player: played "icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3"
+May 29 20:52 : exception: Failed to decode /home/nihil/Music/icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3; Failed to open '/home/nihil/Music/icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3': No such file or directory
+May 29 23:07 : exception: Failed to decode /home/nihil/Music/It's My Life.mp3; Failed to open '/home/nihil/Music/It's My Life.mp3': No such file or directory
+May 29 23:07 : player: played "It's My Life.mp3"
+May 29 23:07 : exception: Failed to decode /home/nihil/Music/icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3; Failed to open '/home/nihil/Music/icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3': No such file or directory
+May 29 23:07 : player: played "icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3"
+May 30 06:33 : update: removing drake/CrazyDays/Drake - Hotline Bling.mp3
+May 30 06:33 : update: removing drake/CrazyDays/DJ Khaled ft. Drake - POPSTAR (Official Music Video - Starring Justin Bieber).mp3
+May 30 06:33 : update: removing It's My Life.mp3
+May 30 06:33 : update: removing It's My Life Bon Jovi HQ.mp3
+May 30 06:33 : update: removing Desert Music - Ethnic & Deep House Mix 2023 [Vol.17].mp3
+May 30 06:33 : update: removing icecube/Ice Cube - It Was A Good Day.mp3
+May 30 06:33 : update: removing icecube/Ice Cube - You Know How We Do It.mp3
+May 30 06:33 : update: removing icecube/Ice Cube - Gangsta Rap Made Me Do It  (DIRTY).mp3
+May 30 06:33 : update: removing icecube/Dr. Dre, Snoop Dogg, Ice Cube - Back In The Game ft. Eminem, Eve, Jadakiss, Method Man, The Lox, DMX.mp3
+May 30 06:33 : update: added /Bon Jovi - It's My Life.mp3
+May 30 06:33 : update: added /Love and War.mp3
+May 30 06:33 : update: added /Dark Shadow.mp3
+May 30 06:33 : update: added /3 Doors Down - Here Without You.mp3
+May 30 06:33 : update: added /Love-Hate-Sex-Pain.mp3
+May 30 06:34 : update: updating /Bon Jovi - It's My Life.mp3
+May 30 06:34 : update: updating /Love and War.mp3
+May 30 06:34 : update: updating /Dark Shadow.mp3
+May 30 06:34 : update: updating /3 Doors Down - Here Without You.mp3
+May 30 06:34 : update: updating /Love-Hate-Sex-Pain.mp3
+May 30 06:36 : update: updating /Bon Jovi - It's My Life.mp3
+May 30 06:36 : update: updating /Love and War.mp3
+May 30 06:36 : update: updating /Dark Shadow.mp3
+May 30 06:36 : update: updating /3 Doors Down - Here Without You.mp3
+May 30 06:36 : update: updating /Love-Hate-Sex-Pain.mp3
+May 30 06:42 : player: played "3 Doors Down - Here Without You.mp3"
+May 30 07:41 : player: played "Love-Hate-Sex-Pain.mp3"
+May 30 10:05 : player: played "Dark Shadow.mp3"
+May 30 10:08 : player: played "Love and War.mp3"
+May 30 14:58 : player: played "3 Doors Down - Here Without You.mp3"
+May 30 15:02 : player: played "Love and War.mp3"
+May 30 15:07 : player: played "Dark Shadow.mp3"
+May 30 15:08 : player: played "Dark Shadow.mp3"
+May 30 15:13 : player: played "Love-Hate-Sex-Pain.mp3"
+May 30 17:25 : player: played "Love and War.mp3"
+May 31 00:13 : player: played "Love-Hate-Sex-Pain.mp3"
+May 31 11:01 : player: played "Love-Hate-Sex-Pain.mp3"
+May 31 11:05 : player: played "3 Doors Down - Here Without You.mp3"
+Jun 01 15:47 : player: played "Love-Hate-Sex-Pain.mp3"
+Jun 01 15:51 : player: played "Love and War.mp3"
+Jun 01 16:58 : player: played "Bon Jovi - It's My Life.mp3"
+Jun 01 23:26 : player: played "Bon Jovi - It's My Life.mp3"
+Jun 02 16:12 : player: played "Dark Shadow.mp3"
+Jun 02 23:13 : player: played "Dark Shadow.mp3"
+Jun 03 23:37 : player: played "3 Doors Down - Here Without You.mp3"
+Jun 13 04:05 : player: played "Love-Hate-Sex-Pain.mp3"
+Jun 15 04:11 : player: played "Love-Hate-Sex-Pain.mp3"
+Jun 19 16:04 : exception: Failed to decode /home/nihil/Music/Dark Shadow.mp3; Failed to open '/home/nihil/Music/Dark Shadow.mp3': No such file or directory
+Jun 19 16:04 : player: played "Dark Shadow.mp3"
+Jun 19 16:04 : exception: Failed to decode /home/nihil/Music/Dark Shadow.mp3; Failed to open '/home/nihil/Music/Dark Shadow.mp3': No such file or directory
+Jun 19 16:04 : exception: Failed to decode /home/nihil/Music/Love and War.mp3; Failed to open '/home/nihil/Music/Love and War.mp3': No such file or directory
+Jun 19 16:04 : player: played "Love and War.mp3"
+Jun 19 16:05 : player: played "3 Doors Down - Here Without You.mp3"
+Jun 19 16:07 : exception: Failed to decode /home/nihil/Music/Love and War.mp3; Failed to open '/home/nihil/Music/Love and War.mp3': No such file or directory
+Jun 19 16:07 : player: played "Love and War.mp3"
+Jun 19 16:07 : exception: Failed to decode /home/nihil/Music/Dark Shadow.mp3; Failed to open '/home/nihil/Music/Dark Shadow.mp3': No such file or directory
+Jun 19 16:07 : player: played "Dark Shadow.mp3"
+Jun 19 16:07 : exception: Failed to decode /home/nihil/Music/Dark Shadow.mp3; Failed to open '/home/nihil/Music/Dark Shadow.mp3': No such file or directory
+Jun 19 16:07 : player: played "Dark Shadow.mp3"
+Jun 19 16:07 : exception: Failed to decode /home/nihil/Music/Love-Hate-Sex-Pain.mp3; Failed to open '/home/nihil/Music/Love-Hate-Sex-Pain.mp3': No such file or directory
+Jun 19 16:07 : player: played "Love-Hate-Sex-Pain.mp3"
+Jun 19 16:07 : exception: Not playing
+Jun 19 16:35 : exception: Bad song index
+Jun 19 17:33 : exception: Bad playlist name
+Jun 19 17:33 : exception: Bad playlist name
+Jun 19 17:39 : update: removing Love and War.mp3
+Jun 19 17:39 : update: removing Dark Shadow.mp3
+Jun 19 17:39 : update: removing Love-Hate-Sex-Pain.mp3
+Jun 19 17:39 : update: added /Green Day - 21 Guns.mp3
+Jun 19 17:39 : update: added /Linkin Park - LOST IN THE ECHO.mp3
+Jun 19 17:39 : update: added /Linkin Park - Crawling.mp3
+Jun 19 17:39 : update: added /Avenged Sevenfold - Hail to the King.mp3
+Jun 19 17:39 : update: added /Metallica - The Unforgiven.mp3
+Jun 19 17:39 : update: added /Nirvana - The Man Who Sold The World - Live.mp3
+Jun 19 17:39 : update: added /MAGIC GIANT, kid baron - Be My Baby.mp3
+Jun 19 17:39 : update: added /Green Day - Boulevard of Broken Dreams.mp3
+Jun 19 17:39 : update: added /Keeton Coffman - Violet.mp3
+Jun 19 17:39 : update: added /Seether, Amy Lee - Broken.mp3
+Jun 19 17:39 : update: added /Pink Floyd - Another Brick In The Wall - 2001 Remastered Version.mp3
+Jun 19 17:39 : update: added /Radiohead - Creep.mp3
+Jun 19 17:39 : update: updating /Bon Jovi - It's My Life.mp3
+Jun 19 17:39 : update: added /Muse - Knights of Cydonia.mp3
+Jun 19 17:39 : update: added /Five Finger Death Punch - M.I.N.E (End This Way).mp3
+Jun 19 17:39 : update: added /Linkin Park - ROADS UNTRAVELED.mp3
+Jun 19 17:39 : update: added /Arctic Monkeys - Do I Wanna Know.mp3
+Jun 19 17:39 : update: added /Muse - Uprising.mp3
+Jun 19 17:39 : update: added /Pantera - Cowboys from Hell.mp3
+Jun 19 17:39 : update: added /Once Around - Love and War.mp3
+Jun 19 17:39 : update: added /Linkin Park - Nobody's Listening.mp3
+Jun 19 17:39 : update: added /Linkin Park - Good Goodbye (feat. Pusha T and Stormzy).mp3
+Jun 19 17:39 : update: added /Linkin Park - In the End.mp3
+Jun 19 17:39 : update: added /All That Remains - What If I Was Nothing.mp3
+Jun 19 17:39 : update: added /Raysablaze - Mid July.mp3
+Jun 19 17:39 : update: added /Linkin Park - Final Masquerade.mp3
+Jun 19 17:39 : update: added /IVORY BLUE - Howl.mp3
+Jun 19 17:39 : update: added /Arch Enemy - Ravenous.mp3
+Jun 19 17:39 : update: added /Fall Out Boy - Centuries.mp3
+Jun 19 17:39 : update: added /Evanescence - Lithium.mp3
+Jun 19 17:39 : update: added /Red Hot Chili Peppers - Scar Tissue.mp3
+Jun 19 17:39 : update: added /Marilyn Manson - Tainted Love.mp3
+Jun 19 17:39 : update: added /Seether - Breakdown.mp3
+Jun 19 17:39 : update: added /Nirvana - Where Did You Sleep Last Night - Live.mp3
+Jun 19 17:39 : update: added /Europe - The Final Countdown.mp3
+Jun 19 17:39 : update: added /Nightwish - Nemo.mp3
+Jun 19 17:39 : update: added /Three Days Grace - Fallen Angel.mp3
+Jun 19 17:39 : update: added /Seether - Fake It.mp3
+Jun 19 17:39 : update: added /Bring Me The Horizon - Throne.mp3
+Jun 19 17:39 : update: added /Godsmack - Love-Hate-Sex-Pain.mp3
+Jun 19 17:39 : update: added /Metallica - The Unforgiven II.mp3
+Jun 19 17:39 : update: added /The Agonist - Take Me to Church.mp3
+Jun 19 17:39 : update: added /Muse - Pressure.mp3
+Jun 19 17:39 : update: added /3 Doors Down - Kryptonite.mp3
+Jun 19 17:39 : update: added /Slipknot - Before I Forget.mp3
+Jun 19 17:39 : update: added /Three Days Grace - Get Out Alive.mp3
+Jun 19 17:39 : update: added /Three Days Grace - So Called Life.mp3
+Jun 19 17:39 : update: added /Imagine Dragons - Believer.mp3
+Jun 19 17:39 : update: added /Linkin Park - A Place for My Head.mp3
+Jun 19 17:39 : update: added /Red Hot Chili Peppers - Snow (Hey Oh).mp3
+Jun 19 17:39 : update: added /Metallica - Nothing Else Matters.mp3
+Jun 19 17:39 : update: added /Imagine Dragons - Natural.mp3
+Jun 19 17:39 : update: added /Sunburst - Hollow Lies.mp3
+Jun 19 17:39 : update: added /Three Days Grace - Time of Dying.mp3
+Jun 19 17:39 : update: added /Nightwish - Amaranth.mp3
+Jun 19 17:39 : update: added /Vendetta XIII - Fire Ride.mp3
+Jun 19 17:39 : update: added /Arch Enemy - As the Pages Burn.mp3
+Jun 19 17:39 : update: added /Three Days Grace - Never Too Late.mp3
+Jun 19 17:39 : update: added /Three Days Grace - Painkiller.mp3
+Jun 19 17:39 : update: added /Dolly Parton - Jolene.mp3
+Jun 19 17:39 : update: added /Eric Clapton - Cocaine.mp3
+Jun 19 17:39 : update: added /System Of A Down - Lonely Day.mp3
+Jun 19 17:39 : update: added /R.E.M. - Losing My Religion.mp3
+Jun 19 17:39 : update: added /System Of A Down - B.Y.O.B..mp3
+Jun 19 17:39 : update: added /Evanescence - Bring Me To Life.mp3
+Jun 19 17:39 : update: added /Three Days Grace - Just Like You.mp3
+Jun 19 17:39 : update: added /Linkin Park - From the Inside.mp3
+Jun 19 17:39 : update: added /Nirvana - Smells Like Teen Spirit.mp3
+Jun 19 17:39 : update: added /blink-182 - All The Small Things.mp3
+Jun 19 17:39 : update: added /Arch Enemy - The World Is Yours.mp3
+Jun 19 17:39 : update: added /Survivor - Eye of the Tiger.mp3
+Jun 19 17:39 : update: added /System Of A Down - Chop Suey!.mp3
+Jun 19 17:39 : update: added /Green Day - Holiday.mp3
+Jun 19 17:39 : update: added /Linkin Park - Faint.mp3
+Jun 19 17:39 : update: added /Slipknot - The Devil in I.mp3
+Jun 19 17:39 : update: added /Weapons of Anew - Angel Has Fallen.mp3
+Jun 19 17:39 : update: added /Muse - The Handler.mp3
+Jun 19 17:39 : update: added /3 Doors Down - When I'm Gone.mp3
+Jun 19 17:39 : update: added /Nirvana - Heart-Shaped Box.mp3
+Jun 19 17:39 : update: added /Katatonia - Omerta.mp3
+Jun 19 17:39 : update: added /Kings of Leon - Use Somebody.mp3
+Jun 19 17:39 : update: added /Nightwish - Wish I Had an Angel.mp3
+Jun 19 17:39 : update: added /System Of A Down - Roulette.mp3
+Jun 19 17:39 : update: added /Deully - Running on Empty.mp3
+Jun 19 17:39 : update: added /Bloodhound Gang - Foxtrot Uniform Charlie Kilo.mp3
+Jun 19 17:39 : update: added /Mario Vayne - Electric.mp3
+Jun 19 17:39 : update: added /Red Hot Chili Peppers - Dani California.mp3
+Jun 19 17:39 : update: added /Skillet - Never Surrender.mp3
+Jun 19 17:39 : update: added /Five Finger Death Punch - A Little Bit Off.mp3
+Jun 19 17:39 : update: added /Slipknot - Duality.mp3
+Jun 19 17:39 : update: added /Disturbed - Down with the Sickness.mp3
+Jun 19 17:39 : update: added /Arch Enemy - Nemesis.mp3
+Jun 19 17:39 : update: added /The Eyelash - Dark Shadow.mp3
+Jun 19 17:39 : update: added /Arch Enemy - War Eternal.mp3
+Jun 19 17:39 : update: added /Muse - Hysteria.mp3
+Jun 19 17:39 : update: updating /3 Doors Down - Here Without You.mp3
+Jun 19 17:39 : update: added /Three Days Grace - Animal I Have Become.mp3
+Jun 19 17:39 : update: added /Iced Earth - Watching over Me.mp3
+Jun 19 17:39 : update: added /Red Hot Chili Peppers - Dark Necessities.mp3
+Jun 19 17:39 : update: added /Disturbed - Inside the Fire.mp3
+Jun 19 17:39 : update: added /Red Hot Chili Peppers - Otherside.mp3
+Jun 19 17:39 : update: added /Scorpions - Still Loving You.mp3
+Jun 19 17:39 : update: added /Aerosmith - Dream On.mp3
+Jun 19 17:39 : update: added /Linkin Park - Somewhere I Belong.mp3
+Jun 19 17:39 : update: added /Muse - Won’t Stand Down.mp3
+Jun 19 17:39 : update: added /Ubiquity Machine - Beautiful Girl.mp3
+Jun 19 17:39 : update: added /Disturbed - The Sound of Silence.mp3
+Jun 19 17:39 : update: added /Caladium - Cuban Squeeze.mp3
+Jun 19 17:39 : update: added /Red Hot Chili Peppers - Californication.mp3
+Jun 19 17:39 : update: added /Three Days Grace - Pain.mp3
+Jun 19 17:39 : update: added /Three Days Grace - I Hate Everything About You.mp3
+Jun 19 17:39 : update: added /Imagine Dragons - Demons.mp3
+Jun 19 17:39 : update: added /Linkin Park - Numb.mp3
+Jun 19 17:39 : update: added /Caladium - Train.mp3
+Jun 19 17:39 : update: added /Marilyn Manson - Sweet Dreams (Are Made Of This).mp3
+Jun 19 17:39 : update: added /Nightwish - Bye Bye Beautiful.mp3
+Jun 19 17:39 : update: added /The Dirty Nines - HOLY LOLA.mp3
+Jun 19 17:39 : update: added /Skillet - Comatose.mp3
+Jun 19 17:39 : update: added /Radiohead - Street Spirit (Fade Out).mp3
+Jun 19 17:39 : update: added /Korn - Coming Undone.mp3
+Jun 19 17:39 : update: added /Avenged Sevenfold - Bat Country.mp3
+Jun 19 17:39 : update: added /Black Sabbath - Paranoid.mp3
+Jun 19 17:39 : update: added /Five Finger Death Punch - Bad Company.mp3
+Jun 19 17:39 : update: added /Evanescence - My Immortal.mp3
+Jun 19 17:39 : update: added /Bullet For My Valentine - Your Betrayal.mp3
+Jun 19 17:39 : update: added /Green Day - Wake Me up When September Ends.mp3
+Jun 19 17:39 : update: added /Arch Enemy - The Eagle Flies Alone - edit.mp3
+Jun 19 17:39 : update: added /Evanescence - My Heart Is Broken.mp3
+Jun 19 17:39 : update: added /Scorpions - Rock You Like a Hurricane - 2011.mp3
+Jun 19 17:39 : update: added /Slipknot - Psychosocial.mp3
+Jun 19 17:39 : update: added /Bullet For My Valentine - Tears Don't Fall.mp3
+Jun 19 17:39 : update: added /Skillet - Awake and Alive.mp3
+Jun 19 17:39 : update: added /blink-182 - What's My Age Again.mp3
+Jun 19 17:39 : update: added /Kings of Leon - Sex on Fire.mp3
+Jun 19 17:39 : update: added /Skillet - Hero.mp3
+Jun 19 17:39 : update: added /KISS - I Was Made For Lovin' You.mp3
+Jun 19 17:39 : update: added /Three Days Grace - Somebody That I Used to Know.mp3
+Jun 19 17:39 : update: added /Rage Against The Machine - Killing In The Name.mp3
+Jun 19 17:39 : update: added /Metallica - Enter Sandman.mp3
+Jun 19 17:39 : update: added /Limp Bizkit - Break Stuff.mp3
+Jun 19 17:39 : update: added /System Of A Down - Aerials.mp3
+Jun 19 17:39 : update: added /I Ya Toyah - I am the Fire.mp3
+Jun 19 17:39 : update: added /Limp Bizkit - Behind Blue Eyes.mp3
+Jun 19 17:39 : update: added /Imagine Dragons - Radioactive.mp3
+Jun 19 17:39 : update: added /Nirvana - Something In The Way.mp3
+Jun 19 17:39 : update: added /Skillet - Monster.mp3
+Jun 19 17:39 : update: added /Arch Enemy - You Will Know My Name.mp3
+Jun 19 17:42 : player: played "Caladium - Cuban Squeeze.mp3"
+Jun 19 17:50 : player: played "Slipknot - The Devil in I.mp3"
+Jun 19 18:04 : player: played "Limp Bizkit - Break Stuff.mp3"
+Jun 19 19:56 : player: played "Bon Jovi - It's My Life.mp3"
+Jun 19 20:00 : player: played "System Of A Down - B.Y.O.B..mp3"
+Jun 19 20:29 : player: played "Three Days Grace - Fallen Angel.mp3"
+Jun 19 21:22 : player: played "Three Days Grace - Pain.mp3"
+Jun 19 21:29 : player: played "Five Finger Death Punch - A Little Bit Off.mp3"
+Jun 19 21:33 : player: played "Green Day - Holiday.mp3"
+Jun 19 21:37 : player: played "Linkin Park - Crawling.mp3"
+Jun 19 21:40 : player: played "Muse - Won’t Stand Down.mp3"
+Jun 20 03:35 : player: played "Skillet - Hero.mp3"
+Jun 20 16:34 : update: added latin/FloyyMenor, Cris Mj - Gata Only.mp3
+Jun 20 16:34 : update: added latin/Manuel Turizo - La Bachata.mp3
+Jun 20 16:34 : update: added latin/KAROL G, Peso Pluma - QLONA.mp3
+Jun 20 16:34 : update: added latin/LiL CaKe, Migrantes, Nico Valdi - MERCHO.mp3
+Jun 20 16:34 : update: added latin/Myke Towers - LALA.mp3
+Jun 20 16:34 : update: added latin/KAROL G, Shakira - TQG.mp3
+Jun 20 16:34 : update: updating latin/LiL CaKe, Migrantes, Nico Valdi - MERCHO.mp3
+Jun 20 16:34 : update: added latin/Feid, Young Miko - CLASSY 101.mp3
+Jun 20 16:35 : player: played "3 Doors Down - Here Without You.mp3"
+Jun 20 16:35 : update: added latin/Feid, Rema - BUBALU.mp3
+Jun 20 16:35 : update: added latin/Yng Lvcas, Peso Pluma - La Bebe - Remix.mp3
+Jun 20 16:35 : update: added latin/Peso Pluma, Natanael Cano - PRC.mp3
+Jun 20 16:35 : update: added latin/Eslabon Armado, Peso Pluma - Ella Baila Sola.mp3
+Jun 20 16:35 : update: added latin/Yandel, Feid - Yandel 150.mp3
+Jun 20 16:35 : update: added latin/Feid, ATL Jacob - LUNA.mp3
+Jun 20 16:35 : update: added latin/ROSALÍA, Rauw Alejandro - BESO.mp3
+Jun 20 16:35 : update: added latin/Bizarrap - Shakira- Bzrp Music Sessions, Vol. 53.mp3
+Jun 20 16:36 : update: added latin/Becky G, KAROL G - MAMIII.mp3
+Jun 20 16:36 : update: added latin/Anuel AA, Mambo Kingz, DJ Luian - Mas Rica Que Ayer.mp3
+Jun 20 16:36 : update: added latin/Farruko - Pepas.mp3
+Jun 20 16:36 : update: added latin/Bad Bunny, Chencho Corleone - Me Porto Bonito.mp3
+Jun 20 16:36 : update: added latin/Shakira, Rauw Alejandro - Te Felicito.mp3
+Jun 20 16:36 : update: added latin/Rauw Alejandro, Lyanno, Brray - LOKERA.mp3
+Jun 20 16:36 : update: added latin/zzoilo, Aitana - Mon Amour - Remix.mp3
+Jun 20 16:36 : update: added latin/Anitta - Envolver.mp3
+Jun 20 16:37 : update: added latin/ROSALÍA - DESPECHÁ.mp3
+Jun 20 16:37 : update: added latin/Wisin & Yandel, ROSALÍA - Besos Moja2.mp3
+Jun 20 16:37 : update: added latin/Cris Mj - Una Noche en Medellín.mp3
+Jun 20 16:37 : update: added latin/Feid - CHORRITO PA LAS ANIMAS.mp3
+Jun 20 16:37 : update: added latin/Rauw Alejandro, Chencho Corleone - Desesperados.mp3
+Jun 20 16:37 : update: added latin/Arcángel, Bad Bunny - La Jumpa.mp3
+Jun 20 16:37 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 20 16:37 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jun 20 16:37 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jun 20 16:37 : update: added latin/KAROL G - PROVENZA.mp3
+Jun 20 16:37 : update: added latin/Bad Bunny - Moscow Mule.mp3
+Jun 20 16:37 : update: added latin/Bad Bunny - Tití Me Preguntó.mp3
+Jun 20 16:37 : update: added latin/Rvssian, Rauw Alejandro, Chris Brown - Nostálgico.mp3
+Jun 20 16:38 : update: added latin/Nio Garcia, J Balvin, Bad Bunny - AM Remix.mp3
+Jun 20 16:38 : update: added latin/Aventura, Bad Bunny - Volví.mp3
+Jun 20 16:38 : update: added latin/Rauw Alejandro - Todo De Ti.mp3
+Jun 20 16:38 : update: added latin/J Balvin, Maria Becerra - Qué Más Pues.mp3
+Jun 20 16:38 : update: added latin/Los Legendarios, Wisin, Jhayco - Fiel.mp3
+Jun 20 16:38 : update: added latin/Bad Bunny, Bomba Estéreo - Ojitos Lindos.mp3
+Jun 20 16:39 : update: added latin/Sebastian Yatra, Myke Towers - Pareja Del Año.mp3
+Jun 20 16:39 : update: added latin/Farruko, Victor Cardenas, Dj Adoni - El Incomprendido.mp3
+Jun 20 16:39 : update: added latin/Spice - Go Down Deh (feat. Sean Paul & Shaggy).mp3
+Jun 20 16:39 : update: added latin/Enrique Iglesias - ME PASE (feat. Farruko).mp3
+Jun 20 16:39 : update: added latin/Maluma - Hawái.mp3
+Jun 20 16:39 : update: added latin/J Balvin, Skrillex - In Da Getto.mp3
+Jun 20 16:39 : update: added latin/Raaban, Space Primates, Enisa - Bailando.mp3
+Jun 20 16:39 : update: added latin/Bad Bunny, Jhayco - DÁKITI.mp3
+Jun 20 16:40 : update: added latin/Sech - 911.mp3
+Jun 20 16:40 : update: added latin/Myke Towers, Juhn - Bandido.mp3
+Jun 20 16:40 : update: added latin/Bad Bunny - Yonaguni.mp3
+Jun 20 16:40 : update: added latin/Zion & Lennox - Otra vez (feat. J Balvin).mp3
+Jun 20 16:40 : update: updating latin/Zion & Lennox - Otra vez (feat. J Balvin).mp3
+Jun 20 16:41 : update: added latin/Mora, Bad Bunny, Sech - Volando - Remix.mp3
+Jun 20 16:41 : update: added latin/Rauw Alejandro, Anuel AA - Reloj.mp3
+Jun 20 16:41 : update: added latin/Selena Gomez - Baila Conmigo (with Rauw Alejandro).mp3
+Jun 20 16:41 : update: added latin/Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka - La Jeepeta - Remix.mp3
+Jun 20 16:41 : update: added latin/Zion & Lennox - La player (Bandolera).mp3
+Jun 20 16:41 : update: added latin/ROSALÍA - TKN (feat. Travis Scott).mp3
+Jun 20 16:41 : update: added latin/Maluma - Agua de Jamaica.mp3
+Jun 20 16:41 : update: added latin/Camilo - Ropa Cara.mp3
+Jun 20 16:41 : update: added latin/Jonatan.S, Alba Ed-Dounia, PANCHOGYPS - Ahora No.mp3
+Jun 20 16:41 : update: added latin/Caballero TheUnFamed, Mingo Cash Only - Deseo.mp3
+Jun 20 16:41 : update: added latin/Bad Bunny, ROSALÍA - LA NOCHE DE ANOCHE.mp3
+Jun 20 16:41 : update: added latin/Manuel Turizo, Rauw Alejandro, Myke Towers - La Nota.mp3
+Jun 20 16:42 : update: added latin/Maluma, Lenny Tavárez - Parce (feat. Justin Quiles).mp3
+Jun 20 16:42 : update: added latin/Ozuna, J Balvin, Chencho Corleone - Una Locura.mp3
+Jun 20 16:42 : update: added latin/Tainy - Agua (with J Balvin) - Music From 'Sponge On The Run' Movie.mp3
+Jun 20 16:42 : update: added latin/Ricky Rodz - Bipolar.mp3
+Jun 20 16:42 : update: added latin/KAROL G, Mariah Angeliq - EL MAKINON.mp3
+Jun 20 16:42 : update: added latin/KAROL G, Nicki Minaj - Tusa.mp3
+Jun 20 16:42 : update: added latin/Lele Pons - Se Te Nota (with Guaynaa).mp3
+Jun 20 16:42 : update: added latin/Boza - Hecha Pa' Mi.mp3
+Jun 20 16:42 : update: added latin/Sech, Daddy Yankee, J Balvin, ROSALÍA, Farruko - Relación - Remix.mp3
+Jun 20 16:42 : update: added latin/Feid, J Balvin, Justin Quiles - PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix.mp3
+Jun 20 16:42 : update: updating latin/KAROL G, Mariah Angeliq - EL MAKINON.mp3
+Jun 20 16:43 : update: updating latin/Feid, J Balvin, Justin Quiles - PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix.mp3
+Jun 20 16:43 : update: added latin/Ozuna - Tiempo.mp3
+Jun 20 16:43 : update: added latin/Anuel AA, Bad Bunny - Hasta Que Dios Diga.mp3
+Jun 20 16:43 : update: added latin/Lavbbe, Costi - Pumping.mp3
+Jun 20 16:43 : update: added latin/Wisin, Myke Towers, Los Legendarios - Mi Niña.mp3
+Jun 20 16:43 : update: added latin/Rauw Alejandro, Mr. Naisgai - 2Catorce.mp3
+Jun 20 16:43 : update: added latin/Black Eyed Peas, Ozuna, J. Rey Soul - MAMACITA.mp3
+Jun 20 16:43 : update: added latin/Camilo - Vida de Rico.mp3
+Jun 20 16:43 : update: added latin/Will Kano, Olivia Sabates - Latina.mp3
+Jun 20 16:43 : update: added latin/Farruko - La Tóxica.mp3
+Jun 20 16:44 : update: added latin/J Balvin, Dua Lipa, Bad Bunny - UN DIA (ONE DAY) (Feat. Tainy).mp3
+Jun 20 16:44 : update: added latin/Rauw Alejandro - Tattoo - Remix with Camilo.mp3
+Jun 20 16:44 : update: added latin/Camilo - Favorito.mp3
+Jun 20 16:44 : update: added latin/KAROL G - Ay, DiOs Mío!.mp3
+Jun 20 16:45 : update: added latin/Bad Bunny - Yo Perreo Sola.mp3
+Jun 20 16:45 : update: added latin/Susy G, Mejai, Carlo - Soltera.mp3
+Jun 20 16:45 : update: added latin/Pachira, Sam Baby, Steven Montoya - Rolex.mp3
+Jun 20 16:45 : update: added latin/Lucky Francis - Oye Papi.mp3
+Jun 20 16:45 : update: added latin/Bad Bunny, Jowell & Randy, Ñengo Flow - Safaera.mp3
+Jun 20 16:45 : update: added latin/KAROL G - BICHOTA.mp3
+Jun 20 16:45 : update: added latin/Sergio T, Sesman - Brum Brum.mp3
+Jun 20 16:45 : update: updating latin/Bad Bunny, Jowell & Randy, Ñengo Flow - Safaera.mp3
+Jun 20 16:45 : update: updating latin/KAROL G - BICHOTA.mp3
+Jun 20 16:45 : update: added latin/Pachira, DAREV OFICIAL, Sam Baby - Ella.mp3
+Jun 20 16:46 : update: added latin/ROSALÍA, J Balvin, El Guincho - Con Altura.mp3
+Jun 20 16:46 : update: added latin/Nicky Jam, Daddy Yankee - Muévelo.mp3
+Jun 20 16:46 : update: added latin/Davy Music, Esteban Rojas - SECRETOS.mp3
+Jun 20 16:46 : update: added latin/Aya Nakamura - Djadja (feat. Maluma) - Remix.mp3
+Jun 20 16:46 : update: added latin/Blackpablo, Frei - Bandida.mp3
+Jun 20 16:46 : update: added latin/Meta4, BLUECITY - TRENDING.mp3
+Jun 20 16:46 : update: added latin/Fer Muntz, Jfeel - Visa Pa Tu Cora.mp3
+Jun 20 16:46 : update: added latin/Jun LP, Vel Garcia - Frente a Frente.mp3
+Jun 20 16:47 : update: added latin/Lidia Buble, Lenier - Robándote un beso.mp3
+Jun 20 16:47 : update: added latin/J Balvin - Rojo.mp3
+Jun 20 16:47 : update: added latin/Arcángel, Sech, Dímelo Flow - Sigues Con El.mp3
+Jun 20 16:47 : update: added latin/Ozuna - Caramelo.mp3
+Jun 20 16:47 : update: added latin/Rauw Alejandro, Chencho Corleone - El Efecto.mp3
+Jun 20 16:47 : update: added latin/Enrique Iglesias, Myke Towers - TE FUISTE.mp3
+Jun 20 16:47 : update: added latin/Tainy - Adicto (with Anuel AA & Ozuna).mp3
+Jun 20 16:47 : update: added latin/DJ Snake - Loco Contigo (with J. Balvin & Tyga).mp3
+Jun 20 16:47 : update: added latin/J Balvin - Azul.mp3
+Jun 20 16:47 : update: added latin/Black Eyed Peas, J Balvin - RITMO (Bad Boys For Life).mp3
+Jun 20 16:48 : update: added latin/Shakira, Anuel AA - Me Gusta.mp3
+Jun 20 16:48 : update: added latin/Rauw Alejandro, Farruko - Fantasias.mp3
+Jun 20 16:48 : update: added latin/J Balvin, Bad Bunny - QUE PRETENDES.mp3
+Jun 20 16:48 : update: added latin/Sech - Relación.mp3
+Jun 20 16:48 : update: added latin/Enrique Iglesias, Bad Bunny - EL BAÑO.mp3
+Jun 20 16:48 : update: added latin/Pedro Capó, Farruko - Calma - Remix.mp3
+Jun 20 16:48 : update: added latin/DJ Snake - Taki Taki (with Selena Gomez, Ozuna & Cardi B).mp3
+Jun 20 16:48 : update: added latin/Daddy Yankee, Snow - Con Calma.mp3
+Jun 20 16:48 : update: added latin/Sean Paul, J Balvin - Contra La Pared.mp3
+Jun 20 16:48 : update: added latin/Alvaro Soler - La Cintura.mp3
+Jun 20 16:49 : update: added latin/Sofía Reyes - R.I.P. (feat. Rita Ora & Anitta).mp3
+Jun 20 16:49 : update: added latin/Daddy Yankee - Dura.mp3
+Jun 20 16:49 : update: added latin/CNCO - Reggaetón Lento (Bailemos).mp3
+Jun 20 16:49 : update: added latin/Carlos Vives, Sebastian Yatra - Robarte un Beso.mp3
+Jun 20 16:49 : update: added latin/Bad Bunny, Tainy - Callaita.mp3
+Jun 20 16:49 : update: added latin/Enrique Iglesias, Descemer Bueno, Zion & Lennox - SUBEME LA RADIO.mp3
+Jun 20 16:50 : update: added latin/Luis Fonsi, Demi Lovato - Échame La Culpa.mp3
+Jun 20 16:50 : update: added latin/Anitta, J Balvin - Downtown.mp3
+Jun 20 16:50 : update: added latin/Alvaro Soler - Sofia.mp3
+Jun 20 16:50 : update: added latin/Becky G, NATTI NATASHA - Sin Pijama.mp3
+Jun 20 16:50 : update: added latin/Carlos Vives, Shakira - La Bicicleta.mp3
+Jun 20 16:50 : update: added latin/Shakira - Chantaje (feat. Maluma).mp3
+Jun 20 16:50 : update: added latin/Rauw Alejandro, Dalex, Lenny Tavárez - Elegí (feat. Dímelo Flow).mp3
+Jun 20 16:51 : update: added latin/Danny Ocean - Me Rehúso.mp3
+Jun 20 16:51 : update: added latin/Mau y Ricky, Manuel Turizo, Camilo - Desconocidos.mp3
+Jun 20 16:51 : update: added latin/Reik - Me Niego (feat. Ozuna & Wisin).mp3
+Jun 20 16:51 : update: added latin/Anuel AA, Daddy Yankee, KAROL G, Ozuna, J Balvin - China.mp3
+Jun 20 16:51 : update: added latin/Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam - Te Boté - Remix.mp3
+Jun 20 16:51 : update: added latin/NATTI NATASHA, Ozuna - Criminal.mp3
+Jun 20 16:51 : update: updating latin/Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam - Te Boté - Remix.mp3
+Jun 20 16:52 : update: added latin/Tainy - Lo Siento BB- (with Bad Bunny & Julieta Venegas).mp3
+Jun 20 16:52 : update: added latin/Reik, Farruko, Camilo - Si Me Dices Que Sí.mp3
+Jun 20 16:52 : update: added latin/Rauw Alejandro - Sexo Virtual.mp3
+Jun 20 16:52 : update: added latin/Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow - Hola - Remix.mp3
+Jun 20 16:52 : update: added latin/Bad Bunny, Rauw Alejandro - Party.mp3
+Jun 20 16:52 : update: added latin/Luar La L - Caile.mp3
+Jun 20 16:52 : update: added latin/Ozuna, Feid - Hey Mor.mp3
+Jun 20 16:52 : update: added latin/Daddy Yankee, Bad Bunny - X ÚLTIMA VEZ.mp3
+Jun 20 16:52 : update: added latin/Nicky Jam - El Perdón (with Enrique Iglesias).mp3
+Jun 20 16:53 : update: added latin/Jay Wheeler, DJ Nelson, Myke Towers - La Curiosidad.mp3
+Jun 20 16:53 : update: added latin/Sofía Reyes - 1, 2, 3 (feat. Jason Derulo & De La Ghetto).mp3
+Jun 20 16:53 : update: added latin/Marshmello, Manuel Turizo - El Merengue.mp3
+Jun 20 16:53 : update: added latin/Darell - Lollipop.mp3
+Jun 20 16:53 : update: added latin/HUGEL, Merk & Kremont, Lirico En La Casa - Marianela (Que Pasa).mp3
+Jun 20 16:53 : update: added latin/John Summit - La Danza.mp3
+Jun 20 16:54 : update: added latin/Raffa Fl - Ritmo.mp3
+Jun 20 16:54 : update: added latin/Costa Leon, DJ Cuervo - Gringada.mp3
+Jun 20 16:54 : update: added latin/HUGEL, Lorna, Jenn Morel - Tamo Loco.mp3
+Jun 20 16:54 : update: added latin/KVSH, Tim Hox, Cumbiafrica - Corocito (Manguelena).mp3
+Jun 20 16:54 : update: added latin/Calle 24, Chino Pacas, Fuerza Regida - Que Onda.mp3
+Jun 20 16:54 : update: added latin/HUGEL, Tom Enzy, Nfasis, Damien N-Drix - Chakachaka.mp3
+Jun 20 16:54 : update: added latin/Tom & Collins - Se Va (feat. Cumbiafrica).mp3
+Jun 20 16:55 : update: added latin/HUGEL, Westend - Aguila ft. Cumbiafrica.mp3
+Jun 20 16:55 : update: added latin/Tom & Collins, Robbie Rivera - Me Duele feat. Cumbiafrica.mp3
+Jun 20 16:55 : update: added latin/Lucky Francis - Sinkalà.mp3
+Jun 20 16:55 : update: added latin/HUGEL, BLOND-ISH, Nfasis - Tra Tra.mp3
+Jun 20 16:55 : update: added latin/Sandgino - Pa Ca.mp3
+Jun 20 16:55 : update: added latin/MYLØ, Zafra Negra - Sufriendo.mp3
+Jun 20 16:55 : update: updating latin/Tom & Collins, Robbie Rivera - Me Duele feat. Cumbiafrica.mp3
+Jun 20 16:55 : update: updating latin/Sandgino - Pa Ca.mp3
+Jun 20 16:55 : update: added latin/Michael Bibi - La Murga - Michael's Midnight Mix.mp3
+Jun 20 16:55 : update: added latin/Tom Enzy - Nord Try.mp3
+Jun 20 16:55 : update: added latin/Instant Cult, Maxim Schunk, Franz Kolo - Amore.mp3
+Jun 20 16:55 : update: added latin/Andrea Crocicchia, Lyon Monster - Me Paraliza.mp3
+Jun 20 16:55 : update: added latin/HUGEL, Cumbiafrica - El Sueno.mp3
+Jun 20 16:56 : update: added latin/TCTS, GotSome, Cumbiafrica - Fuego.mp3
+Jun 20 16:56 : update: added latin/MDM - El Perreo.mp3
+Jun 20 16:56 : update: added latin/Nicola Fasano, Salento Guys, Pippo Bravo - Papi Dale Duro - RKN Radio Edit.mp3
+Jun 20 16:56 : update: added latin/Tayri, Antho Decks - Colombian Maasai.mp3
+Jun 20 16:56 : update: added latin/Fabich - La Fiesta.mp3
+Jun 20 16:56 : update: added latin/Tom & Collins, Thomas Newson, PAVE - Serena.mp3
+Jun 20 16:56 : update: added latin/Tom & Collins, Thomas Newson, Kenny Brian - Nuestro Amigo.mp3
+Jun 20 16:56 : update: added latin/Axel North - SOY.mp3
+Jun 20 16:56 : update: added latin/Tom Enzy, Tambor Hembra, La Perla - Que Paso.mp3
+Jun 20 16:57 : update: added latin/Zilka - Mariachi.mp3
+Jun 20 16:57 : update: added latin/Tom & Collins, SUBB - Vai.mp3
+Jun 20 16:57 : update: added latin/Gianluca Vacchi, Alterboy, Thorn - Cucaracha.mp3
+Jun 20 16:57 : update: added latin/Tom & Collins - Hagüe.mp3
+Jun 20 16:57 : update: added latin/Gregor Salto, FIGHT CLVB - Lluvia en Colombia (feat. El Mayam).mp3
+Jun 20 16:57 : update: added latin/LVGA - BAM BI LI BAM.mp3
+Jun 20 16:57 : update: added latin/Pablo Fierro - El Carinoso - Gregor Salto Remix.mp3
+Jun 20 16:58 : update: added latin/Jude & Frank, Totó La Momposina - La Luna.mp3
+Jun 20 16:58 : update: added latin/Dombresky, Crusy - El Beso (feat. Mathieu Ruz).mp3
+Jun 20 16:58 : update: added latin/Heynegaard, LVGA - Lo Sé.mp3
+Jun 20 16:58 : update: added latin/Jude & Frank, AtcG - La Tarde.mp3
+Jun 20 16:58 : update: added latin/Federico Scavo, Tello - Caimanera.mp3
+Jun 20 16:59 : update: added latin/Sinego - Verte Triste.mp3
+Jun 20 16:59 : update: added latin/Sinego - Benjamín Carrión.mp3
+Jun 20 16:59 : update: added latin/Jude & Frank, J8Man - Otra Vez.mp3
+Jun 20 16:59 : update: added latin/Danit - Cuatro Vientos (HUGEL Version).mp3
+Jun 20 16:59 : update: added latin/HUGEL, Ryan Arnold, El Chuape - Pa Lante.mp3
+Jun 20 16:59 : update: added latin/Sandgino, V_NCE - Me Gustas.mp3
+Jun 20 17:00 : update: added latin/Marshmello, Manuel Turizo - El Merengue - HUGEL Remix.mp3
+Jun 20 17:00 : update: added latin/Aaron Noise, Erik Schievenin, Santiago & Carlitos - Hanima Nera.mp3
+Jun 20 17:00 : update: added latin/HUGEL, Nfasis - Como Shakira.mp3
+Jun 20 17:00 : update: added latin/Rezone, MACROLEV - El Ritmo.mp3
+Jun 20 17:00 : update: added latin/R3HAB, Ryan Arnold - MAS GASOLINA (feat. N.F.I) - Raffa FL Remix.mp3
+Jun 20 17:00 : update: added latin/Toni Costanzi - El Monte.mp3
+Jun 20 17:00 : update: added latin/HUGEL, Jude & Frank, Paolo Pellegrino - Rio Rio (feat. Martina Camargo).mp3
+Jun 20 17:00 : update: added latin/Raffa Fl - Ritmo - HUGEL Edit.mp3
+Jun 20 17:00 : update: added latin/HUGEL, Crusy, Jenn Morel, Joelii - KLK.mp3
+Jun 20 17:00 : update: updating latin/Raffa Fl - Ritmo - HUGEL Edit.mp3
+Jun 20 17:00 : update: added latin/Lucas Estrada, Raffa Fl, TECHOLOGY - Candela.mp3
+Jun 20 17:00 : update: added latin/Vintage Culture, Gilsons, KVSH - Várias Queixas - Radio Edit.mp3
+Jun 20 17:01 : update: added latin/BLOND-ISH, Francis Mercier, Amadou & Mariam - Sete.mp3
+Jun 20 17:01 : update: added latin/Max Chapman - La Fiesta - Original Mix.mp3
+Jun 20 17:01 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 20 17:01 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jun 20 17:01 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jun 20 17:01 : update: added latin/Simon Fava, Gregor Salto - Magalenha (feat. Sergio Mendes).mp3
+Jun 20 17:01 : update: updating latin/Max Chapman - La Fiesta - Original Mix.mp3
+Jun 20 17:01 : update: added latin/Gregor Salto, Curio Capoeira - Para Voce.mp3
+Jun 20 17:01 : update: added latin/Choujaa, Small ToK, Naama Tov - Siempre.mp3
+Jun 20 17:01 : update: added latin/JØRD, Cumbiafrica - Cumbia Buena.mp3
+Jun 20 17:02 : update: added latin/Westend - Maracuya.mp3
+Jun 20 17:02 : update: added latin/Thvndex, Estie - El Canto.mp3
+Jun 20 17:02 : update: added latin/L2O - Sun Tribe.mp3
+Jun 20 17:02 : update: added latin/Nick Raff - E Samba.mp3
+Jun 20 17:02 : update: added latin/AN3M, Till 3AM - La Luna.mp3
+Jun 20 17:02 : update: added latin/Juan Dileju, Franz Kolo - Eres Tú.mp3
+Jun 20 17:03 : update: added latin/Sofi Tukker, Sunnery James & Ryan Marciano - TROMPA.mp3
+Jun 20 17:03 : update: added latin/Dkuul, MuunIlusion - Sin Ti.mp3
+Jun 20 17:03 : update: added latin/HUGEL, Damien N-Drix - Tengo ganas de ti.mp3
+Jun 20 17:03 : update: added latin/Dave Winnel - Bamboleo.mp3
+Jun 20 17:03 : update: added latin/Estie, Thvndex - Conmigo.mp3
+Jun 20 17:03 : update: added latin/Tommy Trash, Dave Winnel - That Accordion Song.mp3
+Jun 20 17:03 : update: added latin/Joshwa - Magalenha.mp3
+Jun 20 17:04 : update: added latin/HUGEL, Jude & Frank, Twolate - La candela viva.mp3
+Jun 20 17:04 : update: added latin/Gian Varela, Nenito Vargas - Oiga Morena.mp3
+Jun 20 17:04 : update: added latin/San Pacho - Trompeta.mp3
+Jun 20 17:04 : update: added latin/HUGEL, Jude & Frank - Pra Nao Dizer.mp3
+Jun 20 17:04 : update: added latin/Jude & Frank, NRD1, Cumbiafrica - Moliendo Café.mp3
+Jun 20 17:05 : update: added latin/HÄWK, Max Niklas - Tequila.mp3
+Jun 20 17:05 : update: added latin/Albert Neve, Abel Ramos - Guarachando.mp3
+Jun 20 17:05 : update: added latin/Brais, Snrs - Baiana.mp3
+Jun 20 17:05 : update: added latin/Gianluca Vacchi - Viento.mp3
+Jun 20 17:05 : update: added latin/Jude & Frank, NIINE, Vadi - Paque.mp3
+Jun 20 17:06 : update: added latin/Gordo, Feid - Hombres y Mujeres.mp3
+Jun 20 17:06 : update: added latin/Gianluca Vacchi - Sombrerito Blanco (feat. Martina Camargo).mp3
+Jun 20 17:06 : update: added latin/MOONLGHT - Los Destellos.mp3
+Jun 20 17:06 : update: added latin/Gordo, Maluma - Parcera.mp3
+Jun 20 18:02 : player: played "Vendetta XIII - Fire Ride.mp3"
+Jun 20 21:18 : player: played "latin/Shakira, Rauw Alejandro - Te Felicito.mp3"
+Jun 20 21:23 : player: played "Bon Jovi - It's My Life.mp3"
+Jun 20 22:55 : player: played "The Agonist - Take Me to Church.mp3"
+Jun 20 22:59 : player: played "System Of A Down - Aerials.mp3"
+Jun 21 00:35 : player: played "Slipknot - Before I Forget.mp3"
+Jun 21 00:40 : player: played "All That Remains - What If I Was Nothing.mp3"
+Jun 21 06:34 : exception: Failed to create /home/nihil/.mpd/mpdstate: No such file or directory
+Jun 21 06:35 : exception: Failed to create /home/nihil/.mpd/mpdstate: No such file or directory
+Jun 21 06:35 : player: played "Red Hot Chili Peppers - Scar Tissue.mp3"
+Jun 21 07:11 : exception: Failed to decode /home/nihil/Music/Skillet - Never Surrender.mp3; Failed to open '/home/nihil/Music/Skillet - Never Surrender.mp3': No such file or directory
+Jun 21 07:11 : player: played "Skillet - Never Surrender.mp3"
+Jun 21 07:11 : update: removing latin/Sech - Relación.mp3
+Jun 21 07:11 : update: removing latin/Pablo Fierro - El Carinoso - Gregor Salto Remix.mp3
+Jun 21 07:11 : update: removing latin/Maluma - Agua de Jamaica.mp3
+Jun 21 07:11 : update: removing latin/Sean Paul, J Balvin - Contra La Pared.mp3
+Jun 21 07:11 : update: removing latin/Ozuna, Feid - Hey Mor.mp3
+Jun 21 07:11 : update: removing latin/MDM - El Perreo.mp3
+Jun 21 07:11 : update: removing latin/Toni Costanzi - El Monte.mp3
+Jun 21 07:11 : update: removing latin/Marshmello, Manuel Turizo - El Merengue - HUGEL Remix.mp3
+Jun 21 07:11 : update: removing latin/Marshmello, Manuel Turizo - El Merengue.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro, Chencho Corleone - El Efecto.mp3
+Jun 21 07:11 : update: removing latin/Shakira - Chantaje (feat. Maluma).mp3
+Jun 21 07:11 : update: removing latin/Thvndex, Estie - El Canto.mp3
+Jun 21 07:11 : update: removing latin/Dombresky, Crusy - El Beso (feat. Mathieu Ruz).mp3
+Jun 21 07:11 : update: removing latin/Enrique Iglesias, Bad Bunny - EL BAÑO.mp3
+Jun 21 07:11 : update: removing latin/Luis Fonsi, Demi Lovato - Échame La Culpa.mp3
+Jun 21 07:11 : update: removing latin/Nick Raff - E Samba.mp3
+Jun 21 07:11 : update: removing latin/Daddy Yankee - Dura.mp3
+Jun 21 07:11 : update: removing latin/Anitta, J Balvin - Downtown.mp3
+Jun 21 07:11 : update: removing latin/Aya Nakamura - Djadja (feat. Maluma) - Remix.mp3
+Jun 21 07:11 : update: removing latin/ROSALÍA - DESPECHÁ.mp3
+Jun 21 07:11 : update: removing latin/Caballero TheUnFamed, Mingo Cash Only - Deseo.mp3
+Jun 21 07:11 : update: removing latin/Meta4, BLUECITY - TRENDING.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny, Jhayco - DÁKITI.mp3
+Jun 21 07:11 : update: removing latin/JØRD, Cumbiafrica - Cumbia Buena.mp3
+Jun 21 07:11 : update: removing latin/Gianluca Vacchi, Alterboy, Thorn - Cucaracha.mp3
+Jun 21 07:11 : update: removing latin/Danit - Cuatro Vientos (HUGEL Version).mp3
+Jun 21 07:11 : update: removing latin/NATTI NATASHA, Ozuna - Criminal.mp3
+Jun 21 07:11 : update: removing latin/KVSH, Tim Hox, Cumbiafrica - Corocito (Manguelena).mp3
+Jun 21 07:11 : update: removing latin/Estie, Thvndex - Conmigo.mp3
+Jun 21 07:11 : update: removing latin/Daddy Yankee, Snow - Con Calma.mp3
+Jun 21 07:11 : update: removing latin/ROSALÍA, J Balvin, El Guincho - Con Altura.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Nfasis - Como Shakira.mp3
+Jun 21 07:11 : update: removing latin/J Balvin - Rojo.mp3
+Jun 21 07:11 : update: removing latin/J Balvin - Azul.mp3
+Jun 21 07:11 : update: removing latin/Tayri, Antho Decks - Colombian Maasai.mp3
+Jun 21 07:11 : update: removing latin/Feid, Young Miko - CLASSY 101.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Tom Enzy, Nfasis, Damien N-Drix - Chakachaka.mp3
+Jun 21 07:11 : update: removing latin/Ozuna - Caramelo.mp3
+Jun 21 07:11 : update: removing latin/Lucas Estrada, Raffa Fl, TECHOLOGY - Candela.mp3
+Jun 21 07:11 : update: removing latin/Pedro Capó, Farruko - Calma - Remix.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny, Tainy - Callaita.mp3
+Jun 21 07:11 : update: removing latin/Federico Scavo, Tello - Caimanera.mp3
+Jun 21 07:11 : update: removing latin/Sergio T, Sesman - Brum Brum.mp3
+Jun 21 07:11 : update: removing latin/Ricky Rodz - Bipolar.mp3
+Jun 21 07:11 : update: removing latin/KAROL G - BICHOTA.mp3
+Jun 21 07:11 : update: removing latin/Sinego - Benjamín Carrión.mp3
+Jun 21 07:11 : update: removing latin/Myke Towers, Juhn - Bandido.mp3
+Jun 21 07:11 : update: removing latin/Blackpablo, Frei - Bandida.mp3
+Jun 21 07:11 : update: removing latin/Dave Winnel - Bamboleo.mp3
+Jun 21 07:11 : update: removing latin/LVGA - BAM BI LI BAM.mp3
+Jun 21 07:11 : update: removing latin/Raaban, Space Primates, Enisa - Bailando.mp3
+Jun 21 07:11 : update: removing latin/Selena Gomez - Baila Conmigo (with Rauw Alejandro).mp3
+Jun 21 07:11 : update: removing latin/Brais, Snrs - Baiana.mp3
+Jun 21 07:11 : update: removing latin/KAROL G - Ay, DiOs Mío!.mp3
+Jun 21 07:11 : update: removing latin/Instant Cult, Maxim Schunk, Franz Kolo - Amore.mp3
+Jun 21 07:11 : update: removing latin/Nio Garcia, J Balvin, Bad Bunny - AM Remix.mp3
+Jun 21 07:11 : update: removing latin/Jonatan.S, Alba Ed-Dounia, PANCHOGYPS - Ahora No.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Westend - Aguila ft. Cumbiafrica.mp3
+Jun 21 07:11 : update: removing latin/Tainy - Agua (with J Balvin) - Music From 'Sponge On The Run' Movie.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro, Anuel AA - Reloj.mp3
+Jun 21 07:11 : update: removing latin/Tainy - Adicto (with Anuel AA & Ozuna).mp3
+Jun 21 07:11 : update: removing latin/Sech - 911.mp3
+Jun 21 07:11 : update: removing latin/Danny Ocean - Me Rehúso.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro, Mr. Naisgai - 2Catorce.mp3
+Jun 21 07:11 : update: removing latin/Sofía Reyes - 1, 2, 3 (feat. Jason Derulo & De La Ghetto).mp3
+Jun 21 07:11 : update: removing Mario Vayne - Electric.mp3
+Jun 21 07:11 : update: removing KISS - I Was Made For Lovin' You.mp3
+Jun 21 07:11 : update: removing Muse - The Handler.mp3
+Jun 21 07:11 : update: removing Arch Enemy - Nemesis.mp3
+Jun 21 07:11 : update: removing Seether, Amy Lee - Broken.mp3
+Jun 21 07:11 : update: removing The Eyelash - Dark Shadow.mp3
+Jun 21 07:11 : update: removing Nightwish - Amaranth.mp3
+Jun 21 07:11 : update: removing Nightwish - Bye Bye Beautiful.mp3
+Jun 21 07:11 : update: removing Caladium - Cuban Squeeze.mp3
+Jun 21 07:11 : update: removing Bon Jovi - It's My Life.mp3
+Jun 21 07:11 : update: removing Pantera - Cowboys from Hell.mp3
+Jun 21 07:11 : update: removing Scorpions - Still Loving You.mp3
+Jun 21 07:11 : update: removing Scorpions - Rock You Like a Hurricane - 2011.mp3
+Jun 21 07:11 : update: removing Skillet - Comatose.mp3
+Jun 21 07:11 : update: removing Avenged Sevenfold - Bat Country.mp3
+Jun 21 07:11 : update: removing Red Hot Chili Peppers - Californication.mp3
+Jun 21 07:11 : update: removing Red Hot Chili Peppers - Otherside.mp3
+Jun 21 07:11 : update: removing Red Hot Chili Peppers - Scar Tissue.mp3
+Jun 21 07:11 : update: removing Green Day - Boulevard of Broken Dreams.mp3
+Jun 21 07:11 : update: removing Muse - Knights of Cydonia.mp3
+Jun 21 07:11 : update: removing Ubiquity Machine - Beautiful Girl.mp3
+Jun 21 07:11 : update: removing MAGIC GIANT, kid baron - Be My Baby.mp3
+Jun 21 07:11 : update: removing 3 Doors Down - Here Without You.mp3
+Jun 21 07:11 : update: removing 3 Doors Down - When I'm Gone.mp3
+Jun 21 07:11 : update: removing Skillet - Never Surrender.mp3
+Jun 21 07:11 : update: removing Skillet - Awake and Alive.mp3
+Jun 21 07:11 : update: removing Skillet - Monster.mp3
+Jun 21 07:11 : update: removing Skillet - Hero.mp3
+Jun 21 07:11 : update: removing Weapons of Anew - Angel Has Fallen.mp3
+Jun 21 07:11 : update: removing Green Day - Wake Me up When September Ends.mp3
+Jun 21 07:11 : update: removing Fall Out Boy - Centuries.mp3
+Jun 21 07:11 : update: removing Arctic Monkeys - Do I Wanna Know.mp3
+Jun 21 07:11 : update: removing Slipknot - Psychosocial.mp3
+Jun 21 07:11 : update: removing Aerosmith - Dream On.mp3
+Jun 21 07:11 : update: removing Muse - Hysteria.mp3
+Jun 21 07:11 : update: removing All That Remains - What If I Was Nothing.mp3
+Jun 21 07:11 : update: removing Pink Floyd - Another Brick In The Wall - 2001 Remastered Version.mp3
+Jun 21 07:11 : update: removing Green Day - 21 Guns.mp3
+Jun 21 07:11 : update: removing Slipknot - The Devil in I.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny - Yonaguni.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny, Jowell & Randy, Ñengo Flow - Safaera.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny - Yo Perreo Sola.mp3
+Jun 21 07:11 : update: removing latin/Aventura, Bad Bunny - Volví.mp3
+Jun 21 07:11 : update: removing latin/Mora, Bad Bunny, Sech - Volando - Remix.mp3
+Jun 21 07:11 : update: removing latin/Carlos Vives, Sebastian Yatra - Robarte un Beso.mp3
+Jun 21 07:11 : update: removing latin/Carlos Vives, Shakira - La Bicicleta.mp3
+Jun 21 07:11 : update: removing latin/Fer Muntz, Jfeel - Visa Pa Tu Cora.mp3
+Jun 21 07:11 : update: removing latin/Gianluca Vacchi - Viento.mp3
+Jun 21 07:11 : update: removing latin/Camilo - Vida de Rico.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro, Chencho Corleone - Desesperados.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro - Sexo Virtual.mp3
+Jun 21 07:11 : update: removing latin/Sinego - Verte Triste.mp3
+Jun 21 07:11 : update: removing latin/Vintage Culture, Gilsons, KVSH - Várias Queixas - Radio Edit.mp3
+Jun 21 07:11 : update: removing latin/Tom & Collins, SUBB - Vai.mp3
+Jun 21 07:11 : update: removing latin/Cris Mj - Una Noche en Medellín.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny, Bomba Estéreo - Ojitos Lindos.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny, Rauw Alejandro - Party.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny - Tití Me Preguntó.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny, Chencho Corleone - Me Porto Bonito.mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny - Moscow Mule.mp3
+Jun 21 07:11 : update: removing latin/J Balvin, Dua Lipa, Bad Bunny - UN DIA (ONE DAY) (Feat. Tainy).mp3
+Jun 21 07:11 : update: removing latin/KAROL G, Nicki Minaj - Tusa.mp3
+Jun 21 07:11 : update: removing latin/San Pacho - Trompeta.mp3
+Jun 21 07:11 : update: removing latin/Sofi Tukker, Sunnery James & Ryan Marciano - TROMPA.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, BLOND-ISH, Nfasis - Tra Tra.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro - Todo De Ti.mp3
+Jun 21 07:11 : update: removing latin/ROSALÍA - TKN (feat. Travis Scott).mp3
+Jun 21 07:11 : update: removing latin/Ozuna - Tiempo.mp3
+Jun 21 07:11 : update: removing latin/Pachira, DAREV OFICIAL, Sam Baby - Ella.mp3
+Jun 21 07:11 : update: removing latin/Pachira, Sam Baby, Steven Montoya - Rolex.mp3
+Jun 21 07:11 : update: removing latin/Tommy Trash, Dave Winnel - That Accordion Song.mp3
+Jun 21 07:11 : update: removing latin/HÄWK, Max Niklas - Tequila.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Damien N-Drix - Tengo ganas de ti.mp3
+Jun 21 07:11 : update: removing latin/Shakira, Rauw Alejandro - Te Felicito.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro - Tattoo - Remix with Camilo.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Lorna, Jenn Morel - Tamo Loco.mp3
+Jun 21 07:11 : update: removing latin/DJ Snake - Taki Taki (with Selena Gomez, Ozuna & Cardi B).mp3
+Jun 21 07:11 : update: removing latin/L2O - Sun Tribe.mp3
+Jun 21 07:11 : update: removing latin/MYLØ, Zafra Negra - Sufriendo.mp3
+Jun 21 07:11 : update: removing latin/Enrique Iglesias, Descemer Bueno, Zion & Lennox - SUBEME LA RADIO.mp3
+Jun 21 07:11 : update: removing latin/Arcángel, Bad Bunny - La Jumpa.mp3
+Jun 21 07:11 : update: removing latin/Axel North - SOY.mp3
+Jun 21 07:11 : update: removing latin/Gianluca Vacchi - Sombrerito Blanco (feat. Martina Camargo).mp3
+Jun 21 07:11 : update: removing latin/Susy G, Mejai, Carlo - Soltera.mp3
+Jun 21 07:11 : update: removing latin/Feid - CHORRITO PA LAS ANIMAS.mp3
+Jun 21 07:11 : update: removing latin/Lucky Francis - Sinkalà.mp3
+Jun 21 07:11 : update: removing latin/Dkuul, MuunIlusion - Sin Ti.mp3
+Jun 21 07:11 : update: removing latin/Becky G, NATTI NATASHA - Sin Pijama.mp3
+Jun 21 07:11 : update: removing latin/Arcángel, Sech, Dímelo Flow - Sigues Con El.mp3
+Jun 21 07:11 : update: removing latin/Choujaa, Small ToK, Naama Tov - Siempre.mp3
+Jun 21 07:11 : update: removing latin/Reik, Farruko, Camilo - Si Me Dices Que Sí.mp3
+Jun 21 07:11 : update: removing latin/Bizarrap - Shakira- Bzrp Music Sessions, Vol. 53.mp3
+Jun 21 07:11 : update: removing latin/BLOND-ISH, Francis Mercier, Amadou & Mariam - Sete.mp3
+Jun 21 07:11 : update: removing latin/Tom & Collins, Thomas Newson, PAVE - Serena.mp3
+Jun 21 07:11 : update: removing latin/Davy Music, Esteban Rojas - SECRETOS.mp3
+Jun 21 07:11 : update: removing latin/Tom & Collins - Se Va (feat. Cumbiafrica).mp3
+Jun 21 07:11 : update: removing latin/Lele Pons - Se Te Nota (with Guaynaa).mp3
+Jun 21 07:11 : update: removing latin/ROSALÍA, Rauw Alejandro - BESO.mp3
+Jun 21 07:11 : update: removing latin/Camilo - Ropa Cara.mp3
+Jun 21 07:11 : update: removing latin/Lidia Buble, Lenier - Robándote un beso.mp3
+Jun 21 07:11 : update: removing latin/Raffa Fl - Ritmo - HUGEL Edit.mp3
+Jun 21 07:11 : update: removing latin/Black Eyed Peas, J Balvin - RITMO (Bad Boys For Life).mp3
+Jun 21 07:11 : update: removing latin/Raffa Fl - Ritmo.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Jude & Frank, Paolo Pellegrino - Rio Rio (feat. Martina Camargo).mp3
+Jun 21 07:11 : update: removing latin/Yandel, Feid - Yandel 150.mp3
+Jun 21 07:11 : update: removing latin/Sech, Daddy Yankee, J Balvin, ROSALÍA, Farruko - Relación - Remix.mp3
+Jun 21 07:11 : update: removing latin/Sofía Reyes - R.I.P. (feat. Rita Ora & Anitta).mp3
+Jun 21 07:11 : update: removing latin/Tom Enzy, Tambor Hembra, La Perla - Que Paso.mp3
+Jun 21 07:11 : update: removing latin/Calle 24, Chino Pacas, Fuerza Regida - Que Onda.mp3
+Jun 21 07:11 : update: removing latin/J Balvin, Maria Becerra - Qué Más Pues.mp3
+Jun 21 07:11 : update: removing latin/Lavbbe, Costi - Pumping.mp3
+Jun 21 07:11 : update: removing latin/KAROL G - PROVENZA.mp3
+Jun 21 07:11 : update: removing latin/CNCO - Reggaetón Lento (Bailemos).mp3
+Jun 21 07:11 : update: removing latin/Peso Pluma, Natanael Cano - PRC.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Jude & Frank - Pra Nao Dizer.mp3
+Jun 21 07:11 : update: removing latin/Feid, J Balvin, Justin Quiles - PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix.mp3
+Jun 21 07:11 : update: removing latin/Jay Wheeler, DJ Nelson, Myke Towers - La Curiosidad.mp3
+Jun 21 07:11 : update: removing latin/Farruko - Pepas.mp3
+Jun 21 07:11 : update: removing latin/Sebastian Yatra, Myke Towers - Pareja Del Año.mp3
+Jun 21 07:11 : update: removing latin/Gordo, Maluma - Parcera.mp3
+Jun 21 07:11 : update: removing latin/Mau y Ricky, Manuel Turizo, Camilo - Desconocidos.mp3
+Jun 21 07:11 : update: removing latin/Jude & Frank, NIINE, Vadi - Paque.mp3
+Jun 21 07:11 : update: removing latin/Maluma, Lenny Tavárez - Parce (feat. Justin Quiles).mp3
+Jun 21 07:11 : update: removing latin/Maluma - Hawái.mp3
+Jun 21 07:11 : update: removing latin/Nicola Fasano, Salento Guys, Pippo Bravo - Papi Dale Duro - RKN Radio Edit.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Ryan Arnold, El Chuape - Pa Lante.mp3
+Jun 21 07:11 : update: removing latin/Sandgino - Pa Ca.mp3
+Jun 21 07:11 : update: removing latin/Lucky Francis - Oye Papi.mp3
+Jun 21 07:11 : update: removing latin/Jude & Frank, J8Man - Otra Vez.mp3
+Jun 21 07:11 : update: removing latin/Gian Varela, Nenito Vargas - Oiga Morena.mp3
+Jun 21 07:11 : update: removing latin/J Balvin, Bad Bunny - QUE PRETENDES.mp3
+Jun 21 07:11 : update: removing latin/Tom & Collins, Thomas Newson, Kenny Brian - Nuestro Amigo.mp3
+Jun 21 07:11 : update: removing latin/Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam - Te Boté - Remix.mp3
+Jun 21 07:11 : update: removing latin/Rvssian, Rauw Alejandro, Chris Brown - Nostálgico.mp3
+Jun 21 07:11 : update: removing latin/Tom Enzy - Nord Try.mp3
+Jun 21 07:11 : update: removing latin/Nicky Jam, Daddy Yankee - Muévelo.mp3
+Jun 21 07:11 : update: removing latin/Zion & Lennox - Otra vez (feat. J Balvin).mp3
+Jun 21 07:11 : update: removing latin/Feid, Rema - BUBALU.mp3
+Jun 21 07:11 : update: removing latin/zzoilo, Aitana - Mon Amour - Remix.mp3
+Jun 21 07:11 : update: removing latin/Jude & Frank, NRD1, Cumbiafrica - Moliendo Café.mp3
+Jun 21 07:11 : update: removing latin/Wisin, Myke Towers, Los Legendarios - Mi Niña.mp3
+Jun 21 07:11 : update: removing latin/LiL CaKe, Migrantes, Nico Valdi - MERCHO.mp3
+Jun 21 07:11 : update: removing latin/Enrique Iglesias - ME PASE (feat. Farruko).mp3
+Jun 21 07:11 : update: removing latin/Andrea Crocicchia, Lyon Monster - Me Paraliza.mp3
+Jun 21 07:11 : update: removing latin/Reik - Me Niego (feat. Ozuna & Wisin).mp3
+Jun 21 07:11 : update: removing latin/Sandgino, V_NCE - Me Gustas.mp3
+Jun 21 07:11 : update: removing latin/Shakira, Anuel AA - Me Gusta.mp3
+Jun 21 07:11 : update: removing latin/Tom & Collins, Robbie Rivera - Me Duele feat. Cumbiafrica.mp3
+Jun 21 07:11 : update: removing latin/Anuel AA, Mambo Kingz, DJ Luian - Mas Rica Que Ayer.mp3
+Jun 21 07:11 : update: removing latin/Boza - Hecha Pa' Mi.mp3
+Jun 21 07:11 : update: removing latin/R3HAB, Ryan Arnold - MAS GASOLINA (feat. N.F.I) - Raffa FL Remix.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Merk & Kremont, Lirico En La Casa - Marianela (Que Pasa).mp3
+Jun 21 07:11 : update: removing latin/Zilka - Mariachi.mp3
+Jun 21 07:11 : update: removing latin/Westend - Maracuya.mp3
+Jun 21 07:11 : update: removing latin/KAROL G, Peso Pluma - QLONA.mp3
+Jun 21 07:11 : update: removing latin/KAROL G, Shakira - TQG.mp3
+Jun 21 07:11 : update: removing latin/Becky G, KAROL G - MAMIII.mp3
+Jun 21 07:11 : update: removing latin/Black Eyed Peas, Ozuna, J. Rey Soul - MAMACITA.mp3
+Jun 21 07:11 : update: removing latin/Simon Fava, Gregor Salto - Magalenha (feat. Sergio Mendes).mp3
+Jun 21 07:11 : update: removing latin/Joshwa - Magalenha.mp3
+Jun 21 07:11 : update: removing latin/Los Legendarios, Wisin, Jhayco - Fiel.mp3
+Jun 21 07:11 : update: removing latin/MOONLGHT - Los Destellos.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro, Lyanno, Brray - LOKERA.mp3
+Jun 21 07:11 : update: removing latin/DJ Snake - Loco Contigo (with J. Balvin & Tyga).mp3
+Jun 21 07:11 : update: removing latin/Tainy - Lo Siento BB- (with Bad Bunny & Julieta Venegas).mp3
+Jun 21 07:11 : update: removing latin/Heynegaard, LVGA - Lo Sé.mp3
+Jun 21 07:11 : update: removing latin/Gregor Salto, FIGHT CLVB - Lluvia en Colombia (feat. El Mayam).mp3
+Jun 21 07:11 : update: removing latin/Daddy Yankee, Bad Bunny - X ÚLTIMA VEZ.mp3
+Jun 21 07:11 : update: removing latin/Will Kano, Olivia Sabates - Latina.mp3
+Jun 21 07:11 : update: removing latin/Gregor Salto, Curio Capoeira - Para Voce.mp3
+Jun 21 07:11 : update: removing latin/Myke Towers - LALA.mp3
+Jun 21 07:11 : update: removing latin/Wisin & Yandel, ROSALÍA - Besos Moja2.mp3
+Jun 21 07:11 : update: removing latin/Farruko - La Tóxica.mp3
+Jun 21 07:11 : update: removing latin/Jude & Frank, AtcG - La Tarde.mp3
+Jun 21 07:11 : update: removing latin/Zion & Lennox - La player (Bandolera).mp3
+Jun 21 07:11 : update: removing latin/Manuel Turizo, Rauw Alejandro, Myke Towers - La Nota.mp3
+Jun 21 07:11 : update: removing latin/Michael Bibi - La Murga - Michael's Midnight Mix.mp3
+Jun 21 07:11 : update: removing latin/Jude & Frank, Totó La Momposina - La Luna.mp3
+Jun 21 07:11 : update: removing latin/AN3M, Till 3AM - La Luna.mp3
+Jun 21 07:11 : update: removing latin/Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka - La Jeepeta - Remix.mp3
+Jun 21 07:11 : update: removing latin/Max Chapman - La Fiesta - Original Mix.mp3
+Jun 21 07:11 : update: removing latin/Fabich - La Fiesta.mp3
+Jun 21 07:11 : update: removing latin/John Summit - La Danza.mp3
+Jun 21 07:11 : update: removing latin/Alvaro Soler - La Cintura.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Jude & Frank, Twolate - La candela viva.mp3
+Jun 21 07:11 : update: removing latin/Yng Lvcas, Peso Pluma - La Bebe - Remix.mp3
+Jun 21 07:11 : update: removing latin/Manuel Turizo - La Bachata.mp3
+Jun 21 07:11 : update: removing latin/Farruko, Victor Cardenas, Dj Adoni - El Incomprendido.mp3
+Jun 21 07:11 : update: removing latin/Luar La L - Caile.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Crusy, Jenn Morel, Joelii - KLK.mp3
+Jun 21 07:11 : update: removing latin/KAROL G, Mariah Angeliq - EL MAKINON.mp3
+Jun 21 07:11 : update: removing latin/J Balvin, Skrillex - In Da Getto.mp3
+Jun 21 07:11 : update: removing latin/Gordo, Feid - Hombres y Mujeres.mp3
+Jun 21 07:11 : update: removing latin/Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow - Hola - Remix.mp3
+Jun 21 07:11 : update: removing latin/Aaron Noise, Erik Schievenin, Santiago & Carlitos - Hanima Nera.mp3
+Jun 21 07:11 : update: removing latin/Tom & Collins - Hagüe.mp3
+Jun 21 07:11 : update: removing latin/Albert Neve, Abel Ramos - Guarachando.mp3
+Jun 21 07:11 : update: removing latin/Costa Leon, DJ Cuervo - Gringada.mp3
+Jun 21 07:11 : update: removing latin/Spice - Go Down Deh (feat. Sean Paul & Shaggy).mp3
+Jun 21 07:11 : update: removing latin/FloyyMenor, Cris Mj - Gata Only.mp3
+Jun 21 07:11 : update: removing latin/TCTS, GotSome, Cumbiafrica - Fuego.mp3
+Jun 21 07:11 : update: removing latin/Jun LP, Vel Garcia - Frente a Frente.mp3
+Jun 21 07:11 : update: removing latin/Enrique Iglesias, Myke Towers - TE FUISTE.mp3
+Jun 21 07:11 : update: removing latin/Feid, ATL Jacob - LUNA.mp3
+Jun 21 07:11 : update: removing latin/Nicky Jam - El Perdón (with Enrique Iglesias).mp3
+Jun 21 07:11 : update: removing latin/Camilo - Favorito.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro, Farruko - Fantasias.mp3
+Jun 21 07:11 : update: removing latin/Darell - Lollipop.mp3
+Jun 21 07:11 : update: removing latin/Alvaro Soler - Sofia.mp3
+Jun 21 07:11 : update: removing latin/Juan Dileju, Franz Kolo - Eres Tú.mp3
+Jun 21 07:11 : update: removing latin/Anitta - Envolver.mp3
+Jun 21 07:11 : update: removing latin/Ozuna, J Balvin, Chencho Corleone - Una Locura.mp3
+Jun 21 07:11 : update: removing latin/Anuel AA, Daddy Yankee, KAROL G, Ozuna, J Balvin - China.mp3
+Jun 21 07:11 : update: removing latin/Anuel AA, Bad Bunny - Hasta Que Dios Diga.mp3
+Jun 21 07:11 : update: removing latin/Eslabon Armado, Peso Pluma - Ella Baila Sola.mp3
+Jun 21 07:11 : update: removing latin/Rauw Alejandro, Dalex, Lenny Tavárez - Elegí (feat. Dímelo Flow).mp3
+Jun 21 07:11 : update: removing latin/Bad Bunny, ROSALÍA - LA NOCHE DE ANOCHE.mp3
+Jun 21 07:11 : update: removing latin/HUGEL, Cumbiafrica - El Sueno.mp3
+Jun 21 07:11 : update: removing latin/Rezone, MACROLEV - El Ritmo.mp3
+Jun 21 07:11 : update: removing Muse - Won’t Stand Down.mp3
+Jun 21 07:11 : update: removing Arch Enemy - The Eagle Flies Alone - edit.mp3
+Jun 21 07:11 : update: removing Arch Enemy - The World Is Yours.mp3
+Jun 21 07:11 : update: removing Five Finger Death Punch - Bad Company.mp3
+Jun 21 07:11 : update: removing Arch Enemy - You Will Know My Name.mp3
+Jun 21 07:11 : update: removing Arch Enemy - As the Pages Burn.mp3
+Jun 21 07:11 : update: removing Arch Enemy - War Eternal.mp3
+Jun 21 07:11 : update: removing Arch Enemy - Ravenous.mp3
+Jun 21 07:11 : update: removing Slipknot - Before I Forget.mp3
+Jun 21 07:11 : update: removing Slipknot - Duality.mp3
+Jun 21 07:11 : update: removing Katatonia - Omerta.mp3
+Jun 21 07:11 : update: removing Keeton Coffman - Violet.mp3
+Jun 21 07:11 : update: removing System Of A Down - Aerials.mp3
+Jun 21 07:11 : update: removing System Of A Down - Chop Suey!.mp3
+Jun 21 07:11 : update: removing Three Days Grace - Just Like You.mp3
+Jun 21 07:11 : update: removing Three Days Grace - I Hate Everything About You.mp3
+Jun 21 07:11 : update: removing Deully - Running on Empty.mp3
+Jun 21 07:11 : update: removing Caladium - Train.mp3
+Jun 21 07:11 : update: removing Five Finger Death Punch - M.I.N.E (End This Way).mp3
+Jun 21 07:11 : update: removing Disturbed - Down with the Sickness.mp3
+Jun 21 07:11 : update: removing Muse - Uprising.mp3
+Jun 21 07:11 : update: removing Bullet For My Valentine - Tears Don't Fall.mp3
+Jun 21 07:11 : update: removing Godsmack - Love-Hate-Sex-Pain.mp3
+Jun 21 07:11 : update: removing Evanescence - Lithium.mp3
+Jun 21 07:11 : update: removing Linkin Park - Final Masquerade.mp3
+Jun 21 07:11 : update: removing Marilyn Manson - Tainted Love.mp3
+Jun 21 07:11 : update: removing Red Hot Chili Peppers - Dark Necessities.mp3
+Jun 21 07:11 : update: removing Europe - The Final Countdown.mp3
+Jun 21 07:11 : update: removing Iced Earth - Watching over Me.mp3
+Jun 21 07:11 : update: removing 3 Doors Down - Kryptonite.mp3
+Jun 21 07:11 : update: removing Radiohead - Street Spirit (Fade Out).mp3
+Jun 21 07:11 : update: removing Bring Me The Horizon - Throne.mp3
+Jun 21 07:11 : update: removing System Of A Down - Roulette.mp3
+Jun 21 07:11 : update: removing Red Hot Chili Peppers - Snow (Hey Oh).mp3
+Jun 21 07:11 : update: removing Red Hot Chili Peppers - Dani California.mp3
+Jun 21 07:11 : update: removing Three Days Grace - Somebody That I Used to Know.mp3
+Jun 21 07:11 : update: removing Marilyn Manson - Sweet Dreams (Are Made Of This).mp3
+Jun 21 07:11 : update: removing Eric Clapton - Cocaine.mp3
+Jun 21 07:11 : update: removing Muse - Pressure.mp3
+Jun 21 07:11 : update: removing Limp Bizkit - Break Stuff.mp3
+Jun 21 07:11 : update: removing Korn - Coming Undone.mp3
+Jun 21 07:11 : update: removing Survivor - Eye of the Tiger.mp3
+Jun 21 07:11 : update: removing Limp Bizkit - Behind Blue Eyes.mp3
+Jun 21 07:11 : update: removing Metallica - The Unforgiven II.mp3
+Jun 21 07:11 : update: removing Rage Against The Machine - Killing In The Name.mp3
+Jun 21 07:11 : update: removing Black Sabbath - Paranoid.mp3
+Jun 21 07:11 : update: removing Radiohead - Creep.mp3
+Jun 21 07:11 : update: removing R.E.M. - Losing My Religion.mp3
+Jun 21 07:11 : update: removing Imagine Dragons - Natural.mp3
+Jun 21 07:11 : update: removing Kings of Leon - Use Somebody.mp3
+Jun 21 07:11 : update: removing Kings of Leon - Sex on Fire.mp3
+Jun 21 07:11 : update: removing Three Days Grace - Time of Dying.mp3
+Jun 21 07:11 : update: removing Three Days Grace - Get Out Alive.mp3
+Jun 21 07:11 : update: removing Three Days Grace - Never Too Late.mp3
+Jun 21 07:11 : update: removing Three Days Grace - Animal I Have Become.mp3
+Jun 21 07:11 : update: removing Three Days Grace - Pain.mp3
+Jun 21 07:11 : update: removing Linkin Park - Good Goodbye (feat. Pusha T and Stormzy).mp3
+Jun 21 07:11 : update: removing Nightwish - Nemo.mp3
+Jun 21 07:11 : update: removing Nightwish - Wish I Had an Angel.mp3
+Jun 21 07:11 : update: removing Imagine Dragons - Demons.mp3
+Jun 21 07:11 : update: removing Imagine Dragons - Radioactive.mp3
+Jun 21 07:11 : update: removing Nirvana - Something In The Way.mp3
+Jun 21 07:11 : update: removing Nirvana - Smells Like Teen Spirit.mp3
+Jun 21 07:11 : update: removing Nirvana - Where Did You Sleep Last Night - Live.mp3
+Jun 21 07:11 : update: removing Nirvana - The Man Who Sold The World - Live.mp3
+Jun 21 07:11 : update: removing System Of A Down - B.Y.O.B..mp3
+Jun 21 07:11 : update: removing Linkin Park - Nobody's Listening.mp3
+Jun 21 07:11 : update: removing Linkin Park - Somewhere I Belong.mp3
+Jun 21 07:11 : update: removing Linkin Park - Numb.mp3
+Jun 21 07:11 : update: removing Linkin Park - From the Inside.mp3
+Jun 21 07:11 : update: removing Linkin Park - Faint.mp3
+Jun 21 07:11 : update: removing Metallica - Nothing Else Matters.mp3
+Jun 21 07:11 : update: removing Metallica - The Unforgiven.mp3
+Jun 21 07:11 : update: removing Metallica - Enter Sandman.mp3
+Jun 21 07:11 : update: removing Once Around - Love and War.mp3
+Jun 21 07:11 : update: removing Linkin Park - ROADS UNTRAVELED.mp3
+Jun 21 07:11 : update: removing Linkin Park - LOST IN THE ECHO.mp3
+Jun 21 07:11 : update: removing Dolly Parton - Jolene.mp3
+Jun 21 07:11 : update: removing Disturbed - Inside the Fire.mp3
+Jun 21 07:11 : update: removing Nirvana - Heart-Shaped Box.mp3
+Jun 21 07:11 : update: removing Raysablaze - Mid July.mp3
+Jun 21 07:11 : update: removing Disturbed - The Sound of Silence.mp3
+Jun 21 07:11 : update: removing I Ya Toyah - I am the Fire.mp3
+Jun 21 07:11 : update: removing System Of A Down - Lonely Day.mp3
+Jun 21 07:11 : update: removing Linkin Park - A Place for My Head.mp3
+Jun 21 07:11 : update: removing Linkin Park - In the End.mp3
+Jun 21 07:11 : update: removing Linkin Park - Crawling.mp3
+Jun 21 07:11 : update: removing Three Days Grace - Fallen Angel.mp3
+Jun 21 07:11 : update: removing Three Days Grace - Painkiller.mp3
+Jun 21 07:11 : update: removing IVORY BLUE - Howl.mp3
+Jun 21 07:11 : update: removing The Dirty Nines - HOLY LOLA.mp3
+Jun 21 07:11 : update: removing Sunburst - Hollow Lies.mp3
+Jun 21 07:11 : update: removing Green Day - Holiday.mp3
+Jun 21 07:11 : update: removing Bloodhound Gang - Foxtrot Uniform Charlie Kilo.mp3
+Jun 21 07:11 : update: removing Avenged Sevenfold - Hail to the King.mp3
+Jun 21 07:11 : update: removing The Agonist - Take Me to Church.mp3
+Jun 21 07:11 : update: removing Vendetta XIII - Fire Ride.mp3
+Jun 21 07:11 : update: removing Seether - Breakdown.mp3
+Jun 21 07:11 : update: removing Seether - Fake It.mp3
+Jun 21 07:11 : update: removing Bullet For My Valentine - Your Betrayal.mp3
+Jun 21 07:11 : update: removing Evanescence - My Immortal.mp3
+Jun 21 07:11 : update: removing Evanescence - Bring Me To Life.mp3
+Jun 21 07:11 : update: removing Five Finger Death Punch - A Little Bit Off.mp3
+Jun 21 07:11 : update: removing Three Days Grace - So Called Life.mp3
+Jun 21 07:11 : update: removing Imagine Dragons - Believer.mp3
+Jun 21 07:11 : update: removing Evanescence - My Heart Is Broken.mp3
+Jun 21 07:11 : update: removing blink-182 - All The Small Things.mp3
+Jun 21 07:11 : update: removing blink-182 - What's My Age Again.mp3
+Jun 21 07:11 : update: added latino/TCTS, GotSome, Cumbiafrica - Fuego.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny - Yo Perreo Sola.mp3
+Jun 21 07:11 : update: added latino/Blackpablo, Frei - Bandida.mp3
+Jun 21 07:11 : update: added latino/Meta4, BLUECITY - TRENDING.mp3
+Jun 21 07:11 : update: added latino/Danny Ocean - Me Rehúso.mp3
+Jun 21 07:11 : update: added latino/FloyyMenor, Cris Mj - Gata Only.mp3
+Jun 21 07:11 : update: added latino/Maluma - Hawái.mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro, Lyanno, Brray - LOKERA.mp3
+Jun 21 07:11 : update: added latino/Pedro Capó, Farruko - Calma - Remix.mp3
+Jun 21 07:11 : update: added latino/Sebastian Yatra, Myke Towers - Pareja Del Año.mp3
+Jun 21 07:11 : update: added latino/Zilka - Mariachi.mp3
+Jun 21 07:11 : update: added latino/Maluma, Lenny Tavárez - Parce (feat. Justin Quiles).mp3
+Jun 21 07:11 : update: added latino/Mora, Bad Bunny, Sech - Volando - Remix.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny, Jowell & Randy, Ñengo Flow - Safaera.mp3
+Jun 21 07:11 : update: added latino/Camilo - Ropa Cara.mp3
+Jun 21 07:11 : update: added latino/Fer Muntz, Jfeel - Visa Pa Tu Cora.mp3
+Jun 21 07:11 : update: added latino/Costa Leon, DJ Cuervo - Gringada.mp3
+Jun 21 07:11 : update: added latino/Becky G, KAROL G - MAMIII.mp3
+Jun 21 07:11 : update: added latino/J Balvin, Skrillex - In Da Getto.mp3
+Jun 21 07:11 : update: added latino/Manuel Turizo - La Bachata.mp3
+Jun 21 07:11 : update: added latino/Dave Winnel - Bamboleo.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny, Rauw Alejandro - Party.mp3
+Jun 21 07:11 : update: added latino/J Balvin, Dua Lipa, Bad Bunny - UN DIA (ONE DAY) (Feat. Tainy).mp3
+Jun 21 07:11 : update: added latino/ROSALÍA - DESPECHÁ.mp3
+Jun 21 07:11 : update: added latino/Tainy - Adicto (with Anuel AA & Ozuna).mp3
+Jun 21 07:11 : update: added latino/Jonatan.S, Alba Ed-Dounia, PANCHOGYPS - Ahora No.mp3
+Jun 21 07:11 : update: added latino/Luis Fonsi, Demi Lovato - Échame La Culpa.mp3
+Jun 21 07:11 : update: added latino/Jay Wheeler, DJ Nelson, Myke Towers - La Curiosidad.mp3
+Jun 21 07:11 : update: added latino/Sofi Tukker, Sunnery James & Ryan Marciano - TROMPA.mp3
+Jun 21 07:11 : update: added latino/Michael Bibi - La Murga - Michael's Midnight Mix.mp3
+Jun 21 07:11 : update: added latino/Feid, J Balvin, Justin Quiles - PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix.mp3
+Jun 21 07:11 : update: added latino/BLOND-ISH, Francis Mercier, Amadou & Mariam - Sete.mp3
+Jun 21 07:11 : update: added latino/KAROL G, Peso Pluma - QLONA.mp3
+Jun 21 07:11 : update: added latino/Anuel AA, Mambo Kingz, DJ Luian - Mas Rica Que Ayer.mp3
+Jun 21 07:11 : update: added latino/Anuel AA, Daddy Yankee, KAROL G, Ozuna, J Balvin - China.mp3
+Jun 21 07:11 : update: added latino/Sofía Reyes - R.I.P. (feat. Rita Ora & Anitta).mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro, Anuel AA - Reloj.mp3
+Jun 21 07:11 : update: added latino/Estie, Thvndex - Conmigo.mp3
+Jun 21 07:11 : update: added latino/Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam - Te Boté - Remix.mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro, Mr. Naisgai - 2Catorce.mp3
+Jun 21 07:11 : update: added latino/Zion & Lennox - La player (Bandolera).mp3
+Jun 21 07:11 : update: added latino/Sofía Reyes - 1, 2, 3 (feat. Jason Derulo & De La Ghetto).mp3
+Jun 21 07:11 : update: added latino/HUGEL, Westend - Aguila ft. Cumbiafrica.mp3
+Jun 21 07:11 : update: added latino/Gordo, Feid - Hombres y Mujeres.mp3
+Jun 21 07:11 : update: added latino/Max Chapman - La Fiesta - Original Mix.mp3
+Jun 21 07:11 : update: added latino/KAROL G - BICHOTA.mp3
+Jun 21 07:11 : update: added latino/Lidia Buble, Lenier - Robándote un beso.mp3
+Jun 21 07:11 : update: added latino/ROSALÍA, J Balvin, El Guincho - Con Altura.mp3
+Jun 21 07:11 : update: added latino/Darell - Lollipop.mp3
+Jun 21 07:11 : update: added latino/Selena Gomez - Baila Conmigo (with Rauw Alejandro).mp3
+Jun 21 07:11 : update: added latino/Gregor Salto, FIGHT CLVB - Lluvia en Colombia (feat. El Mayam).mp3
+Jun 21 07:11 : update: added latino/Gianluca Vacchi - Sombrerito Blanco (feat. Martina Camargo).mp3
+Jun 21 07:11 : update: added latino/Daddy Yankee - Dura.mp3
+Jun 21 07:11 : update: added latino/Sinego - Verte Triste.mp3
+Jun 21 07:11 : update: added latino/Sinego - Benjamín Carrión.mp3
+Jun 21 07:11 : update: added latino/Wisin & Yandel, ROSALÍA - Besos Moja2.mp3
+Jun 21 07:11 : update: added latino/Farruko - Pepas.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny, Tainy - Callaita.mp3
+Jun 21 07:11 : update: added latino/Yandel, Feid - Yandel 150.mp3
+Jun 21 07:11 : update: added latino/Sech - 911.mp3
+Jun 21 07:11 : update: added latino/Feid, ATL Jacob - LUNA.mp3
+Jun 21 07:11 : update: added latino/Tommy Trash, Dave Winnel - That Accordion Song.mp3
+Jun 21 07:11 : update: added latino/Ozuna, J Balvin, Chencho Corleone - Una Locura.mp3
+Jun 21 07:11 : update: added latino/R3HAB, Ryan Arnold - MAS GASOLINA (feat. N.F.I) - Raffa FL Remix.mp3
+Jun 21 07:11 : update: added latino/Jude & Frank, Totó La Momposina - La Luna.mp3
+Jun 21 07:11 : update: added latino/Anitta, J Balvin - Downtown.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny - Tití Me Preguntó.mp3
+Jun 21 07:11 : update: added latino/Dombresky, Crusy - El Beso (feat. Mathieu Ruz).mp3
+Jun 21 07:11 : update: added latino/MDM - El Perreo.mp3
+Jun 21 07:11 : update: added latino/HUGEL, Lorna, Jenn Morel - Tamo Loco.mp3
+Jun 21 07:11 : update: added latino/HUGEL, Jude & Frank, Twolate - La candela viva.mp3
+Jun 21 07:11 : update: added latino/Black Eyed Peas, Ozuna, J. Rey Soul - MAMACITA.mp3
+Jun 21 07:11 : update: added latino/KVSH, Tim Hox, Cumbiafrica - Corocito (Manguelena).mp3
+Jun 21 07:11 : update: added latino/HUGEL, Cumbiafrica - El Sueno.mp3
+Jun 21 07:11 : update: added latino/Tom & Collins, SUBB - Vai.mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro - Todo De Ti.mp3
+Jun 21 07:11 : update: added latino/Fabich - La Fiesta.mp3
+Jun 21 07:11 : update: added latino/DJ Snake - Loco Contigo (with J. Balvin & Tyga).mp3
+Jun 21 07:11 : update: added latino/Mau y Ricky, Manuel Turizo, Camilo - Desconocidos.mp3
+Jun 21 07:11 : update: added latino/Marshmello, Manuel Turizo - El Merengue - HUGEL Remix.mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro, Chencho Corleone - Desesperados.mp3
+Jun 21 07:11 : update: added latino/AN3M, Till 3AM - La Luna.mp3
+Jun 21 07:11 : update: added latino/Camilo - Vida de Rico.mp3
+Jun 21 07:11 : update: added latino/LVGA - BAM BI LI BAM.mp3
+Jun 21 07:11 : update: added latino/Susy G, Mejai, Carlo - Soltera.mp3
+Jun 21 07:11 : update: added latino/Cris Mj - Una Noche en Medellín.mp3
+Jun 21 07:11 : update: added latino/ROSALÍA, Rauw Alejandro - BESO.mp3
+Jun 21 07:11 : update: added latino/HUGEL, Jude & Frank - Pra Nao Dizer.mp3
+Jun 21 07:11 : update: added latino/Brais, Snrs - Baiana.mp3
+Jun 21 07:11 : update: added latino/Tom & Collins, Robbie Rivera - Me Duele feat. Cumbiafrica.mp3
+Jun 21 07:11 : update: added latino/J Balvin - Rojo.mp3
+Jun 21 07:11 : update: added latino/Nio Garcia, J Balvin, Bad Bunny - AM Remix.mp3
+Jun 21 07:11 : update: added latino/Toni Costanzi - El Monte.mp3
+Jun 21 07:11 : update: added latino/Becky G, NATTI NATASHA - Sin Pijama.mp3
+Jun 21 07:11 : update: added latino/ROSALÍA - TKN (feat. Travis Scott).mp3
+Jun 21 07:11 : update: added latino/Ozuna - Tiempo.mp3
+Jun 21 07:11 : update: added latino/Choujaa, Small ToK, Naama Tov - Siempre.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny, Chencho Corleone - Me Porto Bonito.mp3
+Jun 21 07:11 : update: added latino/Feid, Rema - BUBALU.mp3
+Jun 21 07:11 : update: added latino/Calle 24, Chino Pacas, Fuerza Regida - Que Onda.mp3
+Jun 21 07:11 : update: added latino/Tom & Collins, Thomas Newson, PAVE - Serena.mp3
+Jun 21 07:11 : update: added latino/Lucky Francis - Sinkalà.mp3
+Jun 21 07:11 : update: added latino/Carlos Vives, Shakira - La Bicicleta.mp3
+Jun 21 07:11 : update: added latino/Danit - Cuatro Vientos (HUGEL Version).mp3
+Jun 21 07:11 : update: added latino/HUGEL, BLOND-ISH, Nfasis - Tra Tra.mp3
+Jun 21 07:11 : update: added latino/Pachira, Sam Baby, Steven Montoya - Rolex.mp3
+Jun 21 07:11 : update: added latino/DJ Snake - Taki Taki (with Selena Gomez, Ozuna & Cardi B).mp3
+Jun 21 07:11 : update: added latino/CNCO - Reggaetón Lento (Bailemos).mp3
+Jun 21 07:11 : update: added latino/HUGEL, Ryan Arnold, El Chuape - Pa Lante.mp3
+Jun 21 07:11 : update: added latino/Sergio T, Sesman - Brum Brum.mp3
+Jun 21 07:11 : update: added latino/HUGEL, Jude & Frank, Paolo Pellegrino - Rio Rio (feat. Martina Camargo).mp3
+Jun 21 07:11 : update: added latino/Luar La L - Caile.mp3
+Jun 21 07:11 : update: added latino/Dkuul, MuunIlusion - Sin Ti.mp3
+Jun 21 07:11 : update: added latino/Raffa Fl - Ritmo - HUGEL Edit.mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro - Tattoo - Remix with Camilo.mp3
+Jun 21 07:11 : update: added latino/Tom Enzy - Nord Try.mp3
+Jun 21 07:11 : update: added latino/Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka - La Jeepeta - Remix.mp3
+Jun 21 07:11 : update: added latino/Camilo - Favorito.mp3
+Jun 21 07:11 : update: added latino/Gianluca Vacchi, Alterboy, Thorn - Cucaracha.mp3
+Jun 21 07:11 : update: added latino/Jun LP, Vel Garcia - Frente a Frente.mp3
+Jun 21 07:11 : update: added latino/Federico Scavo, Tello - Caimanera.mp3
+Jun 21 07:11 : update: added latino/Sandgino - Pa Ca.mp3
+Jun 21 07:11 : update: added latino/Tainy - Lo Siento BB- (with Bad Bunny & Julieta Venegas).mp3
+Jun 21 07:11 : update: added latino/HUGEL, Merk & Kremont, Lirico En La Casa - Marianela (Que Pasa).mp3
+Jun 21 07:11 : update: added latino/Shakira, Anuel AA - Me Gusta.mp3
+Jun 21 07:11 : update: added latino/J Balvin - Azul.mp3
+Jun 21 07:11 : update: added latino/Gianluca Vacchi - Viento.mp3
+Jun 21 07:11 : update: added latino/Tom Enzy, Tambor Hembra, La Perla - Que Paso.mp3
+Jun 21 07:11 : update: added latino/Jude & Frank, NRD1, Cumbiafrica - Moliendo Café.mp3
+Jun 21 07:11 : update: added latino/LiL CaKe, Migrantes, Nico Valdi - MERCHO.mp3
+Jun 21 07:11 : update: added latino/J Balvin, Maria Becerra - Qué Más Pues.mp3
+Jun 21 07:11 : update: added latino/Enrique Iglesias, Descemer Bueno, Zion & Lennox - SUBEME LA RADIO.mp3
+Jun 21 07:11 : update: added latino/Pablo Fierro - El Carinoso - Gregor Salto Remix.mp3
+Jun 21 07:11 : update: added latino/Anuel AA, Bad Bunny - Hasta Que Dios Diga.mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro, Farruko - Fantasias.mp3
+Jun 21 07:11 : update: added latino/Tom & Collins - Hagüe.mp3
+Jun 21 07:11 : update: added latino/Arcángel, Bad Bunny - La Jumpa.mp3
+Jun 21 07:11 : update: added latino/Arcángel, Sech, Dímelo Flow - Sigues Con El.mp3
+Jun 21 07:11 : update: added latino/Will Kano, Olivia Sabates - Latina.mp3
+Jun 21 07:11 : update: added latino/Tainy - Agua (with J Balvin) - Music From 'Sponge On The Run' Movie.mp3
+Jun 21 07:11 : update: added latino/Lucky Francis - Oye Papi.mp3
+Jun 21 07:11 : update: added latino/John Summit - La Danza.mp3
+Jun 21 07:11 : update: added latino/Westend - Maracuya.mp3
+Jun 21 07:11 : update: added latino/Aventura, Bad Bunny - Volví.mp3
+Jun 21 07:11 : update: added latino/HUGEL, Tom Enzy, Nfasis, Damien N-Drix - Chakachaka.mp3
+Jun 21 07:11 : update: added latino/Myke Towers, Juhn - Bandido.mp3
+Jun 21 07:11 : update: added latino/J Balvin, Bad Bunny - QUE PRETENDES.mp3
+Jun 21 07:11 : update: added latino/Raffa Fl - Ritmo.mp3
+Jun 21 07:11 : update: added latino/Raaban, Space Primates, Enisa - Bailando.mp3
+Jun 21 07:11 : update: added latino/Farruko, Victor Cardenas, Dj Adoni - El Incomprendido.mp3
+Jun 21 07:11 : update: added latino/KAROL G, Mariah Angeliq - EL MAKINON.mp3
+Jun 21 07:11 : update: added latino/Heynegaard, LVGA - Lo Sé.mp3
+Jun 21 07:11 : update: added latino/Farruko - La Tóxica.mp3
+Jun 21 07:11 : update: added latino/Jude & Frank, NIINE, Vadi - Paque.mp3
+Jun 21 07:11 : update: added latino/KAROL G, Nicki Minaj - Tusa.mp3
+Jun 21 07:11 : update: added latino/Ozuna, Feid - Hey Mor.mp3
+Jun 21 07:11 : update: added latino/Yng Lvcas, Peso Pluma - La Bebe - Remix.mp3
+Jun 21 07:11 : update: added latino/Manuel Turizo, Rauw Alejandro, Myke Towers - La Nota.mp3
+Jun 21 07:11 : update: added latino/Reik - Me Niego (feat. Ozuna & Wisin).mp3
+Jun 21 07:11 : update: added latino/Joshwa - Magalenha.mp3
+Jun 21 07:11 : update: added latino/Marshmello, Manuel Turizo - El Merengue.mp3
+Jun 21 07:11 : update: added latino/zzoilo, Aitana - Mon Amour - Remix.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny - Yonaguni.mp3
+Jun 21 07:11 : update: added latino/Bizarrap - Shakira- Bzrp Music Sessions, Vol. 53.mp3
+Jun 21 07:11 : update: added latino/Rvssian, Rauw Alejandro, Chris Brown - Nostálgico.mp3
+Jun 21 07:11 : update: added latino/Nicky Jam, Daddy Yankee - Muévelo.mp3
+Jun 21 07:11 : update: added latino/Pachira, DAREV OFICIAL, Sam Baby - Ella.mp3
+Jun 21 07:11 : update: added latino/Thvndex, Estie - El Canto.mp3
+Jun 21 07:11 : update: added latino/KAROL G - Ay, DiOs Mío!.mp3
+Jun 21 07:11 : update: added latino/Daddy Yankee, Snow - Con Calma.mp3
+Jun 21 07:11 : update: added latino/Tom & Collins, Thomas Newson, Kenny Brian - Nuestro Amigo.mp3
+Jun 21 07:11 : update: added latino/Lavbbe, Costi - Pumping.mp3
+Jun 21 07:11 : update: added latino/Caballero TheUnFamed, Mingo Cash Only - Deseo.mp3
+Jun 21 07:11 : update: added latino/HUGEL, Crusy, Jenn Morel, Joelii - KLK.mp3
+Jun 21 07:11 : update: added latino/HÄWK, Max Niklas - Tequila.mp3
+Jun 21 07:11 : update: added latino/Davy Music, Esteban Rojas - SECRETOS.mp3
+Jun 21 07:11 : update: added latino/Lucas Estrada, Raffa Fl, TECHOLOGY - Candela.mp3
+Jun 21 07:11 : update: added latino/Carlos Vives, Sebastian Yatra - Robarte un Beso.mp3
+Jun 21 07:11 : update: added latino/Shakira, Rauw Alejandro - Te Felicito.mp3
+Jun 21 07:11 : update: added latino/Myke Towers - LALA.mp3
+Jun 21 07:11 : update: added latino/Jude & Frank, AtcG - La Tarde.mp3
+Jun 21 07:11 : update: added latino/Peso Pluma, Natanael Cano - PRC.mp3
+Jun 21 07:11 : update: added latino/JØRD, Cumbiafrica - Cumbia Buena.mp3
+Jun 21 07:11 : update: added latino/Maluma - Agua de Jamaica.mp3
+Jun 21 07:11 : update: added latino/Gregor Salto, Curio Capoeira - Para Voce.mp3
+Jun 21 07:11 : update: added latino/Reik, Farruko, Camilo - Si Me Dices Que Sí.mp3
+Jun 21 07:11 : update: added latino/L2O - Sun Tribe.mp3
+Jun 21 07:11 : update: added latino/Ozuna - Caramelo.mp3
+Jun 21 07:11 : update: added latino/Tom & Collins - Se Va (feat. Cumbiafrica).mp3
+Jun 21 07:11 : update: added latino/MOONLGHT - Los Destellos.mp3
+Jun 21 07:11 : update: added latino/Feid - CHORRITO PA LAS ANIMAS.mp3
+Jun 21 07:11 : update: added latino/Axel North - SOY.mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro, Chencho Corleone - El Efecto.mp3
+Jun 21 07:11 : update: added latino/Lele Pons - Se Te Nota (with Guaynaa).mp3
+Jun 21 07:11 : update: added latino/Eslabon Armado, Peso Pluma - Ella Baila Sola.mp3
+Jun 21 07:11 : update: added latino/Alvaro Soler - Sofia.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny, Jhayco - DÁKITI.mp3
+Jun 21 07:11 : update: added latino/Black Eyed Peas, J Balvin - RITMO (Bad Boys For Life).mp3
+Jun 21 07:11 : update: added latino/Aaron Noise, Erik Schievenin, Santiago & Carlitos - Hanima Nera.mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro - Sexo Virtual.mp3
+Jun 21 07:11 : update: added latino/Simon Fava, Gregor Salto - Magalenha (feat. Sergio Mendes).mp3
+Jun 21 07:11 : update: added latino/Shakira - Chantaje (feat. Maluma).mp3
+Jun 21 07:11 : update: added latino/Sean Paul, J Balvin - Contra La Pared.mp3
+Jun 21 07:11 : update: added latino/MYLØ, Zafra Negra - Sufriendo.mp3
+Jun 21 07:11 : update: added latino/HUGEL, Nfasis - Como Shakira.mp3
+Jun 21 07:11 : update: added latino/Ricky Rodz - Bipolar.mp3
+Jun 21 07:11 : update: added latino/Nicola Fasano, Salento Guys, Pippo Bravo - Papi Dale Duro - RKN Radio Edit.mp3
+Jun 21 07:11 : update: added latino/Boza - Hecha Pa' Mi.mp3
+Jun 21 07:11 : update: added latino/KAROL G, Shakira - TQG.mp3
+Jun 21 07:11 : update: added latino/Sech - Relación.mp3
+Jun 21 07:11 : update: added latino/Gian Varela, Nenito Vargas - Oiga Morena.mp3
+Jun 21 07:11 : update: added latino/Rezone, MACROLEV - El Ritmo.mp3
+Jun 21 07:11 : update: added latino/Instant Cult, Maxim Schunk, Franz Kolo - Amore.mp3
+Jun 21 07:11 : update: added latino/Jude & Frank, J8Man - Otra Vez.mp3
+Jun 21 07:11 : update: added latino/Vintage Culture, Gilsons, KVSH - Várias Queixas - Radio Edit.mp3
+Jun 21 07:11 : update: added latino/Daddy Yankee, Bad Bunny - X ÚLTIMA VEZ.mp3
+Jun 21 07:11 : update: added latino/Nicky Jam - El Perdón (with Enrique Iglesias).mp3
+Jun 21 07:11 : update: added latino/Tayri, Antho Decks - Colombian Maasai.mp3
+Jun 21 07:11 : update: added latino/Alvaro Soler - La Cintura.mp3
+Jun 21 07:11 : update: added latino/Aya Nakamura - Djadja (feat. Maluma) - Remix.mp3
+Jun 21 07:11 : update: added latino/Wisin, Myke Towers, Los Legendarios - Mi Niña.mp3
+Jun 21 07:11 : update: added latino/HUGEL, Damien N-Drix - Tengo ganas de ti.mp3
+Jun 21 07:11 : update: added latino/Los Legendarios, Wisin, Jhayco - Fiel.mp3
+Jun 21 07:11 : update: added latino/Spice - Go Down Deh (feat. Sean Paul & Shaggy).mp3
+Jun 21 07:11 : update: added latino/Zion & Lennox - Otra vez (feat. J Balvin).mp3
+Jun 21 07:11 : update: added latino/San Pacho - Trompeta.mp3
+Jun 21 07:11 : update: added latino/Albert Neve, Abel Ramos - Guarachando.mp3
+Jun 21 07:11 : update: added latino/Juan Dileju, Franz Kolo - Eres Tú.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny, ROSALÍA - LA NOCHE DE ANOCHE.mp3
+Jun 21 07:11 : update: added latino/Enrique Iglesias, Myke Towers - TE FUISTE.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny, Bomba Estéreo - Ojitos Lindos.mp3
+Jun 21 07:11 : update: added latino/Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow - Hola - Remix.mp3
+Jun 21 07:11 : update: added latino/Sandgino, V_NCE - Me Gustas.mp3
+Jun 21 07:11 : update: added latino/Enrique Iglesias, Bad Bunny - EL BAÑO.mp3
+Jun 21 07:11 : update: added latino/Andrea Crocicchia, Lyon Monster - Me Paraliza.mp3
+Jun 21 07:11 : update: added latino/KAROL G - PROVENZA.mp3
+Jun 21 07:11 : update: added latino/NATTI NATASHA, Ozuna - Criminal.mp3
+Jun 21 07:11 : update: added latino/Bad Bunny - Moscow Mule.mp3
+Jun 21 07:11 : update: added latino/Enrique Iglesias - ME PASE (feat. Farruko).mp3
+Jun 21 07:11 : update: added latino/Gordo, Maluma - Parcera.mp3
+Jun 21 07:11 : update: added latino/Sech, Daddy Yankee, J Balvin, ROSALÍA, Farruko - Relación - Remix.mp3
+Jun 21 07:11 : update: added latino/Rauw Alejandro, Dalex, Lenny Tavárez - Elegí (feat. Dímelo Flow).mp3
+Jun 21 07:11 : update: added latino/Anitta - Envolver.mp3
+Jun 21 07:11 : update: added latino/Nick Raff - E Samba.mp3
+Jun 21 07:11 : update: added latino/Feid, Young Miko - CLASSY 101.mp3
+Jun 21 07:11 : update: added Metal-Rock/Green Day - 21 Guns.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - LOST IN THE ECHO.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - Crawling.mp3
+Jun 21 07:11 : update: added Metal-Rock/Avenged Sevenfold - Hail to the King.mp3
+Jun 21 07:11 : update: added Metal-Rock/Metallica - The Unforgiven.mp3
+Jun 21 07:11 : update: added Metal-Rock/Nirvana - The Man Who Sold The World - Live.mp3
+Jun 21 07:11 : update: added Metal-Rock/MAGIC GIANT, kid baron - Be My Baby.mp3
+Jun 21 07:11 : update: added Metal-Rock/Green Day - Boulevard of Broken Dreams.mp3
+Jun 21 07:11 : update: added Metal-Rock/Keeton Coffman - Violet.mp3
+Jun 21 07:11 : update: added Metal-Rock/Seether, Amy Lee - Broken.mp3
+Jun 21 07:11 : update: added Metal-Rock/Pink Floyd - Another Brick In The Wall - 2001 Remastered Version.mp3
+Jun 21 07:11 : update: added Metal-Rock/Radiohead - Creep.mp3
+Jun 21 07:11 : update: added Metal-Rock/Bon Jovi - It's My Life.mp3
+Jun 21 07:11 : update: added Metal-Rock/Muse - Knights of Cydonia.mp3
+Jun 21 07:11 : update: added Metal-Rock/Five Finger Death Punch - M.I.N.E (End This Way).mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - ROADS UNTRAVELED.mp3
+Jun 21 07:11 : update: added Metal-Rock/Arctic Monkeys - Do I Wanna Know.mp3
+Jun 21 07:11 : update: added Metal-Rock/Muse - Uprising.mp3
+Jun 21 07:11 : update: added Metal-Rock/Pantera - Cowboys from Hell.mp3
+Jun 21 07:11 : update: added Metal-Rock/Once Around - Love and War.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - Nobody's Listening.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - Good Goodbye (feat. Pusha T and Stormzy).mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - In the End.mp3
+Jun 21 07:11 : update: added Metal-Rock/All That Remains - What If I Was Nothing.mp3
+Jun 21 07:11 : update: added Metal-Rock/Raysablaze - Mid July.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - Final Masquerade.mp3
+Jun 21 07:11 : update: added Metal-Rock/IVORY BLUE - Howl.mp3
+Jun 21 07:11 : update: added Metal-Rock/Arch Enemy - Ravenous.mp3
+Jun 21 07:11 : update: added Metal-Rock/Fall Out Boy - Centuries.mp3
+Jun 21 07:11 : update: added Metal-Rock/Evanescence - Lithium.mp3
+Jun 21 07:11 : update: added Metal-Rock/Red Hot Chili Peppers - Scar Tissue.mp3
+Jun 21 07:11 : update: added Metal-Rock/Marilyn Manson - Tainted Love.mp3
+Jun 21 07:11 : update: added Metal-Rock/Seether - Breakdown.mp3
+Jun 21 07:11 : update: added Metal-Rock/Nirvana - Where Did You Sleep Last Night - Live.mp3
+Jun 21 07:11 : update: added Metal-Rock/Europe - The Final Countdown.mp3
+Jun 21 07:11 : update: added Metal-Rock/Nightwish - Nemo.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - Fallen Angel.mp3
+Jun 21 07:11 : update: added Metal-Rock/Seether - Fake It.mp3
+Jun 21 07:11 : update: added Metal-Rock/Bring Me The Horizon - Throne.mp3
+Jun 21 07:11 : update: added Metal-Rock/Godsmack - Love-Hate-Sex-Pain.mp3
+Jun 21 07:11 : update: added Metal-Rock/Metallica - The Unforgiven II.mp3
+Jun 21 07:11 : update: added Metal-Rock/The Agonist - Take Me to Church.mp3
+Jun 21 07:11 : update: added Metal-Rock/Muse - Pressure.mp3
+Jun 21 07:11 : update: added Metal-Rock/3 Doors Down - Kryptonite.mp3
+Jun 21 07:11 : update: added Metal-Rock/Slipknot - Before I Forget.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - Get Out Alive.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - So Called Life.mp3
+Jun 21 07:11 : update: added Metal-Rock/Imagine Dragons - Believer.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - A Place for My Head.mp3
+Jun 21 07:11 : update: added Metal-Rock/Red Hot Chili Peppers - Snow (Hey Oh).mp3
+Jun 21 07:11 : update: added Metal-Rock/Metallica - Nothing Else Matters.mp3
+Jun 21 07:11 : update: added Metal-Rock/Imagine Dragons - Natural.mp3
+Jun 21 07:11 : update: added Metal-Rock/Sunburst - Hollow Lies.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - Time of Dying.mp3
+Jun 21 07:11 : update: added Metal-Rock/Nightwish - Amaranth.mp3
+Jun 21 07:11 : update: added Metal-Rock/Vendetta XIII - Fire Ride.mp3
+Jun 21 07:11 : update: added Metal-Rock/Arch Enemy - As the Pages Burn.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - Never Too Late.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - Painkiller.mp3
+Jun 21 07:11 : update: added Metal-Rock/Dolly Parton - Jolene.mp3
+Jun 21 07:11 : update: added Metal-Rock/Eric Clapton - Cocaine.mp3
+Jun 21 07:11 : update: added Metal-Rock/System Of A Down - Lonely Day.mp3
+Jun 21 07:11 : update: added Metal-Rock/R.E.M. - Losing My Religion.mp3
+Jun 21 07:11 : update: added Metal-Rock/System Of A Down - B.Y.O.B..mp3
+Jun 21 07:11 : update: added Metal-Rock/Evanescence - Bring Me To Life.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - Just Like You.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - From the Inside.mp3
+Jun 21 07:11 : update: added Metal-Rock/Nirvana - Smells Like Teen Spirit.mp3
+Jun 21 07:11 : update: added Metal-Rock/blink-182 - All The Small Things.mp3
+Jun 21 07:11 : update: added Metal-Rock/Arch Enemy - The World Is Yours.mp3
+Jun 21 07:11 : update: added Metal-Rock/Survivor - Eye of the Tiger.mp3
+Jun 21 07:11 : update: added Metal-Rock/System Of A Down - Chop Suey!.mp3
+Jun 21 07:11 : update: added Metal-Rock/Green Day - Holiday.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - Faint.mp3
+Jun 21 07:11 : update: added Metal-Rock/Slipknot - The Devil in I.mp3
+Jun 21 07:11 : update: added Metal-Rock/Weapons of Anew - Angel Has Fallen.mp3
+Jun 21 07:11 : update: added Metal-Rock/Muse - The Handler.mp3
+Jun 21 07:11 : update: added Metal-Rock/3 Doors Down - When I'm Gone.mp3
+Jun 21 07:11 : update: added Metal-Rock/Nirvana - Heart-Shaped Box.mp3
+Jun 21 07:11 : update: added Metal-Rock/Katatonia - Omerta.mp3
+Jun 21 07:11 : update: added Metal-Rock/Kings of Leon - Use Somebody.mp3
+Jun 21 07:11 : update: added Metal-Rock/Nightwish - Wish I Had an Angel.mp3
+Jun 21 07:11 : update: added Metal-Rock/System Of A Down - Roulette.mp3
+Jun 21 07:11 : update: added Metal-Rock/Deully - Running on Empty.mp3
+Jun 21 07:11 : update: added Metal-Rock/Bloodhound Gang - Foxtrot Uniform Charlie Kilo.mp3
+Jun 21 07:11 : update: added Metal-Rock/Mario Vayne - Electric.mp3
+Jun 21 07:11 : update: added Metal-Rock/Red Hot Chili Peppers - Dani California.mp3
+Jun 21 07:11 : update: added Metal-Rock/Skillet - Never Surrender.mp3
+Jun 21 07:11 : update: added Metal-Rock/Five Finger Death Punch - A Little Bit Off.mp3
+Jun 21 07:11 : update: added Metal-Rock/Slipknot - Duality.mp3
+Jun 21 07:11 : update: added Metal-Rock/Disturbed - Down with the Sickness.mp3
+Jun 21 07:11 : update: added Metal-Rock/Arch Enemy - Nemesis.mp3
+Jun 21 07:11 : update: added Metal-Rock/The Eyelash - Dark Shadow.mp3
+Jun 21 07:11 : update: added Metal-Rock/Arch Enemy - War Eternal.mp3
+Jun 21 07:11 : update: added Metal-Rock/Muse - Hysteria.mp3
+Jun 21 07:11 : update: added Metal-Rock/3 Doors Down - Here Without You.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - Animal I Have Become.mp3
+Jun 21 07:11 : update: added Metal-Rock/Iced Earth - Watching over Me.mp3
+Jun 21 07:11 : update: added Metal-Rock/Red Hot Chili Peppers - Dark Necessities.mp3
+Jun 21 07:11 : update: added Metal-Rock/Disturbed - Inside the Fire.mp3
+Jun 21 07:11 : update: added Metal-Rock/Red Hot Chili Peppers - Otherside.mp3
+Jun 21 07:11 : update: added Metal-Rock/Scorpions - Still Loving You.mp3
+Jun 21 07:11 : update: added Metal-Rock/Aerosmith - Dream On.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - Somewhere I Belong.mp3
+Jun 21 07:11 : update: added Metal-Rock/Muse - Won’t Stand Down.mp3
+Jun 21 07:11 : update: added Metal-Rock/Ubiquity Machine - Beautiful Girl.mp3
+Jun 21 07:11 : update: added Metal-Rock/Disturbed - The Sound of Silence.mp3
+Jun 21 07:11 : update: added Metal-Rock/Caladium - Cuban Squeeze.mp3
+Jun 21 07:11 : update: added Metal-Rock/Red Hot Chili Peppers - Californication.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - Pain.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - I Hate Everything About You.mp3
+Jun 21 07:11 : update: added Metal-Rock/Imagine Dragons - Demons.mp3
+Jun 21 07:11 : update: added Metal-Rock/Linkin Park - Numb.mp3
+Jun 21 07:11 : update: added Metal-Rock/Caladium - Train.mp3
+Jun 21 07:11 : update: added Metal-Rock/Marilyn Manson - Sweet Dreams (Are Made Of This).mp3
+Jun 21 07:11 : update: added Metal-Rock/Nightwish - Bye Bye Beautiful.mp3
+Jun 21 07:11 : update: added Metal-Rock/The Dirty Nines - HOLY LOLA.mp3
+Jun 21 07:11 : update: added Metal-Rock/Skillet - Comatose.mp3
+Jun 21 07:11 : update: added Metal-Rock/Radiohead - Street Spirit (Fade Out).mp3
+Jun 21 07:11 : update: added Metal-Rock/Korn - Coming Undone.mp3
+Jun 21 07:11 : update: added Metal-Rock/Avenged Sevenfold - Bat Country.mp3
+Jun 21 07:11 : update: added Metal-Rock/Black Sabbath - Paranoid.mp3
+Jun 21 07:11 : update: added Metal-Rock/Five Finger Death Punch - Bad Company.mp3
+Jun 21 07:11 : update: added Metal-Rock/Evanescence - My Immortal.mp3
+Jun 21 07:11 : update: added Metal-Rock/Bullet For My Valentine - Your Betrayal.mp3
+Jun 21 07:11 : update: added Metal-Rock/Green Day - Wake Me up When September Ends.mp3
+Jun 21 07:11 : update: added Metal-Rock/Arch Enemy - The Eagle Flies Alone - edit.mp3
+Jun 21 07:11 : update: added Metal-Rock/Evanescence - My Heart Is Broken.mp3
+Jun 21 07:11 : update: added Metal-Rock/Scorpions - Rock You Like a Hurricane - 2011.mp3
+Jun 21 07:11 : update: added Metal-Rock/Slipknot - Psychosocial.mp3
+Jun 21 07:11 : update: added Metal-Rock/Bullet For My Valentine - Tears Don't Fall.mp3
+Jun 21 07:11 : update: added Metal-Rock/Skillet - Awake and Alive.mp3
+Jun 21 07:11 : update: added Metal-Rock/blink-182 - What's My Age Again.mp3
+Jun 21 07:11 : update: added Metal-Rock/Kings of Leon - Sex on Fire.mp3
+Jun 21 07:11 : update: added Metal-Rock/Skillet - Hero.mp3
+Jun 21 07:11 : update: added Metal-Rock/KISS - I Was Made For Lovin' You.mp3
+Jun 21 07:11 : update: added Metal-Rock/Three Days Grace - Somebody That I Used to Know.mp3
+Jun 21 07:11 : update: added Metal-Rock/Rage Against The Machine - Killing In The Name.mp3
+Jun 21 07:11 : update: added Metal-Rock/Metallica - Enter Sandman.mp3
+Jun 21 07:11 : update: added Metal-Rock/Limp Bizkit - Break Stuff.mp3
+Jun 21 07:11 : update: added Metal-Rock/System Of A Down - Aerials.mp3
+Jun 21 07:11 : update: added Metal-Rock/I Ya Toyah - I am the Fire.mp3
+Jun 21 07:11 : update: added Metal-Rock/Limp Bizkit - Behind Blue Eyes.mp3
+Jun 21 07:11 : update: added Metal-Rock/Imagine Dragons - Radioactive.mp3
+Jun 21 07:11 : update: added Metal-Rock/Nirvana - Something In The Way.mp3
+Jun 21 07:11 : update: added Metal-Rock/Skillet - Monster.mp3
+Jun 21 07:11 : update: added Metal-Rock/Arch Enemy - You Will Know My Name.mp3
+Jun 21 07:12 : exception: Bad song index
+Jun 21 07:12 : exception: Bad song index
+Jun 21 07:12 : exception: Bad song index
+Jun 21 07:12 : exception: Bad song index
+Jun 21 07:13 : exception: Bad song index
+Jun 21 07:13 : exception: Bad song index
+Jun 21 07:13 : exception: Bad song index
+Jun 21 07:16 : player: played "Metal-Rock/Muse - Won’t Stand Down.mp3"
+Jun 21 07:16 : player: played "latino/Bad Bunny - Yonaguni.mp3"
+Jun 21 20:41 : exception: Failed to create /home/nihil/.mpd/mpdstate: No such file or directory
+Jun 21 20:43 : player: played "Metal-Rock/Pantera - Cowboys from Hell.mp3"
