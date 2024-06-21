@@ -1,0 +1,44 @@
+palette = "pywal"
+[palettes.pywal]
+color0="#0D0C18"
+color1="#403E6A"
+color2="#A6436B"
+color3="#315B91"
+color4="#5D5893"
+color5="#9F5499"
+color6="#C55F97"
+color7="#9fc9da"
+color8="#6f8c98"
+red='#880808'
+[username]
+style_user = "color5 bold"
+style_root = "color5 bold"
+format = "[$user]($style) "
+disabled = false
+show_always = true
+
+[hostname]
+ssh_only = false
+format = 'on [$hostname](bold color4) '
+trim_at = "."
+disabled = false
+
+[character]
+success_symbol = "[[♥](color1) ❯](color1)"
+error_symbol = "[✗](bold red)"
+vimcmd_symbol = "[❮](color3)"
+
+#  
+# configure directory
+[directory]
+read_only = " "
+truncation_length = 10
+truncate_to_repo = true # truncates directory to root folder if in github repo
+style = "bold italic color4"
+
+[cmd_duration]
+min_time = 4
+show_milliseconds = false
+disabled = false
+style = "bold italic color4"
+

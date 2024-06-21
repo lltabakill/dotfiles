@@ -1,0 +1,47 @@
+import = ["/home/nihil/.cache/wal/colors-alacritty.yml"]
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[cursor.style]
+blink_interval = 750
+blinking = "off"
+shape = "Beam"
+
+[font]
+size = 10
+
+[font.bold]
+family = "Hack"
+style = "Bold"
+
+[font.bold_italic]
+family = "Hack"
+style = "BoldItalic"
+
+[font.italic]
+family = "Hack"
+style = "Italic"
+
+[font.normal]
+family = "Hack"
+style = "Medium"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window]
+opacity = 0.9
+
+[window.class]
+general = "Alacritty"
+instance = "Alacritty"
+
+[window.dimensions]
+columns = 134
+lines = 30
+
+[window.padding]
+x = 5
+y = 5

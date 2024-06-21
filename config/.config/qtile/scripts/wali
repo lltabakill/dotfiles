@@ -1,0 +1,135 @@
+#!/bin/bash
+
+# script to set random background wallpapers on my GNOME desktop
+# set base path
+export wallpaper_path=$HOME/Pictures
+shopt -s nullglob
+
+# shuffle function for the wallpapers
+shuffle() {
+    local i tmp size max rand
+
+   # $RANDOM % (i+1) is biased because of the limited range of $RANDOM
+   # Compensate by using a range which is a multiple of the array size.
+   size=${#wallpapers[*]}
+   max=$(( 32768 / size * size ))
+
+   for ((i=size-1; i>0; i--)); do
+       while (( (rand=$RANDOM) >= max )); do :; done
+       rand=$(( rand % (i+1) ))
+       tmp=${wallpapers[i]} wallpapers[i]=${wallpapers[rand]} wallpapers[rand]=$tmp
+   done
+}
+
+# store all the image file names in wallpapers array
+wallpapers=(
+    "$wallpaper_path"/*.jpg
+    "$wallpaper_path"/*.jpeg
+    "$wallpaper_path"/*.png
+    "$wallpaper_path"/*.bmp
+    "$wallpaper_path"/*.svg
+)
+# get array length
+wallpapers_size=${#wallpapers[*]}
+
+# randomly shuffle the wallpapers at start up
+shuffle
+
+# set wallpapers in incremental order
+index=0
+#while [ $index -lt $wallpapers_size ]
+#do
+gsettings set org.gnome.desktop.background picture-uri "${wallpapers[$index]}"
+wal -i "${wallpapers[$index]}"
+    # index is maxing out, so reset it
+#    if [ $(($index+1)) -eq $wallpapers_size ]
+#    then
+#        index=0
+#    else
+#        index=$(($index + 1))
+#    fi
+    # keep the wallpaper for the specified time
+#    sleep 60m
+#done
+# Color files
+#PFILE="$HOME/.config/polybar/colorblocks/colors.ini"
+#RFILE="$HOME/.config/polybar/colorblocks/scripts/rofi/colors.rasi"
+WFILE="$HOME/.cache/wal/colors.sh"
+
+# Get colors
+# Get colors
+pywal_get() {
+	wal -i "${wallpapers[$index]}" -q -t
+}
+# Change colors
+#change_color() {
+	# polybar
+#	sed -i -e "s/background = #.*/background = $BG/g" $PFILE
+#	sed -i -e "s/foreground = #.*/foreground = $FG/g" $PFILE
+#	sed -i -e "s/foreground-alt = #.*/foreground-alt = $FGA/g" $PFILE
+#	sed -i -e "s/primary = #.*/shade1 = $SH1/g" $PFILE
+#	sed -i -e "s/secondary = #.*/shade2 = $SH2/g" $PFILE
+#	sed -i -e "s/shade3 = #.*/shade3 = $SH3/g" $PFILE
+#	sed -i -e "s/shade4 = #.*/shade4 = $SH4/g" $PFILE
+#	sed -i -e "s/shade5 = #.*/shade5 = $SH5/g" $PFILE
+#	sed -i -e "s/shade6 = #.*/shade6 = $SH6/g" $PFILE
+#	sed -i -e "s/shade7 = #.*/shade7 = $SH7/g" $PFILE
+#	sed -i -e "s/shade8 = #.*/shade8 = $SH8/g" $PFILE
+
+	# rofi
+#	cat > $RFILE <<- EOF
+#	/* colors */
+
+#	* {
+#	  al:    #00000000;
+#	  bg:    ${BG}FF;
+#	  bg1:   ${SH8}FF;
+#	  bg2:   ${SH7}FF;
+#	  bg3:   ${SH6}FF;
+#	  fg:    ${FGA}FF;
+#	}
+#	EOF
+
+#	polybar-msg cmd restart
+#}
+
+# Main
+if [[ -x "`which wal`" ]]; then
+	if [[ "${wallpapers[$index]}" ]]; then
+		pywal_get "${wallpapers[$index]}"
+
+		# Source the pywal color file
+		if [[ -e "$WFILE" ]]; then
+			. "$WFILE"
+		else
+			echo 'Color file does not exist, exiting...'
+			exit 1
+		fi
+
+		BG=`printf "%s\n" "$background"`
+		FG=`printf "%s\n" "$color0"`
+		FGA=`printf "%s\n" "$color7"`
+		SH1=`printf "%s\n" "$color1"`
+		SH2=`printf "%s\n" "$color2"`
+		SH3=`printf "%s\n" "$color1"`
+		SH4=`printf "%s\n" "$color2"`
+		SH5=`printf "%s\n" "$color1"`
+		SH6=`printf "%s\n" "$color2"`
+		SH7=`printf "%s\n" "$color1"`
+		SH8=`printf "%s\n" "$color2"`
+        qtile cmd-obj -o cmd -f reload_config
+		#change_color
+	else
+		echo -e "[!] Please enter the path to wallpaper. \n"
+		echo "Usage : ./pywal.sh path/to/image"
+	fi
+else
+	echo "[!] 'pywal' is not installed."
+fi
+
+i=0
+while IFS= read -r line; do
+    line=${line//$'\r'/}
+    sed -i -e 's,color'$i'="#.*,color'$i'="'$line'",g' /home/nihil/.config/starship.toml
+    i=$((i+1))
+done < /home/nihil/.cache/wal/colors
