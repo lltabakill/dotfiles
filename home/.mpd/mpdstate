@@ -1,9 +1,9 @@
-sw_volume: 70
+sw_volume: 100
 audio_device_state:1:Pipewire Sound Server
 audio_device_state:1:Visualizer feed
 state: play
-current: 26
-time: 120.091000
+current: 1
+time: 123.182000
 random: 1
 repeat: 0
 single: 0
@@ -18,144 +18,141 @@ playlist_begin
 3:Metal-Rock/All That Remains - What If I Was Nothing.mp3
 4:Metal-Rock/Muse - Hysteria.mp3
 5:Metal-Rock/Aerosmith - Dream On.mp3
-6:Metal-Rock/Slipknot - Psychosocial.mp3
-7:Metal-Rock/Arctic Monkeys - Do I Wanna Know.mp3
-8:Metal-Rock/Fall Out Boy - Centuries.mp3
-9:Metal-Rock/Green Day - Wake Me up When September Ends.mp3
-10:Metal-Rock/Weapons of Anew - Angel Has Fallen.mp3
-11:Metal-Rock/Skillet - Hero.mp3
-12:Metal-Rock/Skillet - Monster.mp3
-13:Metal-Rock/Skillet - Awake and Alive.mp3
-14:Metal-Rock/Skillet - Never Surrender.mp3
-15:Metal-Rock/3 Doors Down - When I'm Gone.mp3
-16:Metal-Rock/3 Doors Down - Here Without You.mp3
-17:Metal-Rock/MAGIC GIANT, kid baron - Be My Baby.mp3
-18:Metal-Rock/Ubiquity Machine - Beautiful Girl.mp3
-19:Metal-Rock/Muse - Knights of Cydonia.mp3
-20:Metal-Rock/Green Day - Boulevard of Broken Dreams.mp3
-21:Metal-Rock/Red Hot Chili Peppers - Scar Tissue.mp3
-22:Metal-Rock/Red Hot Chili Peppers - Otherside.mp3
-23:Metal-Rock/Red Hot Chili Peppers - Californication.mp3
-24:Metal-Rock/Avenged Sevenfold - Bat Country.mp3
-25:Metal-Rock/Skillet - Comatose.mp3
-26:Metal-Rock/Scorpions - Rock You Like a Hurricane - 2011.mp3
-27:Metal-Rock/Scorpions - Still Loving You.mp3
-28:Metal-Rock/Bon Jovi - It's My Life.mp3
-29:Metal-Rock/Caladium - Cuban Squeeze.mp3
-30:Metal-Rock/Nightwish - Bye Bye Beautiful.mp3
-31:Metal-Rock/Nightwish - Amaranth.mp3
-32:Metal-Rock/The Eyelash - Dark Shadow.mp3
-33:Metal-Rock/Seether, Amy Lee - Broken.mp3
-34:Metal-Rock/Arch Enemy - Nemesis.mp3
-35:Metal-Rock/Muse - The Handler.mp3
-36:Metal-Rock/KISS - I Was Made For Lovin' You.mp3
-37:Metal-Rock/Mario Vayne - Electric.mp3
-38:Metal-Rock/blink-182 - What's My Age Again.mp3
-39:Metal-Rock/blink-182 - All The Small Things.mp3
-40:Metal-Rock/Evanescence - My Heart Is Broken.mp3
-41:Metal-Rock/Imagine Dragons - Believer.mp3
-42:Metal-Rock/Three Days Grace - So Called Life.mp3
-43:Metal-Rock/Five Finger Death Punch - A Little Bit Off.mp3
-44:Metal-Rock/Evanescence - Bring Me To Life.mp3
-45:Metal-Rock/Evanescence - My Immortal.mp3
-46:Metal-Rock/Bullet For My Valentine - Your Betrayal.mp3
-47:Metal-Rock/Seether - Fake It.mp3
-48:Metal-Rock/Seether - Breakdown.mp3
-49:Metal-Rock/Vendetta XIII - Fire Ride.mp3
-50:Metal-Rock/The Agonist - Take Me to Church.mp3
-51:Metal-Rock/Avenged Sevenfold - Hail to the King.mp3
-52:Metal-Rock/Bloodhound Gang - Foxtrot Uniform Charlie Kilo.mp3
-53:Metal-Rock/Green Day - Holiday.mp3
-54:Metal-Rock/Sunburst - Hollow Lies.mp3
-55:Metal-Rock/The Dirty Nines - HOLY LOLA.mp3
-56:Metal-Rock/IVORY BLUE - Howl.mp3
-57:Metal-Rock/Three Days Grace - Painkiller.mp3
-58:Metal-Rock/Three Days Grace - Fallen Angel.mp3
-59:Metal-Rock/Linkin Park - Crawling.mp3
-60:Metal-Rock/Linkin Park - In the End.mp3
-61:Metal-Rock/Linkin Park - A Place for My Head.mp3
-62:Metal-Rock/System Of A Down - Lonely Day.mp3
-63:Metal-Rock/I Ya Toyah - I am the Fire.mp3
-64:Metal-Rock/Disturbed - The Sound of Silence.mp3
-65:Metal-Rock/Raysablaze - Mid July.mp3
-66:Metal-Rock/Nirvana - Heart-Shaped Box.mp3
-67:Metal-Rock/Disturbed - Inside the Fire.mp3
-68:Metal-Rock/Dolly Parton - Jolene.mp3
-69:Metal-Rock/Linkin Park - LOST IN THE ECHO.mp3
-70:Metal-Rock/Linkin Park - ROADS UNTRAVELED.mp3
-71:Metal-Rock/Once Around - Love and War.mp3
-72:Metal-Rock/Metallica - Enter Sandman.mp3
-73:Metal-Rock/Metallica - The Unforgiven.mp3
-74:Metal-Rock/Metallica - Nothing Else Matters.mp3
-75:Metal-Rock/Linkin Park - Faint.mp3
-76:Metal-Rock/Linkin Park - From the Inside.mp3
-77:Metal-Rock/Linkin Park - Numb.mp3
-78:Metal-Rock/Linkin Park - Somewhere I Belong.mp3
-79:Metal-Rock/Linkin Park - Nobody's Listening.mp3
-80:Metal-Rock/System Of A Down - B.Y.O.B..mp3
-81:Metal-Rock/Nirvana - The Man Who Sold The World - Live.mp3
-82:Metal-Rock/Nirvana - Where Did You Sleep Last Night - Live.mp3
-83:Metal-Rock/Nirvana - Smells Like Teen Spirit.mp3
-84:Metal-Rock/Nirvana - Something In The Way.mp3
-85:Metal-Rock/Imagine Dragons - Radioactive.mp3
-86:Metal-Rock/Imagine Dragons - Demons.mp3
-87:Metal-Rock/Nightwish - Wish I Had an Angel.mp3
-88:Metal-Rock/Nightwish - Nemo.mp3
-89:Metal-Rock/Linkin Park - Good Goodbye (feat. Pusha T and Stormzy).mp3
-90:Metal-Rock/Three Days Grace - Pain.mp3
-91:Metal-Rock/Three Days Grace - Animal I Have Become.mp3
-92:Metal-Rock/Three Days Grace - Never Too Late.mp3
-93:Metal-Rock/Three Days Grace - Get Out Alive.mp3
-94:Metal-Rock/Three Days Grace - Time of Dying.mp3
-95:Metal-Rock/Kings of Leon - Sex on Fire.mp3
-96:Metal-Rock/Kings of Leon - Use Somebody.mp3
-97:Metal-Rock/Imagine Dragons - Natural.mp3
-98:Metal-Rock/R.E.M. - Losing My Religion.mp3
-99:Metal-Rock/Radiohead - Creep.mp3
-100:Metal-Rock/Black Sabbath - Paranoid.mp3
-101:Metal-Rock/Rage Against The Machine - Killing In The Name.mp3
-102:Metal-Rock/Metallica - The Unforgiven II.mp3
-103:Metal-Rock/Limp Bizkit - Behind Blue Eyes.mp3
-104:Metal-Rock/Survivor - Eye of the Tiger.mp3
-105:Metal-Rock/Korn - Coming Undone.mp3
-106:Metal-Rock/Limp Bizkit - Break Stuff.mp3
-107:Metal-Rock/Muse - Pressure.mp3
-108:Metal-Rock/Eric Clapton - Cocaine.mp3
-109:Metal-Rock/Marilyn Manson - Sweet Dreams (Are Made Of This).mp3
-110:Metal-Rock/Three Days Grace - Somebody That I Used to Know.mp3
-111:Metal-Rock/Red Hot Chili Peppers - Dani California.mp3
-112:Metal-Rock/Red Hot Chili Peppers - Snow (Hey Oh).mp3
-113:Metal-Rock/System Of A Down - Roulette.mp3
-114:Metal-Rock/Bring Me The Horizon - Throne.mp3
-115:Metal-Rock/Radiohead - Street Spirit (Fade Out).mp3
-116:Metal-Rock/3 Doors Down - Kryptonite.mp3
-117:Metal-Rock/Iced Earth - Watching over Me.mp3
-118:Metal-Rock/Europe - The Final Countdown.mp3
-119:Metal-Rock/Red Hot Chili Peppers - Dark Necessities.mp3
-120:Metal-Rock/Marilyn Manson - Tainted Love.mp3
-121:Metal-Rock/Linkin Park - Final Masquerade.mp3
-122:Metal-Rock/Evanescence - Lithium.mp3
-123:Metal-Rock/Godsmack - Love-Hate-Sex-Pain.mp3
-124:Metal-Rock/Bullet For My Valentine - Tears Don't Fall.mp3
-125:Metal-Rock/Muse - Uprising.mp3
-126:Metal-Rock/Disturbed - Down with the Sickness.mp3
-127:Metal-Rock/Five Finger Death Punch - M.I.N.E (End This Way).mp3
-128:Metal-Rock/Caladium - Train.mp3
-129:Metal-Rock/Deully - Running on Empty.mp3
-130:Metal-Rock/Three Days Grace - I Hate Everything About You.mp3
-131:Metal-Rock/Three Days Grace - Just Like You.mp3
-132:Metal-Rock/System Of A Down - Chop Suey!.mp3
-133:Metal-Rock/System Of A Down - Aerials.mp3
-134:Metal-Rock/Keeton Coffman - Violet.mp3
-135:Metal-Rock/Katatonia - Omerta.mp3
-136:Metal-Rock/Slipknot - Duality.mp3
-137:Metal-Rock/Slipknot - Before I Forget.mp3
-138:Metal-Rock/Arch Enemy - Ravenous.mp3
-139:Metal-Rock/Arch Enemy - War Eternal.mp3
-140:Metal-Rock/Arch Enemy - As the Pages Burn.mp3
-141:Metal-Rock/Arch Enemy - You Will Know My Name.mp3
-142:Metal-Rock/Five Finger Death Punch - Bad Company.mp3
-143:Metal-Rock/Arch Enemy - The World Is Yours.mp3
-144:Metal-Rock/Arch Enemy - The Eagle Flies Alone - edit.mp3
-145:Metal-Rock/Muse - Won’t Stand Down.mp3
+6:Metal-Rock/Arctic Monkeys - Do I Wanna Know.mp3
+7:Metal-Rock/Fall Out Boy - Centuries.mp3
+8:Metal-Rock/Green Day - Wake Me up When September Ends.mp3
+9:Metal-Rock/Weapons of Anew - Angel Has Fallen.mp3
+10:Metal-Rock/Skillet - Hero.mp3
+11:Metal-Rock/Skillet - Monster.mp3
+12:Metal-Rock/Skillet - Awake and Alive.mp3
+13:Metal-Rock/Skillet - Never Surrender.mp3
+14:Metal-Rock/3 Doors Down - When I'm Gone.mp3
+15:Metal-Rock/3 Doors Down - Here Without You.mp3
+16:Metal-Rock/MAGIC GIANT, kid baron - Be My Baby.mp3
+17:Metal-Rock/Ubiquity Machine - Beautiful Girl.mp3
+18:Metal-Rock/Muse - Knights of Cydonia.mp3
+19:Metal-Rock/Green Day - Boulevard of Broken Dreams.mp3
+20:Metal-Rock/Red Hot Chili Peppers - Scar Tissue.mp3
+21:Metal-Rock/Red Hot Chili Peppers - Otherside.mp3
+22:Metal-Rock/Red Hot Chili Peppers - Californication.mp3
+23:Metal-Rock/Avenged Sevenfold - Bat Country.mp3
+24:Metal-Rock/Skillet - Comatose.mp3
+25:Metal-Rock/Scorpions - Still Loving You.mp3
+26:Metal-Rock/Bon Jovi - It's My Life.mp3
+27:Metal-Rock/Caladium - Cuban Squeeze.mp3
+28:Metal-Rock/Nightwish - Bye Bye Beautiful.mp3
+29:Metal-Rock/Nightwish - Amaranth.mp3
+30:Metal-Rock/The Eyelash - Dark Shadow.mp3
+31:Metal-Rock/Seether, Amy Lee - Broken.mp3
+32:Metal-Rock/Arch Enemy - Nemesis.mp3
+33:Metal-Rock/Muse - The Handler.mp3
+34:Metal-Rock/KISS - I Was Made For Lovin' You.mp3
+35:Metal-Rock/Mario Vayne - Electric.mp3
+36:Metal-Rock/blink-182 - What's My Age Again.mp3
+37:Metal-Rock/blink-182 - All The Small Things.mp3
+38:Metal-Rock/Evanescence - My Heart Is Broken.mp3
+39:Metal-Rock/Imagine Dragons - Believer.mp3
+40:Metal-Rock/Three Days Grace - So Called Life.mp3
+41:Metal-Rock/Five Finger Death Punch - A Little Bit Off.mp3
+42:Metal-Rock/Evanescence - Bring Me To Life.mp3
+43:Metal-Rock/Evanescence - My Immortal.mp3
+44:Metal-Rock/Bullet For My Valentine - Your Betrayal.mp3
+45:Metal-Rock/Seether - Fake It.mp3
+46:Metal-Rock/Seether - Breakdown.mp3
+47:Metal-Rock/Vendetta XIII - Fire Ride.mp3
+48:Metal-Rock/The Agonist - Take Me to Church.mp3
+49:Metal-Rock/Avenged Sevenfold - Hail to the King.mp3
+50:Metal-Rock/Bloodhound Gang - Foxtrot Uniform Charlie Kilo.mp3
+51:Metal-Rock/Green Day - Holiday.mp3
+52:Metal-Rock/Sunburst - Hollow Lies.mp3
+53:Metal-Rock/The Dirty Nines - HOLY LOLA.mp3
+54:Metal-Rock/IVORY BLUE - Howl.mp3
+55:Metal-Rock/Three Days Grace - Painkiller.mp3
+56:Metal-Rock/Three Days Grace - Fallen Angel.mp3
+57:Metal-Rock/Linkin Park - Crawling.mp3
+58:Metal-Rock/Linkin Park - In the End.mp3
+59:Metal-Rock/Linkin Park - A Place for My Head.mp3
+60:Metal-Rock/System Of A Down - Lonely Day.mp3
+61:Metal-Rock/I Ya Toyah - I am the Fire.mp3
+62:Metal-Rock/Disturbed - The Sound of Silence.mp3
+63:Metal-Rock/Raysablaze - Mid July.mp3
+64:Metal-Rock/Nirvana - Heart-Shaped Box.mp3
+65:Metal-Rock/Disturbed - Inside the Fire.mp3
+66:Metal-Rock/Dolly Parton - Jolene.mp3
+67:Metal-Rock/Linkin Park - LOST IN THE ECHO.mp3
+68:Metal-Rock/Linkin Park - ROADS UNTRAVELED.mp3
+69:Metal-Rock/Once Around - Love and War.mp3
+70:Metal-Rock/Metallica - Enter Sandman.mp3
+71:Metal-Rock/Metallica - The Unforgiven.mp3
+72:Metal-Rock/Metallica - Nothing Else Matters.mp3
+73:Metal-Rock/Linkin Park - Faint.mp3
+74:Metal-Rock/Linkin Park - From the Inside.mp3
+75:Metal-Rock/Linkin Park - Numb.mp3
+76:Metal-Rock/Linkin Park - Somewhere I Belong.mp3
+77:Metal-Rock/Linkin Park - Nobody's Listening.mp3
+78:Metal-Rock/System Of A Down - B.Y.O.B..mp3
+79:Metal-Rock/Nirvana - The Man Who Sold The World - Live.mp3
+80:Metal-Rock/Nirvana - Where Did You Sleep Last Night - Live.mp3
+81:Metal-Rock/Nirvana - Smells Like Teen Spirit.mp3
+82:Metal-Rock/Nirvana - Something In The Way.mp3
+83:Metal-Rock/Imagine Dragons - Radioactive.mp3
+84:Metal-Rock/Imagine Dragons - Demons.mp3
+85:Metal-Rock/Nightwish - Wish I Had an Angel.mp3
+86:Metal-Rock/Nightwish - Nemo.mp3
+87:Metal-Rock/Linkin Park - Good Goodbye (feat. Pusha T and Stormzy).mp3
+88:Metal-Rock/Three Days Grace - Pain.mp3
+89:Metal-Rock/Three Days Grace - Animal I Have Become.mp3
+90:Metal-Rock/Three Days Grace - Never Too Late.mp3
+91:Metal-Rock/Three Days Grace - Get Out Alive.mp3
+92:Metal-Rock/Three Days Grace - Time of Dying.mp3
+93:Metal-Rock/Kings of Leon - Sex on Fire.mp3
+94:Metal-Rock/Kings of Leon - Use Somebody.mp3
+95:Metal-Rock/Imagine Dragons - Natural.mp3
+96:Metal-Rock/R.E.M. - Losing My Religion.mp3
+97:Metal-Rock/Radiohead - Creep.mp3
+98:Metal-Rock/Black Sabbath - Paranoid.mp3
+99:Metal-Rock/Rage Against The Machine - Killing In The Name.mp3
+100:Metal-Rock/Metallica - The Unforgiven II.mp3
+101:Metal-Rock/Limp Bizkit - Behind Blue Eyes.mp3
+102:Metal-Rock/Survivor - Eye of the Tiger.mp3
+103:Metal-Rock/Korn - Coming Undone.mp3
+104:Metal-Rock/Limp Bizkit - Break Stuff.mp3
+105:Metal-Rock/Muse - Pressure.mp3
+106:Metal-Rock/Eric Clapton - Cocaine.mp3
+107:Metal-Rock/Marilyn Manson - Sweet Dreams (Are Made Of This).mp3
+108:Metal-Rock/Three Days Grace - Somebody That I Used to Know.mp3
+109:Metal-Rock/Red Hot Chili Peppers - Dani California.mp3
+110:Metal-Rock/Red Hot Chili Peppers - Snow (Hey Oh).mp3
+111:Metal-Rock/System Of A Down - Roulette.mp3
+112:Metal-Rock/Bring Me The Horizon - Throne.mp3
+113:Metal-Rock/Radiohead - Street Spirit (Fade Out).mp3
+114:Metal-Rock/3 Doors Down - Kryptonite.mp3
+115:Metal-Rock/Iced Earth - Watching over Me.mp3
+116:Metal-Rock/Europe - The Final Countdown.mp3
+117:Metal-Rock/Red Hot Chili Peppers - Dark Necessities.mp3
+118:Metal-Rock/Marilyn Manson - Tainted Love.mp3
+119:Metal-Rock/Linkin Park - Final Masquerade.mp3
+120:Metal-Rock/Evanescence - Lithium.mp3
+121:Metal-Rock/Godsmack - Love-Hate-Sex-Pain.mp3
+122:Metal-Rock/Bullet For My Valentine - Tears Don't Fall.mp3
+123:Metal-Rock/Muse - Uprising.mp3
+124:Metal-Rock/Disturbed - Down with the Sickness.mp3
+125:Metal-Rock/Five Finger Death Punch - M.I.N.E (End This Way).mp3
+126:Metal-Rock/Caladium - Train.mp3
+127:Metal-Rock/Three Days Grace - I Hate Everything About You.mp3
+128:Metal-Rock/Three Days Grace - Just Like You.mp3
+129:Metal-Rock/System Of A Down - Chop Suey!.mp3
+130:Metal-Rock/System Of A Down - Aerials.mp3
+131:Metal-Rock/Keeton Coffman - Violet.mp3
+132:Metal-Rock/Katatonia - Omerta.mp3
+133:Metal-Rock/Slipknot - Duality.mp3
+134:Metal-Rock/Slipknot - Before I Forget.mp3
+135:Metal-Rock/Arch Enemy - Ravenous.mp3
+136:Metal-Rock/Arch Enemy - War Eternal.mp3
+137:Metal-Rock/Arch Enemy - As the Pages Burn.mp3
+138:Metal-Rock/Arch Enemy - You Will Know My Name.mp3
+139:Metal-Rock/Five Finger Death Punch - Bad Company.mp3
+140:Metal-Rock/Arch Enemy - The World Is Yours.mp3
+141:Metal-Rock/Arch Enemy - The Eagle Flies Alone - edit.mp3
+142:Metal-Rock/Muse - Won’t Stand Down.mp3
 playlist_end
