@@ -71,9 +71,9 @@ set ignorecase
 set smartcase
 
 " Set cursor Highlight
-set cursorline
-set cursorcolumn
-highlight cursorline cterm=bold ctermbg=black
+" set cursorline
+" set cursorcolumn
+" highlight cursorline cterm=bold ctermbg=black
 
 " Set true color
 set termguicolors
