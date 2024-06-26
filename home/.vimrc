@@ -50,7 +50,11 @@ set autoread
 "Always show current position
 set ruler
 
-" Don't redraw while executing macros
+" Don't redraw" Turn backup off, since most stuff is in SVN, git etc.
+" anyway...
+" set nobackup
+" set nowb
+" set noswapfilewhile executing macros
 set lazyredraw
 
 "Show matching brackets when text indicator is over them
@@ -102,14 +106,11 @@ set linebreak
 " Set the window title, reflecting the file currently being edited
 set title
 
-" Directory to store backup files
-"set dir=~/.cache/vim
-
 "Display a confirmation dialog when closing an unsaved file
 set confirm
 
 "Increase the undo limit
-"set history=1000
+set history=1000
 
 " Status Bar
 set laststatus=2
@@ -142,9 +143,26 @@ set wildmode=longest,list,full
 "Splits Open at the bottom and right
 set splitbelow splitright
 
+" Set to auto read when a file is changed from the outside
+set autoread
+au FocusGained,BufEnter * silent! checktime
 
+" Fast saving
+nmap <leader>w :w!<cr>
 
+" Turn on the Wild menu
+set wildmenu
 
+" No annoying sound on errors
+set noerrorbells
+set novisualbell
+set t_vb=
+set tm=500
+
+" Turn backup off, since most stuff is in SVN, git etc. anyway...
+set nobackup
+set nowb
+set noswapfile
 
 
 

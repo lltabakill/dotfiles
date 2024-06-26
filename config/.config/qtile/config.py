@@ -70,7 +70,7 @@ keys = [
     #Key([], "F2", lazy.function(set_layout, 'us')),
 
     Key([], "F3", lazy.spawn("/home/nihil/.config/qtile/scripts/kb.sh"), desc='Web browser'),
-    Key([], "F2", lazy.spawn("/home/nihil/Downloads/rssmpv.sh"), desc='Web browser'),
+    Key([], "F2", lazy.spawn("/home/nihil/Downloads/Rss-Link-Mpv.sh"), desc='Web browser'),
     Key([mod], "f", lazy.window.toggle_fullscreen()),
     Key([mod], "q", lazy.window.kill()),
     Key([mod], "b", lazy.spawn(myBrowser), desc='Web browser'),

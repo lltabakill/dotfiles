@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 60
 audio_device_state:1:Pipewire Sound Server
 audio_device_state:1:Visualizer feed
-state: pause
-current: 22
-time: 303.026000
+state: play
+current: 181
+time: 93.945000
 random: 1
 repeat: 0
 single: 0
@@ -12,132 +12,232 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Metal-Rock/Slipknot - The Devil in I.mp3
-1:Metal-Rock/Pink Floyd - Another Brick In The Wall - 2001 Remastered Version.mp3
-2:Metal-Rock/Muse - Hysteria.mp3
-3:Metal-Rock/Aerosmith - Dream On.mp3
-4:Metal-Rock/Arctic Monkeys - Do I Wanna Know.mp3
-5:Metal-Rock/Fall Out Boy - Centuries.mp3
-6:Metal-Rock/Green Day - Wake Me up When September Ends.mp3
-7:Metal-Rock/Weapons of Anew - Angel Has Fallen.mp3
-8:Metal-Rock/Skillet - Hero.mp3
-9:Metal-Rock/Skillet - Monster.mp3
-10:Metal-Rock/Skillet - Awake and Alive.mp3
-11:Metal-Rock/Skillet - Never Surrender.mp3
-12:Metal-Rock/3 Doors Down - When I'm Gone.mp3
-13:Metal-Rock/3 Doors Down - Here Without You.mp3
-14:Metal-Rock/MAGIC GIANT, kid baron - Be My Baby.mp3
-15:Metal-Rock/Muse - Knights of Cydonia.mp3
-16:Metal-Rock/Green Day - Boulevard of Broken Dreams.mp3
-17:Metal-Rock/Red Hot Chili Peppers - Scar Tissue.mp3
-18:Metal-Rock/Red Hot Chili Peppers - Otherside.mp3
-19:Metal-Rock/Red Hot Chili Peppers - Californication.mp3
-20:Metal-Rock/Avenged Sevenfold - Bat Country.mp3
-21:Metal-Rock/Skillet - Comatose.mp3
-22:Metal-Rock/Scorpions - Still Loving You.mp3
-23:Metal-Rock/Bon Jovi - It's My Life.mp3
-24:Metal-Rock/Caladium - Cuban Squeeze.mp3
-25:Metal-Rock/Nightwish - Amaranth.mp3
-26:Metal-Rock/The Eyelash - Dark Shadow.mp3
-27:Metal-Rock/Seether, Amy Lee - Broken.mp3
-28:Metal-Rock/Arch Enemy - Nemesis.mp3
-29:Metal-Rock/Muse - The Handler.mp3
-30:Metal-Rock/KISS - I Was Made For Lovin' You.mp3
-31:Metal-Rock/blink-182 - What's My Age Again.mp3
-32:Metal-Rock/blink-182 - All The Small Things.mp3
-33:Metal-Rock/Imagine Dragons - Believer.mp3
-34:Metal-Rock/Evanescence - Bring Me To Life.mp3
-35:Metal-Rock/Evanescence - My Immortal.mp3
-36:Metal-Rock/Bullet For My Valentine - Your Betrayal.mp3
-37:Metal-Rock/Seether - Fake It.mp3
-38:Metal-Rock/Seether - Breakdown.mp3
-39:Metal-Rock/Vendetta XIII - Fire Ride.mp3
-40:Metal-Rock/The Agonist - Take Me to Church.mp3
-41:Metal-Rock/Avenged Sevenfold - Hail to the King.mp3
-42:Metal-Rock/Green Day - Holiday.mp3
-43:Metal-Rock/Sunburst - Hollow Lies.mp3
-44:Metal-Rock/The Dirty Nines - HOLY LOLA.mp3
-45:Metal-Rock/IVORY BLUE - Howl.mp3
-46:Metal-Rock/Three Days Grace - Painkiller.mp3
-47:Metal-Rock/Three Days Grace - Fallen Angel.mp3
-48:Metal-Rock/Linkin Park - Crawling.mp3
-49:Metal-Rock/Linkin Park - A Place for My Head.mp3
-50:Metal-Rock/System Of A Down - Lonely Day.mp3
-51:Metal-Rock/I Ya Toyah - I am the Fire.mp3
-52:Metal-Rock/Disturbed - The Sound of Silence.mp3
-53:Metal-Rock/Raysablaze - Mid July.mp3
-54:Metal-Rock/Nirvana - Heart-Shaped Box.mp3
-55:Metal-Rock/Disturbed - Inside the Fire.mp3
-56:Metal-Rock/Dolly Parton - Jolene.mp3
-57:Metal-Rock/Linkin Park - LOST IN THE ECHO.mp3
-58:Metal-Rock/Linkin Park - ROADS UNTRAVELED.mp3
-59:Metal-Rock/Once Around - Love and War.mp3
-60:Metal-Rock/Metallica - Enter Sandman.mp3
-61:Metal-Rock/Metallica - The Unforgiven.mp3
-62:Metal-Rock/Metallica - Nothing Else Matters.mp3
-63:Metal-Rock/Linkin Park - Faint.mp3
-64:Metal-Rock/Linkin Park - From the Inside.mp3
-65:Metal-Rock/Linkin Park - Numb.mp3
-66:Metal-Rock/Linkin Park - Somewhere I Belong.mp3
-67:Metal-Rock/Linkin Park - Nobody's Listening.mp3
-68:Metal-Rock/System Of A Down - B.Y.O.B..mp3
-69:Metal-Rock/Nirvana - The Man Who Sold The World - Live.mp3
-70:Metal-Rock/Nirvana - Where Did You Sleep Last Night - Live.mp3
-71:Metal-Rock/Nirvana - Smells Like Teen Spirit.mp3
-72:Metal-Rock/Nirvana - Something In The Way.mp3
-73:Metal-Rock/Imagine Dragons - Radioactive.mp3
-74:Metal-Rock/Imagine Dragons - Demons.mp3
-75:Metal-Rock/Nightwish - Wish I Had an Angel.mp3
-76:Metal-Rock/Nightwish - Nemo.mp3
-77:Metal-Rock/Linkin Park - Good Goodbye (feat. Pusha T and Stormzy).mp3
-78:Metal-Rock/Three Days Grace - Pain.mp3
-79:Metal-Rock/Three Days Grace - Animal I Have Become.mp3
-80:Metal-Rock/Three Days Grace - Never Too Late.mp3
-81:Metal-Rock/Three Days Grace - Get Out Alive.mp3
-82:Metal-Rock/Three Days Grace - Time of Dying.mp3
-83:Metal-Rock/Kings of Leon - Sex on Fire.mp3
-84:Metal-Rock/Kings of Leon - Use Somebody.mp3
-85:Metal-Rock/Imagine Dragons - Natural.mp3
-86:Metal-Rock/R.E.M. - Losing My Religion.mp3
-87:Metal-Rock/Black Sabbath - Paranoid.mp3
-88:Metal-Rock/Rage Against The Machine - Killing In The Name.mp3
-89:Metal-Rock/Metallica - The Unforgiven II.mp3
-90:Metal-Rock/Limp Bizkit - Behind Blue Eyes.mp3
-91:Metal-Rock/Survivor - Eye of the Tiger.mp3
-92:Metal-Rock/Korn - Coming Undone.mp3
-93:Metal-Rock/Muse - Pressure.mp3
-94:Metal-Rock/Marilyn Manson - Sweet Dreams (Are Made Of This).mp3
-95:Metal-Rock/Three Days Grace - Somebody That I Used to Know.mp3
-96:Metal-Rock/Red Hot Chili Peppers - Dani California.mp3
-97:Metal-Rock/Red Hot Chili Peppers - Snow (Hey Oh).mp3
-98:Metal-Rock/System Of A Down - Roulette.mp3
-99:Metal-Rock/Bring Me The Horizon - Throne.mp3
-100:Metal-Rock/Radiohead - Street Spirit (Fade Out).mp3
-101:Metal-Rock/3 Doors Down - Kryptonite.mp3
-102:Metal-Rock/Iced Earth - Watching over Me.mp3
-103:Metal-Rock/Europe - The Final Countdown.mp3
-104:Metal-Rock/Red Hot Chili Peppers - Dark Necessities.mp3
-105:Metal-Rock/Marilyn Manson - Tainted Love.mp3
-106:Metal-Rock/Linkin Park - Final Masquerade.mp3
-107:Metal-Rock/Evanescence - Lithium.mp3
-108:Metal-Rock/Godsmack - Love-Hate-Sex-Pain.mp3
-109:Metal-Rock/Bullet For My Valentine - Tears Don't Fall.mp3
-110:Metal-Rock/Five Finger Death Punch - M.I.N.E (End This Way).mp3
-111:Metal-Rock/Caladium - Train.mp3
-112:Metal-Rock/Three Days Grace - I Hate Everything About You.mp3
-113:Metal-Rock/Three Days Grace - Just Like You.mp3
-114:Metal-Rock/System Of A Down - Chop Suey!.mp3
-115:Metal-Rock/System Of A Down - Aerials.mp3
-116:Metal-Rock/Keeton Coffman - Violet.mp3
-117:Metal-Rock/Katatonia - Omerta.mp3
-118:Metal-Rock/Slipknot - Duality.mp3
-119:Metal-Rock/Slipknot - Before I Forget.mp3
-120:Metal-Rock/Arch Enemy - Ravenous.mp3
-121:Metal-Rock/Arch Enemy - War Eternal.mp3
-122:Metal-Rock/Arch Enemy - As the Pages Burn.mp3
-123:Metal-Rock/Arch Enemy - You Will Know My Name.mp3
-124:Metal-Rock/Five Finger Death Punch - Bad Company.mp3
-125:Metal-Rock/Arch Enemy - The World Is Yours.mp3
-126:Metal-Rock/Arch Enemy - The Eagle Flies Alone - edit.mp3
-127:Metal-Rock/Muse - Won’t Stand Down.mp3
+0:latino/Pablo Fierro - El Carinoso - Gregor Salto Remix.mp3
+1:latino/Sech - Relación.mp3
+2:latino/Sofía Reyes - 1, 2, 3 (feat. Jason Derulo & De La Ghetto).mp3
+3:latino/Rauw Alejandro, Mr. Naisgai - 2Catorce.mp3
+4:latino/Danny Ocean - Me Rehúso.mp3
+5:latino/Sech - 911.mp3
+6:latino/Tainy - Adicto (with Anuel AA & Ozuna).mp3
+7:latino/Rauw Alejandro, Anuel AA - Reloj.mp3
+8:latino/Tainy - Agua (with J Balvin) - Music From 'Sponge On The Run' Movie.mp3
+9:latino/HUGEL, Westend - Aguila ft. Cumbiafrica.mp3
+10:latino/Jonatan.S, Alba Ed-Dounia, PANCHOGYPS - Ahora No.mp3
+11:latino/Nio Garcia, J Balvin, Bad Bunny - AM Remix.mp3
+12:latino/Instant Cult, Maxim Schunk, Franz Kolo - Amore.mp3
+13:latino/KAROL G - Ay, DiOs Mío!.mp3
+14:latino/Brais, Snrs - Baiana.mp3
+15:latino/Selena Gomez - Baila Conmigo (with Rauw Alejandro).mp3
+16:latino/Raaban, Space Primates, Enisa - Bailando.mp3
+17:latino/LVGA - BAM BI LI BAM.mp3
+18:latino/Dave Winnel - Bamboleo.mp3
+19:latino/Blackpablo, Frei - Bandida.mp3
+20:latino/Myke Towers, Juhn - Bandido.mp3
+21:latino/Sinego - Benjamín Carrión.mp3
+22:latino/Ricky Rodz - Bipolar.mp3
+23:latino/Sergio T, Sesman - Brum Brum.mp3
+24:latino/Federico Scavo, Tello - Caimanera.mp3
+25:latino/Bad Bunny, Tainy - Callaita.mp3
+26:latino/Pedro Capó, Farruko - Calma - Remix.mp3
+27:latino/Lucas Estrada, Raffa Fl, TECHOLOGY - Candela.mp3
+28:latino/Ozuna - Caramelo.mp3
+29:latino/HUGEL, Tom Enzy, Nfasis, Damien N-Drix - Chakachaka.mp3
+30:latino/Feid, Young Miko - CLASSY 101.mp3
+31:latino/Tayri, Antho Decks - Colombian Maasai.mp3
+32:latino/J Balvin - Azul.mp3
+33:latino/J Balvin - Rojo.mp3
+34:latino/HUGEL, Nfasis - Como Shakira.mp3
+35:latino/ROSALÍA, J Balvin, El Guincho - Con Altura.mp3
+36:latino/Daddy Yankee, Snow - Con Calma.mp3
+37:latino/Estie, Thvndex - Conmigo.mp3
+38:latino/Sean Paul, J Balvin - Contra La Pared.mp3
+39:latino/KVSH, Tim Hox, Cumbiafrica - Corocito (Manguelena).mp3
+40:latino/Danit - Cuatro Vientos (HUGEL Version).mp3
+41:latino/Gianluca Vacchi, Alterboy, Thorn - Cucaracha.mp3
+42:latino/JØRD, Cumbiafrica - Cumbia Buena.mp3
+43:latino/Bad Bunny, Jhayco - DÁKITI.mp3
+44:latino/Meta4, BLUECITY - TRENDING.mp3
+45:latino/Caballero TheUnFamed, Mingo Cash Only - Deseo.mp3
+46:latino/ROSALÍA - DESPECHÁ.mp3
+47:latino/Aya Nakamura - Djadja (feat. Maluma) - Remix.mp3
+48:latino/Anitta, J Balvin - Downtown.mp3
+49:latino/Daddy Yankee - Dura.mp3
+50:latino/Nick Raff - E Samba.mp3
+51:latino/Luis Fonsi, Demi Lovato - Échame La Culpa.mp3
+52:latino/Enrique Iglesias, Bad Bunny - EL BAÑO.mp3
+53:latino/Dombresky, Crusy - El Beso (feat. Mathieu Ruz).mp3
+54:latino/Thvndex, Estie - El Canto.mp3
+55:latino/Shakira - Chantaje (feat. Maluma).mp3
+56:latino/Rauw Alejandro, Chencho Corleone - El Efecto.mp3
+57:latino/Marshmello, Manuel Turizo - El Merengue.mp3
+58:latino/Marshmello, Manuel Turizo - El Merengue - HUGEL Remix.mp3
+59:latino/Toni Costanzi - El Monte.mp3
+60:latino/MDM - El Perreo.mp3
+61:latino/Rezone, MACROLEV - El Ritmo.mp3
+62:latino/HUGEL, Cumbiafrica - El Sueno.mp3
+63:latino/Eslabon Armado, Peso Pluma - Ella Baila Sola.mp3
+64:latino/Anuel AA, Bad Bunny - Hasta Que Dios Diga.mp3
+65:latino/Anuel AA, Daddy Yankee, KAROL G, Ozuna, J Balvin - China.mp3
+66:latino/Ozuna, J Balvin, Chencho Corleone - Una Locura.mp3
+67:latino/Anitta - Envolver.mp3
+68:latino/Juan Dileju, Franz Kolo - Eres Tú.mp3
+69:latino/Alvaro Soler - Sofia.mp3
+70:latino/Darell - Lollipop.mp3
+71:latino/Rauw Alejandro, Farruko - Fantasias.mp3
+72:latino/Camilo - Favorito.mp3
+73:latino/Nicky Jam - El Perdón (with Enrique Iglesias).mp3
+74:latino/Feid, ATL Jacob - LUNA.mp3
+75:latino/Enrique Iglesias, Myke Towers - TE FUISTE.mp3
+76:latino/Jun LP, Vel Garcia - Frente a Frente.mp3
+77:latino/TCTS, GotSome, Cumbiafrica - Fuego.mp3
+78:latino/FloyyMenor, Cris Mj - Gata Only.mp3
+79:latino/Spice - Go Down Deh (feat. Sean Paul & Shaggy).mp3
+80:latino/Costa Leon, DJ Cuervo - Gringada.mp3
+81:latino/Albert Neve, Abel Ramos - Guarachando.mp3
+82:latino/Tom & Collins - Hagüe.mp3
+83:latino/Aaron Noise, Erik Schievenin, Santiago & Carlitos - Hanima Nera.mp3
+84:latino/Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow - Hola - Remix.mp3
+85:latino/Gordo, Feid - Hombres y Mujeres.mp3
+86:latino/J Balvin, Skrillex - In Da Getto.mp3
+87:latino/KAROL G, Mariah Angeliq - EL MAKINON.mp3
+88:latino/HUGEL, Crusy, Jenn Morel, Joelii - KLK.mp3
+89:latino/Luar La L - Caile.mp3
+90:latino/Farruko, Victor Cardenas, Dj Adoni - El Incomprendido.mp3
+91:latino/Manuel Turizo - La Bachata.mp3
+92:latino/Yng Lvcas, Peso Pluma - La Bebe - Remix.mp3
+93:latino/HUGEL, Jude & Frank, Twolate - La candela viva.mp3
+94:latino/Alvaro Soler - La Cintura.mp3
+95:latino/John Summit - La Danza.mp3
+96:latino/Fabich - La Fiesta.mp3
+97:latino/Max Chapman - La Fiesta - Original Mix.mp3
+98:latino/Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka - La Jeepeta - Remix.mp3
+99:latino/AN3M, Till 3AM - La Luna.mp3
+100:latino/Jude & Frank, Totó La Momposina - La Luna.mp3
+101:latino/Michael Bibi - La Murga - Michael's Midnight Mix.mp3
+102:latino/Manuel Turizo, Rauw Alejandro, Myke Towers - La Nota.mp3
+103:latino/Zion & Lennox - La player (Bandolera).mp3
+104:latino/Jude & Frank, AtcG - La Tarde.mp3
+105:latino/Farruko - La Tóxica.mp3
+106:latino/Wisin & Yandel, ROSALÍA - Besos Moja2.mp3
+107:latino/Myke Towers - LALA.mp3
+108:latino/Gregor Salto, Curio Capoeira - Para Voce.mp3
+109:latino/Daddy Yankee, Bad Bunny - X ÚLTIMA VEZ.mp3
+110:latino/Gregor Salto, FIGHT CLVB - Lluvia en Colombia (feat. El Mayam).mp3
+111:latino/Tainy - Lo Siento BB- (with Bad Bunny & Julieta Venegas).mp3
+112:latino/DJ Snake - Loco Contigo (with J. Balvin & Tyga).mp3
+113:latino/Rauw Alejandro, Lyanno, Brray - LOKERA.mp3
+114:latino/MOONLGHT - Los Destellos.mp3
+115:latino/Los Legendarios, Wisin, Jhayco - Fiel.mp3
+116:latino/Joshwa - Magalenha.mp3
+117:latino/Simon Fava, Gregor Salto - Magalenha (feat. Sergio Mendes).mp3
+118:latino/Black Eyed Peas, Ozuna, J. Rey Soul - MAMACITA.mp3
+119:latino/KAROL G, Shakira - TQG.mp3
+120:latino/KAROL G, Peso Pluma - QLONA.mp3
+121:latino/HUGEL, Merk & Kremont, Lirico En La Casa - Marianela (Que Pasa).mp3
+122:latino/R3HAB, Ryan Arnold - MAS GASOLINA (feat. N.F.I) - Raffa FL Remix.mp3
+123:latino/Boza - Hecha Pa' Mi.mp3
+124:latino/Tom & Collins, Robbie Rivera - Me Duele feat. Cumbiafrica.mp3
+125:latino/Shakira, Anuel AA - Me Gusta.mp3
+126:latino/Sandgino, V_NCE - Me Gustas.mp3
+127:latino/Reik - Me Niego (feat. Ozuna & Wisin).mp3
+128:latino/Andrea Crocicchia, Lyon Monster - Me Paraliza.mp3
+129:latino/Enrique Iglesias - ME PASE (feat. Farruko).mp3
+130:latino/LiL CaKe, Migrantes, Nico Valdi - MERCHO.mp3
+131:latino/Wisin, Myke Towers, Los Legendarios - Mi Niña.mp3
+132:latino/Jude & Frank, NRD1, Cumbiafrica - Moliendo Café.mp3
+133:latino/zzoilo, Aitana - Mon Amour - Remix.mp3
+134:latino/Feid, Rema - BUBALU.mp3
+135:latino/Zion & Lennox - Otra vez (feat. J Balvin).mp3
+136:latino/Nicky Jam, Daddy Yankee - Muévelo.mp3
+137:latino/Tom Enzy - Nord Try.mp3
+138:latino/Rvssian, Rauw Alejandro, Chris Brown - Nostálgico.mp3
+139:latino/Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam - Te Boté - Remix.mp3
+140:latino/Tom & Collins, Thomas Newson, Kenny Brian - Nuestro Amigo.mp3
+141:latino/J Balvin, Bad Bunny - QUE PRETENDES.mp3
+142:latino/Gian Varela, Nenito Vargas - Oiga Morena.mp3
+143:latino/Jude & Frank, J8Man - Otra Vez.mp3
+144:latino/Lucky Francis - Oye Papi.mp3
+145:latino/Ozuna, Feid - Hey Mor.mp3
+146:latino/Sandgino - Pa Ca.mp3
+147:latino/HUGEL, Ryan Arnold, El Chuape - Pa Lante.mp3
+148:latino/Nicola Fasano, Salento Guys, Pippo Bravo - Papi Dale Duro - RKN Radio Edit.mp3
+149:latino/Maluma - Hawái.mp3
+150:latino/Maluma, Lenny Tavárez - Parce (feat. Justin Quiles).mp3
+151:latino/Jude & Frank, NIINE, Vadi - Paque.mp3
+152:latino/Mau y Ricky, Manuel Turizo, Camilo - Desconocidos.mp3
+153:latino/Gordo, Maluma - Parcera.mp3
+154:latino/Sebastian Yatra, Myke Towers - Pareja Del Año.mp3
+155:latino/Farruko - Pepas.mp3
+156:latino/Jay Wheeler, DJ Nelson, Myke Towers - La Curiosidad.mp3
+157:latino/Feid, J Balvin, Justin Quiles - PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix.mp3
+158:latino/HUGEL, Jude & Frank - Pra Nao Dizer.mp3
+159:latino/Peso Pluma, Natanael Cano - PRC.mp3
+160:latino/CNCO - Reggaetón Lento (Bailemos).mp3
+161:latino/KAROL G - PROVENZA.mp3
+162:latino/Lavbbe, Costi - Pumping.mp3
+163:latino/J Balvin, Maria Becerra - Qué Más Pues.mp3
+164:latino/Calle 24, Chino Pacas, Fuerza Regida - Que Onda.mp3
+165:latino/Tom Enzy, Tambor Hembra, La Perla - Que Paso.mp3
+166:latino/Sofía Reyes - R.I.P. (feat. Rita Ora & Anitta).mp3
+167:latino/Sech, Daddy Yankee, J Balvin, ROSALÍA, Farruko - Relación - Remix.mp3
+168:latino/Yandel, Feid - Yandel 150.mp3
+169:latino/HUGEL, Jude & Frank, Paolo Pellegrino - Rio Rio (feat. Martina Camargo).mp3
+170:latino/Black Eyed Peas, J Balvin - RITMO (Bad Boys For Life).mp3
+171:latino/Raffa Fl - Ritmo - HUGEL Edit.mp3
+172:latino/Lidia Buble, Lenier - Robándote un beso.mp3
+173:latino/Camilo - Ropa Cara.mp3
+174:latino/ROSALÍA, Rauw Alejandro - BESO.mp3
+175:latino/Lele Pons - Se Te Nota (with Guaynaa).mp3
+176:latino/Tom & Collins - Se Va (feat. Cumbiafrica).mp3
+177:latino/Davy Music, Esteban Rojas - SECRETOS.mp3
+178:latino/Tom & Collins, Thomas Newson, PAVE - Serena.mp3
+179:latino/Bizarrap - Shakira- Bzrp Music Sessions, Vol. 53.mp3
+180:latino/Reik, Farruko, Camilo - Si Me Dices Que Sí.mp3
+181:latino/Choujaa, Small ToK, Naama Tov - Siempre.mp3
+182:latino/Arcángel, Sech, Dímelo Flow - Sigues Con El.mp3
+183:latino/Becky G, NATTI NATASHA - Sin Pijama.mp3
+184:latino/Dkuul, MuunIlusion - Sin Ti.mp3
+185:latino/Lucky Francis - Sinkalà.mp3
+186:latino/Feid - CHORRITO PA LAS ANIMAS.mp3
+187:latino/Susy G, Mejai, Carlo - Soltera.mp3
+188:latino/Gianluca Vacchi - Sombrerito Blanco (feat. Martina Camargo).mp3
+189:latino/Axel North - SOY.mp3
+190:latino/Arcángel, Bad Bunny - La Jumpa.mp3
+191:latino/Enrique Iglesias, Descemer Bueno, Zion & Lennox - SUBEME LA RADIO.mp3
+192:latino/L2O - Sun Tribe.mp3
+193:latino/DJ Snake - Taki Taki (with Selena Gomez, Ozuna & Cardi B).mp3
+194:latino/HUGEL, Lorna, Jenn Morel - Tamo Loco.mp3
+195:latino/Rauw Alejandro - Tattoo - Remix with Camilo.mp3
+196:latino/Shakira, Rauw Alejandro - Te Felicito.mp3
+197:latino/HUGEL, Damien N-Drix - Tengo ganas de ti.mp3
+198:latino/HÄWK, Max Niklas - Tequila.mp3
+199:latino/Tommy Trash, Dave Winnel - That Accordion Song.mp3
+200:latino/Pachira, Sam Baby, Steven Montoya - Rolex.mp3
+201:latino/Pachira, DAREV OFICIAL, Sam Baby - Ella.mp3
+202:latino/Ozuna - Tiempo.mp3
+203:latino/ROSALÍA - TKN (feat. Travis Scott).mp3
+204:latino/Rauw Alejandro - Todo De Ti.mp3
+205:latino/Sofi Tukker, Sunnery James & Ryan Marciano - TROMPA.mp3
+206:latino/San Pacho - Trompeta.mp3
+207:latino/KAROL G, Nicki Minaj - Tusa.mp3
+208:latino/J Balvin, Dua Lipa, Bad Bunny - UN DIA (ONE DAY) (Feat. Tainy).mp3
+209:latino/Bad Bunny - Moscow Mule.mp3
+210:latino/Bad Bunny, Chencho Corleone - Me Porto Bonito.mp3
+211:latino/Bad Bunny - Tití Me Preguntó.mp3
+212:latino/Bad Bunny, Rauw Alejandro - Party.mp3
+213:latino/Bad Bunny, Bomba Estéreo - Ojitos Lindos.mp3
+214:latino/Cris Mj - Una Noche en Medellín.mp3
+215:latino/Tom & Collins, SUBB - Vai.mp3
+216:latino/Vintage Culture, Gilsons, KVSH - Várias Queixas - Radio Edit.mp3
+217:latino/Sinego - Verte Triste.mp3
+218:latino/Rauw Alejandro, Chencho Corleone - Desesperados.mp3
+219:latino/Camilo - Vida de Rico.mp3
+220:latino/Fer Muntz, Jfeel - Visa Pa Tu Cora.mp3
+221:latino/Carlos Vives, Shakira - La Bicicleta.mp3
+222:latino/Carlos Vives, Sebastian Yatra - Robarte un Beso.mp3
+223:latino/Mora, Bad Bunny, Sech - Volando - Remix.mp3
+224:latino/Aventura, Bad Bunny - Volví.mp3
+225:latino/Bad Bunny - Yo Perreo Sola.mp3
+226:latino/Bad Bunny, Jowell & Randy, Ñengo Flow - Safaera.mp3
+227:latino/Bad Bunny - Yonaguni.mp3
 playlist_end

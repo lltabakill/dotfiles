@@ -17,8 +17,8 @@ map md :push %mkdir<space>
 map mf :push %touch<space>
 
 # Trash
-cmd del %rm -rf $fx
-cmd trash %trash-put $fx
+cmd del %rm -rf "$fx"
+cmd trash %trash-put "$fx"
 
 # zoxide
 cmd z %{{
@@ -57,6 +57,7 @@ cmd tar ${{
     tar czf $1.tar.gz $1
     rm -rf $1
 }}
+
 
 # Bindings
 map c
