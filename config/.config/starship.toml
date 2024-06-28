@@ -25,7 +25,7 @@ trim_at = "."
 disabled = false
 
 [character]
-success_symbol = "[[♥](color1) ❯](color1)"
+success_symbol = "[[♥](color1) ❯](color2)"
 error_symbol = "[✗](bold red)"
 vimcmd_symbol = "[❮](color3)"
 

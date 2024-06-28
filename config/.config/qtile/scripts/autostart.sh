@@ -34,7 +34,7 @@ function run {
 
 #start sxhkd to replace Qtile native key-bindings
 run sxhkd -c ~/.config/qtile/sxhkd/sxhkdrc &
-
+mpd &
 #starting utility applications at boot time
 #run variety &
 run nm-applet &

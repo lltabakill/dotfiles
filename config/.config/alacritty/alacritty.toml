@@ -1,22 +1,22 @@
 import = ["~/.cache/wal/colors-alacritty.toml"]
 
 [font]
-size = 11.0
+size = 12.0
 
 [font.bold]
-family = "hack"
+family = "MesloLGSNerdFont"
 style = "Bold"
 
 [font.bold_italic]
-family = "monospace"
+family = "MesloLGSNerdFont"
 style = "Bold Italic"
 
 [font.italic]
-family = "hack"
+family = "MesloLGSNerdFont"
 style = "Italic"
 
 [font.normal]
-family = "hack"
+family = "MesloLGSNerdFont"
 style = "Regular"
 
 [[keyboard.bindings]]
