@@ -1,8 +1,8 @@
 sw_volume: 100
 audio_device_state:1:Pipewire Sound Server
 state: pause
-current: 83
-time: 10.384000
+current: 253
+time: 98.556000
 random: 1
 repeat: 0
 single: 0
@@ -94,223 +94,220 @@ playlist_begin
 80:latino/Eslabon Armado, Peso Pluma - Ella Baila Sola.mp3
 81:latino/Anuel AA, Bad Bunny - Hasta Que Dios Diga.mp3
 82:latino/Anuel AA, Daddy Yankee, KAROL G, Ozuna, J Balvin - China.mp3
-83:latino/Ozuna, J Balvin, Chencho Corleone - Una Locura.mp3
-84:latino/Anitta - Envolver.mp3
-85:latino/Juan Dileju, Franz Kolo - Eres Tú.mp3
-86:latino/Bebe - Es por ti.mp3
-87:latino/Alvaro Soler - Sofia.mp3
-88:latino/Enrique Iglesias, Juan Luis Guerra 4.40 - Cuando Me Enamoro.mp3
-89:latino/Darell - Lollipop.mp3
-90:latino/Maná - Rayando el Sol.mp3
-91:latino/Rauw Alejandro, Farruko - Fantasias.mp3
-92:latino/Camilo - Favorito.mp3
-93:latino/Nicky Jam - El Perdón (with Enrique Iglesias).mp3
-94:latino/Feid, ATL Jacob - LUNA.mp3
-95:latino/Shakira - La Tortura (feat. Alejandro Sanz).mp3
-96:latino/Shakira - Dia de Enero.mp3
-97:latino/Enrique Iglesias, Myke Towers - TE FUISTE.mp3
-98:latino/La Quinta Estacion - El Sol No Regresa.mp3
-99:latino/Jun LP, Vel Garcia - Frente a Frente.mp3
-100:latino/TCTS, GotSome, Cumbiafrica - Fuego.mp3
-101:latino/FloyyMenor, Cris Mj - Gata Only.mp3
-102:latino/Spice - Go Down Deh (feat. Sean Paul & Shaggy).mp3
-103:latino/Aventura - Ella Y Yo - Featuring Don Omar.mp3
-104:latino/La Unión - Lobo-hombre en París.mp3
-105:latino/Costa Leon, DJ Cuervo - Gringada.mp3
-106:latino/Albert Neve, Abel Ramos - Guarachando.mp3
-107:latino/Tom & Collins - Hagüe.mp3
-108:latino/Aaron Noise, Erik Schievenin, Santiago & Carlitos - Hanima Nera.mp3
-109:latino/Natalia Lafourcade - Hasta la Raíz.mp3
-110:latino/Ash, Amelie Martinez - Historia De Un Amor.mp3
-111:latino/Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow - Hola - Remix.mp3
-112:latino/Hombres G - Devuélveme a mi chica.mp3
-113:latino/Gordo, Feid - Hombres y Mujeres.mp3
-114:latino/Paulo Londra - Adan y Eva.mp3
-115:latino/Plan B - Es un Secreto.mp3
-116:latino/J Balvin, Skrillex - In Da Getto.mp3
-117:latino/KAROL G, Mariah Angeliq - EL MAKINON.mp3
-118:latino/HUGEL, Crusy, Jenn Morel, Joelii - KLK.mp3
-119:latino/Luar La L - Caile.mp3
-120:latino/Farruko, Victor Cardenas, Dj Adoni - El Incomprendido.mp3
-121:latino/Manuel Turizo - La Bachata.mp3
-122:latino/Yng Lvcas, Peso Pluma - La Bebe - Remix.mp3
-123:latino/HUGEL, Jude & Frank, Twolate - La candela viva.mp3
-124:latino/Alvaro Soler - La Cintura.mp3
-125:latino/John Summit - La Danza.mp3
-126:latino/Fabich - La Fiesta.mp3
-127:latino/Max Chapman - La Fiesta - Original Mix.mp3
-128:latino/Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka - La Jeepeta - Remix.mp3
-129:latino/La Ley - Mentira.mp3
-130:latino/AN3M, Till 3AM - La Luna.mp3
-131:latino/Jude & Frank, Totó La Momposina - La Luna.mp3
-132:latino/Michael Bibi - La Murga - Michael's Midnight Mix.mp3
-133:latino/Manuel Turizo, Rauw Alejandro, Myke Towers - La Nota.mp3
-134:latino/Zion & Lennox - La player (Bandolera).mp3
-135:latino/Jude & Frank, AtcG - La Tarde.mp3
-136:latino/Farruko - La Tóxica.mp3
-137:latino/Wisin & Yandel, ROSALÍA - Besos Moja2.mp3
-138:latino/Myke Towers - LALA.mp3
-139:latino/Omar Montes, Lola Indigo, Las Chuches - EL PANTALON - RUMBAS.mp3
-140:latino/Gregor Salto, Curio Capoeira - Para Voce.mp3
-141:latino/Will Kano, Olivia Sabates - Latina.mp3
-142:latino/Daddy Yankee, Bad Bunny - X ÚLTIMA VEZ.mp3
-143:latino/Gregor Salto, FIGHT CLVB - Lluvia en Colombia (feat. El Mayam).mp3
-144:latino/Heynegaard, LVGA - Lo Sé.mp3
-145:latino/Tainy - Lo Siento BB- (with Bad Bunny & Julieta Venegas).mp3
-146:latino/DJ Snake - Loco Contigo (with J. Balvin & Tyga).mp3
-147:latino/Rauw Alejandro, Lyanno, Brray - LOKERA.mp3
-148:latino/Wisin & Yandel, Romeo Santos - Aullando.mp3
-149:latino/MOONLGHT - Los Destellos.mp3
-150:latino/Los Legendarios, Wisin, Jhayco - Fiel.mp3
-151:latino/Joshwa - Magalenha.mp3
-152:latino/Simon Fava, Gregor Salto - Magalenha (feat. Sergio Mendes).mp3
-153:latino/Black Eyed Peas, Ozuna, J. Rey Soul - MAMACITA.mp3
-154:latino/Becky G, KAROL G - MAMIII.mp3
-155:latino/KAROL G, Shakira - TQG.mp3
-156:latino/KAROL G, Peso Pluma - QLONA.mp3
-157:latino/Westend - Maracuya.mp3
-158:latino/Zilka - Mariachi.mp3
-159:latino/HUGEL, Merk & Kremont, Lirico En La Casa - Marianela (Que Pasa).mp3
-160:latino/Alejandro Sanz - Corazón partío.mp3
-161:latino/R3HAB, Ryan Arnold - MAS GASOLINA (feat. N.F.I) - Raffa FL Remix.mp3
-162:latino/Boza - Hecha Pa' Mi.mp3
-163:latino/Anuel AA, Mambo Kingz, DJ Luian - Mas Rica Que Ayer.mp3
-164:latino/R.K.M & Ken-Y - Down.mp3
-165:latino/R.K.M & Ken-Y - Igual Que Ayer.mp3
-166:latino/Tom & Collins, Robbie Rivera - Me Duele feat. Cumbiafrica.mp3
-167:latino/Shakira, Anuel AA - Me Gusta.mp3
-168:latino/Sandgino, V_NCE - Me Gustas.mp3
-169:latino/Reik - Me Niego (feat. Ozuna & Wisin).mp3
-170:latino/Andrea Crocicchia, Lyon Monster - Me Paraliza.mp3
-171:latino/Enrique Iglesias - ME PASE (feat. Farruko).mp3
-172:latino/LiL CaKe, Migrantes, Nico Valdi - MERCHO.mp3
-173:latino/Wisin, Myke Towers, Los Legendarios - Mi Niña.mp3
-174:latino/Chino & Nacho - Niña Bonita - Remastered 2020.mp3
-175:latino/Jude & Frank, NRD1, Cumbiafrica - Moliendo Café.mp3
-176:latino/zzoilo, Aitana - Mon Amour - Remix.mp3
-177:latino/Mon Laferte - Tu Falta De Querer.mp3
-178:latino/Feid, Rema - BUBALU.mp3
-179:latino/Zion & Lennox - Otra vez (feat. J Balvin).mp3
-180:latino/Zion & Lennox - Yo Voy (feat. Daddy Yankee).mp3
-181:latino/Nicky Jam, Daddy Yankee - Muévelo.mp3
-182:latino/Tom Enzy - Nord Try.mp3
-183:latino/Rvssian, Rauw Alejandro, Chris Brown - Nostálgico.mp3
-184:latino/Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam - Te Boté - Remix.mp3
-185:latino/Tom & Collins, Thomas Newson, Kenny Brian - Nuestro Amigo.mp3
-186:latino/J Balvin, Bad Bunny - QUE PRETENDES.mp3
-187:latino/J Balvin, Bad Bunny - LA CANCIÓN.mp3
-188:latino/Gian Varela, Nenito Vargas - Oiga Morena.mp3
-189:latino/Jeanette - Frente a Frente.mp3
-190:latino/Jude & Frank, J8Man - Otra Vez.mp3
-191:latino/Lucky Francis - Oye Papi.mp3
-192:latino/Ozuna, Feid - Hey Mor.mp3
-193:latino/Sandgino - Pa Ca.mp3
-194:latino/HUGEL, Ryan Arnold, El Chuape - Pa Lante.mp3
-195:latino/Bebe - Ella.mp3
-196:latino/Bebe - Siempre me quedará.mp3
-197:latino/Bebe - Malo.mp3
-198:latino/Nicola Fasano, Salento Guys, Pippo Bravo - Papi Dale Duro - RKN Radio Edit.mp3
-199:latino/Maluma - Hawái.mp3
-200:latino/Maluma, Lenny Tavárez - Parce (feat. Justin Quiles).mp3
-201:latino/Jude & Frank, NIINE, Vadi - Paque.mp3
-202:latino/Mau y Ricky, Manuel Turizo, Camilo - Desconocidos.mp3
-203:latino/Celia Cruz - La Vida Es Un Carnaval.mp3
-204:latino/Gordo, Maluma - Parcera.mp3
-205:latino/Sebastian Yatra, Myke Towers - Pareja Del Año.mp3
-206:latino/Farruko - Pepas.mp3
-207:latino/Tiago PZK, Ke Personajes - Piel.mp3
-208:latino/Jay Wheeler, DJ Nelson, Myke Towers - La Curiosidad.mp3
-209:latino/Cali Y El Dandee, Juan Magán, Sebastian Yatra - Por Fin Te Encontré.mp3
-210:latino/Feid, J Balvin, Justin Quiles - PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix.mp3
-211:latino/Jeanette - ¿Porqué te vas.mp3
-212:latino/HUGEL, Jude & Frank - Pra Nao Dizer.mp3
-213:latino/CNCO - Reggaetón Lento (Bailemos).mp3
-214:latino/KAROL G - PROVENZA.mp3
-215:latino/Lavbbe, Costi - Pumping.mp3
-216:latino/J Balvin, Maria Becerra - Qué Más Pues.mp3
-217:latino/Calle 24, Chino Pacas, Fuerza Regida - Que Onda.mp3
-218:latino/Tom Enzy, Tambor Hembra, La Perla - Que Paso.mp3
-219:latino/Yandel - Te Suelto el Pelo.mp3
-220:latino/Sofía Reyes - R.I.P. (feat. Rita Ora & Anitta).mp3
-221:latino/Reik - Yo Quisiera.mp3
-222:latino/Sech, Daddy Yankee, J Balvin, ROSALÍA, Farruko - Relación - Remix.mp3
-223:latino/Yandel, Feid - Yandel 150.mp3
-224:latino/Sevdaliza - Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa).mp3
-225:latino/HUGEL, Jude & Frank, Paolo Pellegrino - Rio Rio (feat. Martina Camargo).mp3
-226:latino/Raffa Fl - Ritmo.mp3
-227:latino/Black Eyed Peas, J Balvin - RITMO (Bad Boys For Life).mp3
-228:latino/Raffa Fl - Ritmo - HUGEL Edit.mp3
-229:latino/Lidia Buble, Lenier - Robándote un beso.mp3
-230:latino/Héctor 'El Father', Wisin & Yandel - El Telefono.mp3
-231:latino/Camilo - Ropa Cara.mp3
-232:latino/ROSALÍA, Rauw Alejandro - BESO.mp3
-233:latino/Lele Pons - Se Te Nota (with Guaynaa).mp3
-234:latino/Tom & Collins - Se Va (feat. Cumbiafrica).mp3
-235:latino/Davy Music, Esteban Rojas - SECRETOS.mp3
-236:latino/Tom & Collins, Thomas Newson, PAVE - Serena.mp3
-237:latino/BLOND-ISH, Francis Mercier, Amadou & Mariam - Sete.mp3
-238:latino/Bizarrap - Shakira- Bzrp Music Sessions, Vol. 53.mp3
-239:latino/Reik, Farruko, Camilo - Si Me Dices Que Sí.mp3
-240:latino/Luis R Conriquez, Neton Vega - Si No Quieres No.mp3
-241:latino/Choujaa, Small ToK, Naama Tov - Siempre.mp3
-242:latino/Arcángel, Sech, Dímelo Flow - Sigues Con El.mp3
-243:latino/Kali Uchis - telepatía.mp3
-244:latino/Becky G, NATTI NATASHA - Sin Pijama.mp3
-245:latino/Dkuul, MuunIlusion - Sin Ti.mp3
-246:latino/Lucky Francis - Sinkalà.mp3
-247:latino/Feid - CHORRITO PA LAS ANIMAS.mp3
-248:latino/Alexis y Fido - 5 Letras.mp3
-249:latino/Bombai, Bebe - Solo Si Es Contigo.mp3
-250:latino/Susy G, Mejai, Carlo - Soltera.mp3
-251:latino/Gianluca Vacchi - Sombrerito Blanco (feat. Martina Camargo).mp3
-252:latino/Feid - SORRY 4 THAT MUCH.mp3
-253:latino/Axel North - SOY.mp3
-254:latino/Arcángel, Bad Bunny - La Jumpa.mp3
-255:latino/Mœnia - Ni Tú Ni Nadie.mp3
-256:latino/Enrique Iglesias, Descemer Bueno, Zion & Lennox - SUBEME LA RADIO.mp3
-257:latino/MYLØ, Zafra Negra - Sufriendo.mp3
-258:latino/L2O - Sun Tribe.mp3
-259:latino/DJ Snake - Taki Taki (with Selena Gomez, Ozuna & Cardi B).mp3
-260:latino/HUGEL, Lorna, Jenn Morel - Tamo Loco.mp3
-261:latino/Pablo Alborán - Dónde está el amor (feat. Jesse & Joy).mp3
-262:latino/Rauw Alejandro - Tattoo - Remix with Camilo.mp3
-263:latino/Shakira, Rauw Alejandro - Te Felicito.mp3
-264:latino/HUGEL, Damien N-Drix - Tengo ganas de ti.mp3
-265:latino/HÄWK, Max Niklas - Tequila.mp3
-266:latino/Tommy Trash, Dave Winnel - That Accordion Song.mp3
-267:latino/Pachira, Sam Baby, Steven Montoya - Rolex.mp3
-268:latino/Pachira, DAREV OFICIAL, Sam Baby - Ella.mp3
-269:latino/Zion - Zun Da Da.mp3
-270:latino/Ozuna - Tiempo.mp3
-271:latino/ROSALÍA - TKN (feat. Travis Scott).mp3
-272:latino/Rauw Alejandro - Todo De Ti.mp3
-273:latino/HUGEL, BLOND-ISH, Nfasis - Tra Tra.mp3
-274:latino/Sofi Tukker, Sunnery James & Ryan Marciano - TROMPA.mp3
-275:latino/San Pacho - Trompeta.mp3
-276:latino/KAROL G, Nicki Minaj - Tusa.mp3
-277:latino/J Balvin, Dua Lipa, Bad Bunny - UN DIA (ONE DAY) (Feat. Tainy).mp3
-278:latino/Juanes - A Dios Le Pido.mp3
-279:latino/Bad Bunny - Moscow Mule.mp3
-280:latino/Bad Bunny, Chencho Corleone - Me Porto Bonito.mp3
-281:latino/Bad Bunny - Tití Me Preguntó.mp3
-282:latino/Bad Bunny, Rauw Alejandro - Party.mp3
-283:latino/Bad Bunny, Bomba Estéreo - Ojitos Lindos.mp3
-284:latino/Cris Mj - Una Noche en Medellín.mp3
-285:latino/Camilo, Carin Leon - Una Vida Pasada.mp3
-286:latino/Tom & Collins, SUBB - Vai.mp3
-287:latino/Vintage Culture, Gilsons, KVSH - Várias Queixas - Radio Edit.mp3
-288:latino/Sinego - Verte Triste.mp3
-289:latino/Rauw Alejandro - Sexo Virtual.mp3
-290:latino/Rauw Alejandro, Chencho Corleone - Desesperados.mp3
-291:latino/Camilo - Vida de Rico.mp3
-292:latino/Gianluca Vacchi - Viento.mp3
-293:latino/Fer Muntz, Jfeel - Visa Pa Tu Cora.mp3
-294:latino/Carlos Vives, Shakira - La Bicicleta.mp3
-295:latino/Mora, Bad Bunny, Sech - Volando - Remix.mp3
-296:latino/Aventura, Bad Bunny - Volví.mp3
-297:latino/Gonzy, SAIKO, Arcángel - X'CLUSIVO - REMIX.mp3
-298:latino/Bad Bunny - Yo Perreo Sola.mp3
-299:latino/Bad Bunny, Jowell & Randy, Ñengo Flow - Safaera.mp3
-300:latino/Melendi - Tu jardín con enanitos.mp3
-301:latino/Bad Bunny - Yonaguni.mp3
+83:latino/Anitta - Envolver.mp3
+84:latino/Juan Dileju, Franz Kolo - Eres Tú.mp3
+85:latino/Bebe - Es por ti.mp3
+86:latino/Alvaro Soler - Sofia.mp3
+87:latino/Enrique Iglesias, Juan Luis Guerra 4.40 - Cuando Me Enamoro.mp3
+88:latino/Darell - Lollipop.mp3
+89:latino/Maná - Rayando el Sol.mp3
+90:latino/Rauw Alejandro, Farruko - Fantasias.mp3
+91:latino/Camilo - Favorito.mp3
+92:latino/Nicky Jam - El Perdón (with Enrique Iglesias).mp3
+93:latino/Feid, ATL Jacob - LUNA.mp3
+94:latino/Shakira - La Tortura (feat. Alejandro Sanz).mp3
+95:latino/Shakira - Dia de Enero.mp3
+96:latino/Enrique Iglesias, Myke Towers - TE FUISTE.mp3
+97:latino/La Quinta Estacion - El Sol No Regresa.mp3
+98:latino/Jun LP, Vel Garcia - Frente a Frente.mp3
+99:latino/TCTS, GotSome, Cumbiafrica - Fuego.mp3
+100:latino/FloyyMenor, Cris Mj - Gata Only.mp3
+101:latino/Spice - Go Down Deh (feat. Sean Paul & Shaggy).mp3
+102:latino/Aventura - Ella Y Yo - Featuring Don Omar.mp3
+103:latino/La Unión - Lobo-hombre en París.mp3
+104:latino/Costa Leon, DJ Cuervo - Gringada.mp3
+105:latino/Albert Neve, Abel Ramos - Guarachando.mp3
+106:latino/Tom & Collins - Hagüe.mp3
+107:latino/Aaron Noise, Erik Schievenin, Santiago & Carlitos - Hanima Nera.mp3
+108:latino/Natalia Lafourcade - Hasta la Raíz.mp3
+109:latino/Ash, Amelie Martinez - Historia De Un Amor.mp3
+110:latino/Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow - Hola - Remix.mp3
+111:latino/Hombres G - Devuélveme a mi chica.mp3
+112:latino/Gordo, Feid - Hombres y Mujeres.mp3
+113:latino/Paulo Londra - Adan y Eva.mp3
+114:latino/Plan B - Es un Secreto.mp3
+115:latino/J Balvin, Skrillex - In Da Getto.mp3
+116:latino/KAROL G, Mariah Angeliq - EL MAKINON.mp3
+117:latino/HUGEL, Crusy, Jenn Morel, Joelii - KLK.mp3
+118:latino/Luar La L - Caile.mp3
+119:latino/Farruko, Victor Cardenas, Dj Adoni - El Incomprendido.mp3
+120:latino/Manuel Turizo - La Bachata.mp3
+121:latino/Yng Lvcas, Peso Pluma - La Bebe - Remix.mp3
+122:latino/HUGEL, Jude & Frank, Twolate - La candela viva.mp3
+123:latino/Alvaro Soler - La Cintura.mp3
+124:latino/John Summit - La Danza.mp3
+125:latino/Fabich - La Fiesta.mp3
+126:latino/Max Chapman - La Fiesta - Original Mix.mp3
+127:latino/Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka - La Jeepeta - Remix.mp3
+128:latino/La Ley - Mentira.mp3
+129:latino/AN3M, Till 3AM - La Luna.mp3
+130:latino/Jude & Frank, Totó La Momposina - La Luna.mp3
+131:latino/Michael Bibi - La Murga - Michael's Midnight Mix.mp3
+132:latino/Manuel Turizo, Rauw Alejandro, Myke Towers - La Nota.mp3
+133:latino/Zion & Lennox - La player (Bandolera).mp3
+134:latino/Jude & Frank, AtcG - La Tarde.mp3
+135:latino/Farruko - La Tóxica.mp3
+136:latino/Wisin & Yandel, ROSALÍA - Besos Moja2.mp3
+137:latino/Myke Towers - LALA.mp3
+138:latino/Omar Montes, Lola Indigo, Las Chuches - EL PANTALON - RUMBAS.mp3
+139:latino/Gregor Salto, Curio Capoeira - Para Voce.mp3
+140:latino/Will Kano, Olivia Sabates - Latina.mp3
+141:latino/Daddy Yankee, Bad Bunny - X ÚLTIMA VEZ.mp3
+142:latino/Gregor Salto, FIGHT CLVB - Lluvia en Colombia (feat. El Mayam).mp3
+143:latino/Heynegaard, LVGA - Lo Sé.mp3
+144:latino/Tainy - Lo Siento BB- (with Bad Bunny & Julieta Venegas).mp3
+145:latino/DJ Snake - Loco Contigo (with J. Balvin & Tyga).mp3
+146:latino/Rauw Alejandro, Lyanno, Brray - LOKERA.mp3
+147:latino/Wisin & Yandel, Romeo Santos - Aullando.mp3
+148:latino/MOONLGHT - Los Destellos.mp3
+149:latino/Los Legendarios, Wisin, Jhayco - Fiel.mp3
+150:latino/Joshwa - Magalenha.mp3
+151:latino/Simon Fava, Gregor Salto - Magalenha (feat. Sergio Mendes).mp3
+152:latino/Black Eyed Peas, Ozuna, J. Rey Soul - MAMACITA.mp3
+153:latino/Becky G, KAROL G - MAMIII.mp3
+154:latino/KAROL G, Shakira - TQG.mp3
+155:latino/KAROL G, Peso Pluma - QLONA.mp3
+156:latino/Westend - Maracuya.mp3
+157:latino/Zilka - Mariachi.mp3
+158:latino/HUGEL, Merk & Kremont, Lirico En La Casa - Marianela (Que Pasa).mp3
+159:latino/Alejandro Sanz - Corazón partío.mp3
+160:latino/R3HAB, Ryan Arnold - MAS GASOLINA (feat. N.F.I) - Raffa FL Remix.mp3
+161:latino/Boza - Hecha Pa' Mi.mp3
+162:latino/Anuel AA, Mambo Kingz, DJ Luian - Mas Rica Que Ayer.mp3
+163:latino/R.K.M & Ken-Y - Down.mp3
+164:latino/R.K.M & Ken-Y - Igual Que Ayer.mp3
+165:latino/Tom & Collins, Robbie Rivera - Me Duele feat. Cumbiafrica.mp3
+166:latino/Shakira, Anuel AA - Me Gusta.mp3
+167:latino/Sandgino, V_NCE - Me Gustas.mp3
+168:latino/Reik - Me Niego (feat. Ozuna & Wisin).mp3
+169:latino/Andrea Crocicchia, Lyon Monster - Me Paraliza.mp3
+170:latino/Enrique Iglesias - ME PASE (feat. Farruko).mp3
+171:latino/LiL CaKe, Migrantes, Nico Valdi - MERCHO.mp3
+172:latino/Wisin, Myke Towers, Los Legendarios - Mi Niña.mp3
+173:latino/Chino & Nacho - Niña Bonita - Remastered 2020.mp3
+174:latino/Jude & Frank, NRD1, Cumbiafrica - Moliendo Café.mp3
+175:latino/zzoilo, Aitana - Mon Amour - Remix.mp3
+176:latino/Mon Laferte - Tu Falta De Querer.mp3
+177:latino/Feid, Rema - BUBALU.mp3
+178:latino/Zion & Lennox - Otra vez (feat. J Balvin).mp3
+179:latino/Zion & Lennox - Yo Voy (feat. Daddy Yankee).mp3
+180:latino/Nicky Jam, Daddy Yankee - Muévelo.mp3
+181:latino/Tom Enzy - Nord Try.mp3
+182:latino/Rvssian, Rauw Alejandro, Chris Brown - Nostálgico.mp3
+183:latino/Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam - Te Boté - Remix.mp3
+184:latino/Tom & Collins, Thomas Newson, Kenny Brian - Nuestro Amigo.mp3
+185:latino/J Balvin, Bad Bunny - QUE PRETENDES.mp3
+186:latino/J Balvin, Bad Bunny - LA CANCIÓN.mp3
+187:latino/Gian Varela, Nenito Vargas - Oiga Morena.mp3
+188:latino/Jeanette - Frente a Frente.mp3
+189:latino/Jude & Frank, J8Man - Otra Vez.mp3
+190:latino/Lucky Francis - Oye Papi.mp3
+191:latino/Ozuna, Feid - Hey Mor.mp3
+192:latino/Sandgino - Pa Ca.mp3
+193:latino/HUGEL, Ryan Arnold, El Chuape - Pa Lante.mp3
+194:latino/Bebe - Ella.mp3
+195:latino/Bebe - Siempre me quedará.mp3
+196:latino/Bebe - Malo.mp3
+197:latino/Nicola Fasano, Salento Guys, Pippo Bravo - Papi Dale Duro - RKN Radio Edit.mp3
+198:latino/Maluma - Hawái.mp3
+199:latino/Maluma, Lenny Tavárez - Parce (feat. Justin Quiles).mp3
+200:latino/Jude & Frank, NIINE, Vadi - Paque.mp3
+201:latino/Mau y Ricky, Manuel Turizo, Camilo - Desconocidos.mp3
+202:latino/Celia Cruz - La Vida Es Un Carnaval.mp3
+203:latino/Gordo, Maluma - Parcera.mp3
+204:latino/Sebastian Yatra, Myke Towers - Pareja Del Año.mp3
+205:latino/Farruko - Pepas.mp3
+206:latino/Tiago PZK, Ke Personajes - Piel.mp3
+207:latino/Jay Wheeler, DJ Nelson, Myke Towers - La Curiosidad.mp3
+208:latino/Cali Y El Dandee, Juan Magán, Sebastian Yatra - Por Fin Te Encontré.mp3
+209:latino/Feid, J Balvin, Justin Quiles - PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix.mp3
+210:latino/Jeanette - ¿Porqué te vas.mp3
+211:latino/HUGEL, Jude & Frank - Pra Nao Dizer.mp3
+212:latino/CNCO - Reggaetón Lento (Bailemos).mp3
+213:latino/Lavbbe, Costi - Pumping.mp3
+214:latino/J Balvin, Maria Becerra - Qué Más Pues.mp3
+215:latino/Calle 24, Chino Pacas, Fuerza Regida - Que Onda.mp3
+216:latino/Tom Enzy, Tambor Hembra, La Perla - Que Paso.mp3
+217:latino/Yandel - Te Suelto el Pelo.mp3
+218:latino/Sofía Reyes - R.I.P. (feat. Rita Ora & Anitta).mp3
+219:latino/Reik - Yo Quisiera.mp3
+220:latino/Sech, Daddy Yankee, J Balvin, ROSALÍA, Farruko - Relación - Remix.mp3
+221:latino/Yandel, Feid - Yandel 150.mp3
+222:latino/Sevdaliza - Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa).mp3
+223:latino/HUGEL, Jude & Frank, Paolo Pellegrino - Rio Rio (feat. Martina Camargo).mp3
+224:latino/Raffa Fl - Ritmo.mp3
+225:latino/Black Eyed Peas, J Balvin - RITMO (Bad Boys For Life).mp3
+226:latino/Raffa Fl - Ritmo - HUGEL Edit.mp3
+227:latino/Lidia Buble, Lenier - Robándote un beso.mp3
+228:latino/Héctor 'El Father', Wisin & Yandel - El Telefono.mp3
+229:latino/Camilo - Ropa Cara.mp3
+230:latino/ROSALÍA, Rauw Alejandro - BESO.mp3
+231:latino/Lele Pons - Se Te Nota (with Guaynaa).mp3
+232:latino/Tom & Collins - Se Va (feat. Cumbiafrica).mp3
+233:latino/Davy Music, Esteban Rojas - SECRETOS.mp3
+234:latino/Tom & Collins, Thomas Newson, PAVE - Serena.mp3
+235:latino/BLOND-ISH, Francis Mercier, Amadou & Mariam - Sete.mp3
+236:latino/Bizarrap - Shakira- Bzrp Music Sessions, Vol. 53.mp3
+237:latino/Reik, Farruko, Camilo - Si Me Dices Que Sí.mp3
+238:latino/Luis R Conriquez, Neton Vega - Si No Quieres No.mp3
+239:latino/Choujaa, Small ToK, Naama Tov - Siempre.mp3
+240:latino/Arcángel, Sech, Dímelo Flow - Sigues Con El.mp3
+241:latino/Kali Uchis - telepatía.mp3
+242:latino/Becky G, NATTI NATASHA - Sin Pijama.mp3
+243:latino/Dkuul, MuunIlusion - Sin Ti.mp3
+244:latino/Lucky Francis - Sinkalà.mp3
+245:latino/Alexis y Fido - 5 Letras.mp3
+246:latino/Bombai, Bebe - Solo Si Es Contigo.mp3
+247:latino/Susy G, Mejai, Carlo - Soltera.mp3
+248:latino/Gianluca Vacchi - Sombrerito Blanco (feat. Martina Camargo).mp3
+249:latino/Feid - SORRY 4 THAT MUCH.mp3
+250:latino/Axel North - SOY.mp3
+251:latino/Arcángel, Bad Bunny - La Jumpa.mp3
+252:latino/Mœnia - Ni Tú Ni Nadie.mp3
+253:latino/Enrique Iglesias, Descemer Bueno, Zion & Lennox - SUBEME LA RADIO.mp3
+254:latino/MYLØ, Zafra Negra - Sufriendo.mp3
+255:latino/L2O - Sun Tribe.mp3
+256:latino/DJ Snake - Taki Taki (with Selena Gomez, Ozuna & Cardi B).mp3
+257:latino/HUGEL, Lorna, Jenn Morel - Tamo Loco.mp3
+258:latino/Pablo Alborán - Dónde está el amor (feat. Jesse & Joy).mp3
+259:latino/Rauw Alejandro - Tattoo - Remix with Camilo.mp3
+260:latino/Shakira, Rauw Alejandro - Te Felicito.mp3
+261:latino/HUGEL, Damien N-Drix - Tengo ganas de ti.mp3
+262:latino/HÄWK, Max Niklas - Tequila.mp3
+263:latino/Tommy Trash, Dave Winnel - That Accordion Song.mp3
+264:latino/Pachira, Sam Baby, Steven Montoya - Rolex.mp3
+265:latino/Pachira, DAREV OFICIAL, Sam Baby - Ella.mp3
+266:latino/Zion - Zun Da Da.mp3
+267:latino/Ozuna - Tiempo.mp3
+268:latino/ROSALÍA - TKN (feat. Travis Scott).mp3
+269:latino/Rauw Alejandro - Todo De Ti.mp3
+270:latino/HUGEL, BLOND-ISH, Nfasis - Tra Tra.mp3
+271:latino/Sofi Tukker, Sunnery James & Ryan Marciano - TROMPA.mp3
+272:latino/San Pacho - Trompeta.mp3
+273:latino/KAROL G, Nicki Minaj - Tusa.mp3
+274:latino/J Balvin, Dua Lipa, Bad Bunny - UN DIA (ONE DAY) (Feat. Tainy).mp3
+275:latino/Juanes - A Dios Le Pido.mp3
+276:latino/Bad Bunny - Moscow Mule.mp3
+277:latino/Bad Bunny, Chencho Corleone - Me Porto Bonito.mp3
+278:latino/Bad Bunny - Tití Me Preguntó.mp3
+279:latino/Bad Bunny, Rauw Alejandro - Party.mp3
+280:latino/Bad Bunny, Bomba Estéreo - Ojitos Lindos.mp3
+281:latino/Cris Mj - Una Noche en Medellín.mp3
+282:latino/Camilo, Carin Leon - Una Vida Pasada.mp3
+283:latino/Tom & Collins, SUBB - Vai.mp3
+284:latino/Vintage Culture, Gilsons, KVSH - Várias Queixas - Radio Edit.mp3
+285:latino/Sinego - Verte Triste.mp3
+286:latino/Rauw Alejandro - Sexo Virtual.mp3
+287:latino/Rauw Alejandro, Chencho Corleone - Desesperados.mp3
+288:latino/Camilo - Vida de Rico.mp3
+289:latino/Gianluca Vacchi - Viento.mp3
+290:latino/Fer Muntz, Jfeel - Visa Pa Tu Cora.mp3
+291:latino/Carlos Vives, Shakira - La Bicicleta.mp3
+292:latino/Mora, Bad Bunny, Sech - Volando - Remix.mp3
+293:latino/Aventura, Bad Bunny - Volví.mp3
+294:latino/Gonzy, SAIKO, Arcángel - X'CLUSIVO - REMIX.mp3
+295:latino/Bad Bunny - Yo Perreo Sola.mp3
+296:latino/Bad Bunny, Jowell & Randy, Ñengo Flow - Safaera.mp3
+297:latino/Melendi - Tu jardín con enanitos.mp3
+298:latino/Bad Bunny - Yonaguni.mp3
 playlist_end

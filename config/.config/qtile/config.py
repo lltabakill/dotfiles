@@ -35,7 +35,6 @@ from libqtile import layout, bar, widget, hook, qtile
 from libqtile.config import Click, Drag, Group, Key, Match, Screen, Rule
 from libqtile.lazy import lazy
 from libqtile.widget import Spacer
-#import arcobattery
 
 wm_bar = "polybar"
 myBrowser = "brave"
@@ -45,10 +44,6 @@ mod = "mod4"
 mod1 = "alt"
 mod2 = "control"
 home = os.path.expanduser('~')
-
-#@lazy.function
-#def set_layout(layout):
-#    subprocess.call(['setxkbmap', layout])
 
 @lazy.function
 def window_to_prev_group(qtile):
@@ -66,9 +61,6 @@ keys = [
 
 # Most of our keybindings are in sxhkd file - except these
 # SUPER + FUNCTION KEYS
-    #Key([], "F1", lazy.function(set_layout, 'fr')),
-    #Key([], "F2", lazy.function(set_layout, 'us')),
-
     Key([], "F3", lazy.spawn("/home/nihil/.config/qtile/scripts/kb.sh"), desc='Web browser'),
     Key([], "F2", lazy.spawn("/home/nihil/Downloads/Rss-Link-Mpv.sh"), desc='Web browser'),
     Key([mod], "f", lazy.window.toggle_fullscreen()),
@@ -76,8 +68,6 @@ keys = [
     Key([mod], "b", lazy.spawn(myBrowser), desc='Web browser'),
     Key([mod, "shift"], "t", lazy.spawn("thunderbird"), desc='Mail Client'),
     Key([mod, "shift"], "j", lazy.spawn("flatpak run net.cozic.joplin_desktop"), desc='Notes'),
-    #Key([], "F1", lazy.spawn(term+" setxbmap us"), desc='Notes'),
-    #Key([], "F2", lazy.spawn(term+" -e htop"), desc='Process'),
     Key([mod], "s", lazy.spawn("rofi -show drun"), desc='Run Launcher'),
 # SUPER + SHIFT KEYS
 
@@ -150,18 +140,6 @@ keys = [
 # FLIP LAYOUT FOR MONADTALL/MONADWIDE
    # Key([mod, "shift"], "f", lazy.layout.flip()),
 
-# FLIP LAYOUT FOR BSP
-   # Key([mod, "mod1"], "k", lazy.layout.flip_up()),
-   # Key([mod, "mod1"], "j", lazy.layout.flip_down()),
-   # Key([mod, "mod1"], "l", lazy.layout.flip_right()),
-   # Key([mod, "mod1"], "h", lazy.layout.flip_left()),
-
-# MOVE WINDOWS UP OR DOWN BSP LAYOUT
-   # Key([mod, "shift"], "k", lazy.layout.shuffle_up()),
-   # Key([mod, "shift"], "j", lazy.layout.shuffle_down()),
-   # Key([mod, "shift"], "h", lazy.layout.shuffle_left()),
-   # Key([mod, "shift"], "l", lazy.layout.shuffle_right()),
-
 # MOVE WINDOWS UP OR DOWN MONADTALL/MONADWIDE LAYOUT
     Key([mod, "shift"], "Up", lazy.layout.shuffle_up()),
     Key([mod, "shift"], "Down", lazy.layout.shuffle_down()),
@@ -197,23 +175,15 @@ keys.extend([
 
 groups = []
 
-# FOR QWERTY KEYBOARDS
-#group_names = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0",]
-
 # FOR AZERTY KEYBOARDS
-#group_names = ["ampersand", "eacute", "quotedbl", "apostrophe", "parenleft", "section", "egrave", "exclam", "ccedilla", "agrave",]
-group_names = ["ampersand", "eacute", "quotedbl", "apostrophe", "parenleft",]
+group_names = ["ampersand", "eacute", "quotedbl", "apostrophe", "parenleft", "section", "egrave", "exclam", "ccedilla",]
 
-#group_labels = ["1 ", "2 ", "3 ", "4 ", "5 ", "6 ", "7 ", "8 ", "9 ", "0",]
-group_labels = ["1 ", "2 ", "3 ", "4 ", "5 ",]
+group_labels = ["1 ", "2 ", "3 ", "4 ", "5 ", "6 ", "7 ", "8 ", "9 ",]
 
 #group_labels = ["", "", "", "", "", "", "", "", "", "",]
-#group_labels = ["", "", "", "", "",]
 #group_labels = ["Web", "Edit/chat", "Image", "Gimp", "Meld", "Video", "Vb", "Files", "Mail", "Music",]
 
-#group_layouts = ["monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall",]
-group_layouts = ["monadtall", "max", "monadtall", "monadtall", "monadtall",]
-#group_layouts = ["monadtall", "matrix", "monadtall", "bsp", "monadtall", "matrix", "monadtall", "bsp", "monadtall", "monadtall",]
+group_layouts = ["monadtall", "max", "max", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall",]
 
 for i in range(len(group_names)):
     groups.append(
