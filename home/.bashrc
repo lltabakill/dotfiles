@@ -192,6 +192,7 @@ alias cat="bat"
 alias rm="trash-put"
 alias df='df -h'
 alias jctl="journalctl -p 3 -xb"
+alias ncdu="ncdu --color dark"
 
 bind '"\C-f":"zi\n"'
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
